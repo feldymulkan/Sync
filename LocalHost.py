@@ -5,7 +5,7 @@ import psutil
 
 class LocalHost(Host):
     def __init__(self, localFolder):
-        self.hostname = socket.gethostname()
+        self._hostname = socket.gethostname()
         self.localFolder = localFolder
     
     def getLocalFolder(self):

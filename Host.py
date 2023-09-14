@@ -28,14 +28,14 @@ class Host:
             print(f"Gagal membaca file {filename}: {str(e)}")
             return None
         
-host_info = Host.read_host_info("hostname.txt")
-if host_info:
-    hostname = host_info.get("hostname", "")
-    port = int(host_info.get("port",))
-    username = host_info.get("username", "")
-    password = host_info.get("password", "")
-    print(hostname)
-    print(port)
-    print(username)
-    print(password)
+# host_info = Host.read_host_info("hostname.txt")
+# if host_info:
+#     hostname = host_info.get("hostname", "")
+#     port = int(host_info.get("port",))
+#     username = host_info.get("username", "")
+#     password = host_info.get("password", "")
+#     print(hostname)
+#     print(port)
+#     print(username)
+#     print(password)
 
