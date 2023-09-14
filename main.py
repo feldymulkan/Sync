@@ -14,7 +14,6 @@ def main():
     # Mendapatkan dan mencetak daftar nama antarmuka
     interface_names = get_network_interfaces()
     lhost = LocalHost("")
-    
     print(f"Hostname : {lhost._hostname}")
     for name in interface_names:
         get_ip = lhost.getIp(name)

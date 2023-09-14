@@ -1,0 +1,4 @@
+hostname = "192.168.103.190"
+port = 22
+username = "osboxes"
+password = "osboxes.org"
