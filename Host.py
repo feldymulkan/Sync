@@ -1,6 +1,3 @@
-import os
-from ssh_manager import SSHManager
-
 class Host:
     def __init__(self, hostname, port, username, password, direktori):
         self.hostname = hostname
@@ -9,7 +6,8 @@ class Host:
         self.password = password
         self.direktori = direktori
 
-    def read_host_info(filename):
+    @classmethod
+    def read_host_info(cls, filename):
         try:
             with open(filename, "r") as file:
                 lines = file.readlines()
@@ -23,19 +21,15 @@ class Host:
                     value = parts[1].strip()
                     host_info[key] = value
 
-            return host_info
+            # Membaca nilai-nilai yang dibaca dari file dan membuat instance Host
+            return cls(
+                hostname=host_info.get("hostname"),
+                port=int(host_info.get("port")),
+                username=host_info.get("username"),
+                password=host_info.get("password"),
+                direktori=host_info.get("direktori")
+            )
         except Exception as e:
             print(f"Gagal membaca file {filename}: {str(e)}")
             return None
-        
-# host_info = Host.read_host_info("hostname.txt")
-# if host_info:
-#     hostname = host_info.get("hostname", "")
-#     port = int(host_info.get("port",))
-#     username = host_info.get("username", "")
-#     password = host_info.get("password", "")
-#     print(hostname)
-#     print(port)
-#     print(username)
-#     print(password)
 

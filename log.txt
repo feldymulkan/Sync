@@ -1,0 +1,31 @@
+[2023-09-16 14:34:17]Created folder on 192.168.1.13:/home/kali/server2/baru
+[2023-09-16 14:35:51]Copying file.txt to remote server
+[2023-09-16 15:21:51]Created folder on 192.168.1.13:/home/kali/server2/tes
+[2023-09-16 15:22:44]Created folder on 192.168.1.13:/home/kali/server2/free/erre
+[2023-09-16 15:26:48]Copying file.txt to remote server
+[2023-09-16 15:32:56]Created folder on 192.168.1.13:/home/kali/server2/tes
+[2023-09-16 15:33:48]Copying f.txt to remote server
+[2023-09-16 15:41:47]Copying f.txt to remote server
+[2023-09-16 15:41:47]Copying fel.txt to remote server
+[2023-09-16 15:42:43]Copying f.txt to remote server
+[2023-09-16 15:42:43]Copying fel.txt to remote server
+[2023-09-16 15:44:51]Copying f.txt to remote server
+[2023-09-16 15:44:51]Copying fel.txt to remote server
+[2023-09-16 15:47:22]Created folder on 192.168.1.13:/home/kali/server2
+[2023-09-16 15:47:31]Copying f.txt to remote server
+[2023-09-16 15:47:31]Copying fel.txt to remote server
+[2023-09-16 15:50:08]Created folder on 192.168.1.13:/home/kali/server2
+[2023-09-16 15:51:45]Created folder on 192.168.1.13:/home/kali/server2
+[2023-09-16 15:54:07]Created folder on 192.168.1.13:/home/kali/server2
+[2023-09-16 15:55:08]Created folder on 192.168.1.13:/home/kali/server2/fefe\
+[2023-09-16 15:56:38]Created folder on 192.168.1.13:/home/kali/server2/tes
+[2023-09-16 15:56:54]Copying free.txt to remote server
+[2023-09-16 15:58:11]Created folder on 192.168.1.13:/home/kali/server2/baru
+[2023-09-16 15:58:18]Copying feldy.txt to remote server
+[2023-09-16 16:06:49]Copying feldy.txt to remote server
+[2023-09-16 16:18:03]Created folder on 192.168.1.13:/home/kali/server2
+[2023-09-16 16:24:18]Created folder on 192.168.1.13:/home/kali/server2
+[2023-09-16 16:27:04]Created folder on 192.168.1.13:/home/kali/server2
+[2023-09-16 16:28:41]Created folder on 192.168.1.13:/home/kali/server2/server
+[2023-09-16 16:37:09]Created folder on 192.168.1.13:/home/kali/server2/home/cipeng/server1/folder
+[2023-09-16 16:37:53]Copying file.txt to remote server

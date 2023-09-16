@@ -32,12 +32,3 @@ class SSHManager:
 
     def close(self):
         self.client.close()
-
-# # Contoh penggunaan:
-# if __name__ == "__main__":
-#     ssh_manager = SSHManager('192.168.1.28', 22, 'osboxes', 'osboxes.org')
-#     remote_folder_path = '/home/osboxes/server2/'
-#     dirs = remote_folder_path.split('/')
-
-#     ssh_manager.create_folder(remote_folder_path+dirs[0])
-#     ssh_manager.close()

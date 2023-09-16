@@ -8,12 +8,15 @@ from Host import Host
 
 
 LOG = 'log.txt'
-local_folder = LocalHost.getLocalFolder
+# local_folder = LocalHost.getLocalFolder
 # # Folder lokal untuk sinkronisasi
-# local_folder1 = "/home/kali/server1"
+
+host_info = Host.read_host_info("hostname.txt")
+ssh_manager = SSHManager(host_info.hostname, host_info.port, host_info.username, host_info.password)
+observer = Observer()
 class MyHandler(FileSystemEventHandler):
-    def __init__(self, folder1, ssh_manager):
-        self.folder1 = folder1
+    def __init__(self, folderlocal, ssh_manager):
+        self.folderlocal = folderlocal
         self.ssh_manager = ssh_manager
         self.total_files_sent = 0
         self.total_bytes_sent = 0
@@ -37,7 +40,7 @@ class MyHandler(FileSystemEventHandler):
         newfolder_parts= []
         start_adding = False
         for dir_part in dirs:
-            if dir_part == os.path.basename(local_folder):
+            if dir_part == os.path.basename(self.folderlocal):
                 start_adding = True
             elif start_adding:
                 newfolder_parts.append(dir_part)
@@ -45,22 +48,22 @@ class MyHandler(FileSystemEventHandler):
         return new_folder_fix
         
     def on_created(self, event):
-        remote_folder = "/home/osboxes/server2/"
-        listFolder1 = os.listdir(self.folder1)
+        listFolderlocal = os.listdir(self.folderlocal)
+        folder = event.src_path
+        define_folder = self.folder_enum(folder, host_info.direktori)
         if event.is_directory:
-            print(f"Directory created: {event.src_path}")
-            folder = event.src_path
-            define_folder = self.folder_enum(folder, remote_folder)
+            print(f"Directory created: {folder}")
             ssh_manager.create_folder(define_folder)
+            self.log(f"Created folder on {host_info.hostname}:{define_folder}")
         else:
-            print(f"File created: {event.src_path}")
-            for item in listFolder1:
-                folder1Item = os.path.join(self.folder1, item)
-                if os.path.isfile(folder1Item):
+            print(f"File created: {folder}")
+            for item in listFolderlocal:
+                folderLocalItem = os.path.join(self.folderlocal, item)
+                if os.path.isfile(folderLocalItem):
                     # start_time = time.time()
                     self.log(f"Copying {item} to remote server")
-                    remote_path = os.path.join(remote_folder, item)
-                    self.ssh_manager.send_file(folder1Item, remote_path)
+                    remote_path = os.path.join(host_info.direktori, item)
+                    self.ssh_manager.send_file(folderLocalItem, remote_path)
                     # end_time = time.time()
 
                     # # Menghitung response time
@@ -92,36 +95,6 @@ class MyHandler(FileSystemEventHandler):
                     #     self.log("Data Loss: Yes")
 
                     # self.total_files_sent += 1
-
-host_info = Host.read_host_info("hostname.txt")
-if host_info:
-    hostname = host_info.get("hostname", "")
-    port = int(host_info.get("port",))
-    username = host_info.get("username", "")
-    password = host_info.get("password", "")
-    print(hostname)
-    print(port)
-    print(username)
-    print(password)
-
-# Inisialisasi SSHManager
-ssh_manager = SSHManager(hostname, port, username, password)
-
-event_handler = MyHandler(ssh_manager)
-observer = Observer()
-observer.schedule(event_handler, path=local_folder, recursive=True)
-observer.start()
-
-try:
-    while True:
-        time.sleep(1)
-except KeyboardInterrupt:
-    observer.stop()
-
-observer.join()
-
-# Tutup koneksi SSH setelah selesai
-ssh_manager.close()
 
 # Menampilkan hasil pengukuran
 # print("Total Files Sent:", event_handler.total_files_sent)

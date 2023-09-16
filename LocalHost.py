@@ -10,17 +10,13 @@ class LocalHost(Host):
     
     def getLocalFolder(self):
         return self.localFolder
+    
+    def getHostName(self):
+        return self._hostname
 
-    def getIp(self, interface_name):
-        try:
-            addrs = psutil.net_if_addrs()
-            if interface_name in addrs:
-                ip_address = addrs[interface_name][0].address
-                return ip_address
-            else:
-                return None
-        except Exception as e:
-            print(f"Terjadi kesalahan: {e}")
-            return None
+    def setLocalFolder(self, value):
+        self.localFolder = value
+
+
 
 
