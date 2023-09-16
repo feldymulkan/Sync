@@ -104,10 +104,6 @@ if host_info:
     print(username)
     print(password)
 
-hostname = "192.168.103.190"
-port = 22
-username = "osboxes"
-password = "osboxes.org"
 # Inisialisasi SSHManager
 ssh_manager = SSHManager(hostname, port, username, password)
 
