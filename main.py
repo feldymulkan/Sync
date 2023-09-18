@@ -47,7 +47,8 @@ def main():
         get_ip = getIp(name)
         print(f"interfaces {name} : {get_ip}")
     
-    local_direktori = input("Masukkan direktori anda : ")
+    # local_direktori = input("Masukkan direktori anda : ")
+    local_direktori = "/home/cipeng/server1"
     lhost.setLocalFolder(local_direktori)
     lhost_direktori = lhost.getLocalFolder()
     print (lhost_direktori)

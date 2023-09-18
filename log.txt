@@ -29,3 +29,34 @@
 [2023-09-16 16:28:41]Created folder on 192.168.1.13:/home/kali/server2/server
 [2023-09-16 16:37:09]Created folder on 192.168.1.13:/home/kali/server2/home/cipeng/server1/folder
 [2023-09-16 16:37:53]Copying file.txt to remote server
+[2023-09-18 14:29:59]Copying file.txt to remote server
+[2023-09-18 14:31:52]Copying file_new.txt to remote server
+[2023-09-18 14:31:52]Copying file.txt to remote server
+[2023-09-18 14:32:19]Created folder on 192.168.1.13:/home/kali/server2/Feldy
+[2023-09-18 14:40:06]Created folder on 192.168.1.13:/home/kali/server2/baru
+[2023-09-18 14:40:35]Copying free.py to remote server
+[2023-09-18 14:40:35]Copying file_new.txt to remote server
+[2023-09-18 14:40:35]Copying file.txt to remote server
+[2023-09-18 14:40:59]Copying free.py to remote server
+[2023-09-18 14:40:59]Copying file_new.txt to remote server
+[2023-09-18 14:40:59]Copying file.txt to remote server
+[2023-09-18 14:41:31]Copying free.py to remote server
+[2023-09-18 14:41:31]Copying file_new.txt to remote server
+[2023-09-18 14:41:31]Copying file.txt to remote server
+[2023-09-18 14:49:25]Copying free.py to remote server
+[2023-09-18 14:49:25]Copying file_new.txt to remote server
+[2023-09-18 14:49:25]Copying file.txt to remote server
+[2023-09-18 14:50:20]Copying free.py to remote server
+[2023-09-18 14:50:20]Copying file_new.txt to remote server
+[2023-09-18 14:50:20]Copying file.txt to remote server
+[2023-09-18 14:50:20]Copying mosue.py to remote server
+[2023-09-18 14:52:56]Created folder on 192.168.1.13:/home/kali/server2/feldy
+[2023-09-18 14:53:07]Copying feldy.txt to remote server
+[2023-09-18 14:53:32]Copying feldy.txt to remote server
+[2023-09-18 14:53:58]Copying feldy.txt to remote server
+[2023-09-18 14:55:00]Copying feldy.txt to remote server
+[2023-09-18 14:58:29]Created folder on 192.168.1.13:/home/kali/server2/feldy
+[2023-09-18 15:01:27]Created folder on 192.168.1.13:/home/kali/server2/feldy
+[2023-09-18 15:02:55]Created folder on 192.168.1.13:/home/kali/server2/rere
+[2023-09-18 15:30:30]Created folder on 192.168.1.13:/home/kali/server2/feldy
+[2023-09-18 15:36:59]Created folder on 192.168.1.13:/home/kali/server2/feldy

@@ -48,22 +48,23 @@ class MyHandler(FileSystemEventHandler):
         return new_folder_fix
         
     def on_created(self, event):
-        listFolderlocal = os.listdir(self.folderlocal)
-        folder = event.src_path
-        define_folder = self.folder_enum(folder, host_info.direktori)
-        if event.is_directory:
-            print(f"Directory created: {folder}")
-            ssh_manager.create_folder(define_folder)
-            self.log(f"Created folder on {host_info.hostname}:{define_folder}")
-        else:
-            print(f"File created: {folder}")
-            for item in listFolderlocal:
-                folderLocalItem = os.path.join(self.folderlocal, item)
-                if os.path.isfile(folderLocalItem):
-                    # start_time = time.time()
-                    self.log(f"Copying {item} to remote server")
-                    remote_path = os.path.join(host_info.direktori, item)
-                    self.ssh_manager.send_file(folderLocalItem, remote_path)
+        try:
+            # listFolderlocal = os.listdir(self.folderlocal)
+            folder = event.src_path
+            define_folder = self.folder_enum(folder, host_info.direktori)
+            if event.is_directory:
+                print(f"Directory created: {folder}")
+                ssh_manager.create_folder(define_folder)
+                self.log(f"Created folder on {host_info.hostname}:{define_folder}")
+            else:
+                print(f"File created: {folder}")
+                folderFile = os.path.dirname(folder)
+                defFolder = self.folder_enum(folderFile, host_info.direktori)
+                print(defFolder)
+                ujung = os.path.basename(folder)
+                print(os.path.join(defFolder, ujung))
+        except Exception as e:
+            print(f"Error: {str(e)}")
                     # end_time = time.time()
 
                     # # Menghitung response time
