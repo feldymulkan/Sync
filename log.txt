@@ -94,3 +94,134 @@
 [2023-09-19 14:36:39]Created file on 192.168.1.13:/home/kali/server2/2023-06-22 13-29-58.mkv
 [2023-09-19 14:36:55]Deleted file on 192.168.1.13:/home/kali/server2/2023-06-22 13-29-58.mkv
 [2023-09-19 14:37:45]Created file on 192.168.1.13:/home/kali/server2/Feldy/TranskripNilai_FeldyNovandaMulkan.pdf
+[2023-09-19 14:39:36]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/job.docx
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/job.docx
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/K17_P2_ASIST3.docx
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2Lengkap-Buku.drawio(1).png
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2Lengkap(3).drawio
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3_K16_Assis1-1.pdf
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/17_F1B019055-1.pdf
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/jobsheet p7.pdf
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P5-Page-1-Page-2.drawio.png
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P5-Page-1-Page-1.drawio.png
+[2023-09-19 14:39:36]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3 -Analisa script.doc
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/K1_Modul 3 - Asis 1.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Modul 5 Rekursif.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P5-Page-2.drawio.png
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Untitled Diagram.drawio
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Main.java
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P5-Page-1.drawio.png
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4_K17_Jobsheet_FeldyNovandaMulkan_F1B019055.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3 K2 Asis 1.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3_K16_Assis1.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2Lengkap.drawio
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/K17_P2_ASIST 1.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P1 dasteo-dapus.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P5 Rekursif - Kelompok 15 asis 1.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Modul 5 Rekursif Analisa.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Modul 5 Rekursif Analisa.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/M. Andre Sopian Vikta _F1B019086_Klp 15_Jobesheet P7.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Jadwal dan kelompok prak. ALGODAT.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/2023-06-09 23-45-15.mkv
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/17_F1B019055.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/jobsit.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7_K17_FeldyNovandaMulkan_F1B019055.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/studi kasus P2.txt
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Kelompok 9_P3_Asis 1.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P1_K17_ALGODAT.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Asis 1_P3_K11.pdf
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/p3.drawio
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/p3.drawio.png
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3 -SudahAnalisa script.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/SK P7 KLP 15.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/SK P7 KLP 15(1).docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2Lengkap(2).drawio
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2Lengkap(1).drawio
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/15_F1B019005.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/15_F1B019005(1).docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/K17_P5_Asis2.docx
+[2023-09-19 14:39:37]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/2023-06-09 23-51-50.mkv
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/2023-06-09 23-59-02.mkv
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2 dasteo analisa.docx
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2.drawio
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2.drawio.png
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P1(1).docx
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P1 dasteo.docx
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P1.docx
+[2023-09-19 14:39:38]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/Respon
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Respon/Main.java
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/Respon/Main.java
+[2023-09-19 14:39:38]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/ResponP1
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/ResponP1/Main.java
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/ResponP1/Main.java
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/ResponP1/Antrian.java
+[2023-09-19 14:39:38]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7
+[2023-09-19 14:39:38]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7/StudiKasus
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7/StudiKasus/Graph.java
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7/StudiKasus/Graph.java
+[2023-09-19 14:39:38]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7/Jobsheet
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7/Jobsheet1.java
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7/Jobsheet2.java
+[2023-09-19 14:39:38]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7/Jobsheet4.java
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7/.vscode
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7/.vscode/settings.json
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P7/Jobsheet3.java
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Double_linked_list.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Main.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/tes.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/DoubleCircularLinkedList.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Node.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/circular_linkedlist.java
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Main.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Main.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Contoh.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/CustomArrayList.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Stack.java
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas2
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas2/Main.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas2/CustomArrayList.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas2/Stack.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Buku.java
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tes
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tes/CustomArrayList.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tes/Stack.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tes/Tumpukan.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tes/Main.java
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas1
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas1/CustomArrayList.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas1/CustomArrayList.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas1/Stack.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas1/Main.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tumpukan.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/stackkfdf.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/P2(sOURCE CODE).zip
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P5
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P5/Main.java
+[2023-09-19 14:39:39]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P3
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3/mogfgf.java
+[2023-09-19 14:39:39]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3/Antrian.java
+[2023-09-19 14:39:40]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P3/.vscode
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3/.vscode/settings.json
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3/AntrianServisMotor.java
+[2023-09-19 14:39:40]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P3/Respon
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3/Respon/Antrian.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3/Respon/Main.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P3/Respon/Main.java
+[2023-09-19 14:39:40]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P4
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Respon.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Permasalahan1.java
+[2023-09-19 14:39:40]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet/QuickSort.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet/QuickSort.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet/InsertionSort.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet/SelectionSort.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet/BubbleSort.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet/SequentialSearch.java
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet/BinarySearch.java
+[2023-09-19 14:39:40]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P6
+[2023-09-19 14:39:40]Created file on 192.168.1.13:/home/kali/server2/ALGODAT/P6/Respon.java
+[2023-09-19 14:40:01]Deleted folder on 192.168.1.13:/home/kali/server2/Feldy
+[2023-09-19 14:40:01]Deleted folder on 192.168.1.13:/home/kali/server2/ALGODAT
