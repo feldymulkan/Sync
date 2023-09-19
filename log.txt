@@ -60,3 +60,37 @@
 [2023-09-18 15:02:55]Created folder on 192.168.1.13:/home/kali/server2/rere
 [2023-09-18 15:30:30]Created folder on 192.168.1.13:/home/kali/server2/feldy
 [2023-09-18 15:36:59]Created folder on 192.168.1.13:/home/kali/server2/feldy
+[2023-09-19 13:38:16]Created folder on 192.168.1.13:/home/kali/server2/dede
+[2023-09-19 13:40:52]Created folder on 192.168.1.13:/home/kali/server2/feldy/rese
+[2023-09-19 13:47:49]Created folder on 192.168.1.13:/home/kali/server2/Feldy
+[2023-09-19 13:50:22]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT
+[2023-09-19 13:50:23]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/Respon
+[2023-09-19 13:50:23]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/ResponP1
+[2023-09-19 13:50:23]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7
+[2023-09-19 13:50:23]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7/StudiKasus
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7/Jobsheet
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P7/.vscode
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas2
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tes
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P2/Jobsheet/Tugas1
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P5
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P3
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P3/.vscode
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P3/Respon
+[2023-09-19 13:50:24]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P4
+[2023-09-19 13:50:25]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P4/Jobsheet
+[2023-09-19 13:50:25]Created folder on 192.168.1.13:/home/kali/server2/ALGODAT/P6
+[2023-09-19 13:55:14]Created folder on 192.168.1.13:/home/kali/server2/Feldy/P5
+[2023-09-19 14:34:29]Created folder on 192.168.1.13:/home/kali/server2/Feldy
+[2023-09-19 14:34:45]Created folder on 192.168.1.13:/home/kali/server2/Feldy/Feldydede
+[2023-09-19 14:35:00]Created file on 192.168.1.13:/home/kali/server2/Feldy/tes.py
+[2023-09-19 14:35:00]Created file on 192.168.1.13:/home/kali/server2/Feldy/IMG_85jpg.jpg
+[2023-09-19 14:35:14]Deleted file on 192.168.1.13:/home/kali/server2/Feldy/tes.py
+[2023-09-19 14:35:21]Deleted file on 192.168.1.13:/home/kali/server2/Feldy/IMG_85jpg.jpg
+[2023-09-19 14:35:36]Created file on 192.168.1.13:/home/kali/server2/2023-06-22 13-29-58.mkv
+[2023-09-19 14:36:30]Deleted file on 192.168.1.13:/home/kali/server2/2023-06-22 13-29-58.mkv
+[2023-09-19 14:36:39]Created file on 192.168.1.13:/home/kali/server2/2023-06-22 13-29-58.mkv
+[2023-09-19 14:36:55]Deleted file on 192.168.1.13:/home/kali/server2/2023-06-22 13-29-58.mkv
+[2023-09-19 14:37:45]Created file on 192.168.1.13:/home/kali/server2/Feldy/TranskripNilai_FeldyNovandaMulkan.pdf
