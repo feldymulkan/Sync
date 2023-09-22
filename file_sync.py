@@ -4,11 +4,10 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from ssh_manager import SSHManager
 from Host import Host
+from compare.compare import calculate_md5, compare_files
 
 
 LOG = 'log.txt'
-# local_folder = LocalHost.getLocalFolder
-# # Folder lokal untuk sinkronisasi
 
 host_info = Host.read_host_info("hostname.txt")
 ssh_manager = SSHManager(host_info.hostname, host_info.port, host_info.username, host_info.password)
@@ -54,6 +53,26 @@ class MyHandler(FileSystemEventHandler):
         except Exception as e:
             print(f"Error: {str(e)}")
 
+    def on_modified(self, event):
+        try:
+            path = event.src_path
+            remote_path = self.folder_enum(path, host_info.direktori)
+
+            if event.is_directory:
+                print(f"Directory modified: {path}")
+                # You can add your logic here for handling modified directories, if needed.
+            else:
+                print(f"File modified: {path}")
+                folderFile = os.path.dirname(path)
+                defFolder = self.folder_enum(folderFile, host_info.direktori)
+                ujung = os.path.basename(path)
+                full_path = os.path.join(defFolder, ujung)
+                if ssh_manager.file_exists(full_path):
+                    ssh_manager.send_file(path, full_path, overwrite=True)
+                    self.log(f"Overwritten file on {host_info.hostname}:{full_path}")
+        except Exception as e:
+            print(f"Error: {str(e)}")
+
     def on_created(self, event):
         try:
             folder = event.src_path
@@ -72,38 +91,3 @@ class MyHandler(FileSystemEventHandler):
                 self.log(f"Created file on {host_info.hostname}:{full_path}")
         except Exception as e:
             print(f"Error: {str(e)}")
-                    # end_time = time.time()
-
-                    # # Menghitung response time
-                    # response_time = end_time - start_time
-                    # self.log(f"Response Time: {response_time:.4f} seconds")
-
-                    # # Menghitung throughput (asumsi data yang dikirim dalam bytes)
-                    # file_size = os.path.getsize(folder1Item)
-                    # self.total_bytes_sent += file_size
-                    # throughput = file_size / response_time
-                    # self.log(f"Throughput: {throughput:.2f} bytes/s")
-
-                    # # Menghitung kecepatan transfer (dalam MB/s)
-                    # transfer_speed = throughput / (1024 * 1024)
-                    # self.log(f"Transfer Speed: {transfer_speed:.2f} MB/s")
-
-                    # # Menghitung data loss
-                    # original_file_path = os.path.join(self.folder1, item)
-                    # with open(original_file_path, 'rb') as original_file:
-                    #     original_data = original_file.read()
-
-                    # remote_file_path = os.path.join("/home/osboxes/server2", item)
-                    # with self.ssh_manager.client.open_sftp().file(remote_file_path, 'rb') as remote_file:
-                    #     remote_data = remote_file.read()
-
-                    # if original_data == remote_data:
-                    #     self.log("Data Loss: No")
-                    # else:
-                    #     self.log("Data Loss: Yes")
-
-                    # self.total_files_sent += 1
-
-# Menampilkan hasil pengukuran
-# print("Total Files Sent:", event_handler.total_files_sent)
-# print("Total Bytes Sent:", event_handler.total_bytes_sent)

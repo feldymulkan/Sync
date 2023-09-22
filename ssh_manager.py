@@ -70,12 +70,19 @@ class SSHManager:
             else:
                 error_message = stderr.read().decode()
                 print(f"Failed to create folder on {self.hostname}:{remote_path}: {error_message}")
-        
         except paramiko.SSHException as e:
             print(f"SSH Error: {str(e)}")
         except Exception as e:
             print(f"Error: {str(e)}")
 
+    def file_exists(self, remote_path):
+        try:
+            # Use the SSHManager to check if the file exists on the remote server
+            self.ssh_manager.client.stat(remote_path)
+            return True
+        except Exception as e:
+            # If an exception is raised, it means the file does not exist
+            return False
 
     def close(self):
         self.client.close()

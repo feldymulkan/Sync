@@ -1,7 +1,7 @@
 import socket
 import os
 import time
-from LocalHost import LocalHost
+from Host.LocalHost import LocalHost
 import os
 import psutil
 from file_sync import MyHandler, ssh_manager, observer
