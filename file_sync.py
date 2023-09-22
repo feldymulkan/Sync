@@ -4,7 +4,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from ssh_manager import SSHManager
 from Host import Host
-from compare.compare import calculate_md5, compare_files
+from Compare.compare import calculate_md5, compare_files
 
 
 LOG = 'log.txt'
