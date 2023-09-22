@@ -1,7 +1,6 @@
-import os
+
 import socket
 from Host import Host
-import psutil
 
 class LocalHost(Host):
     def __init__(self, localFolder):

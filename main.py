@@ -4,7 +4,7 @@ import time
 from Host.LocalHost import LocalHost
 import os
 import psutil
-from file_sync import MyHandler, ssh_manager, observer
+from Synchronization.file_sync import MyHandler, ssh_manager, observer
 
 def cetak():
     artwork = """

@@ -2,10 +2,9 @@ import time
 import os
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
-from ssh_manager import SSHManager
-from Host import Host
-from Compare.compare import calculate_md5, compare_files
-
+from SSH.ssh_manager import SSHManager
+from Host.Host import Host
+from Compare.compare import compare_files
 
 LOG = 'log.txt'
 
