@@ -1,8 +1,7 @@
-
 import socket
-from Host import Host
+from Host.host import host
 
-class LocalHost(Host):
+class localhost(host):
     def __init__(self, localFolder):
         self._hostname = socket.gethostname()
         self.localFolder = localFolder

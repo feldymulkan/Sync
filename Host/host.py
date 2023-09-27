@@ -1,4 +1,4 @@
-class Host:
+class host:
     def __init__(self, hostname, port, username, password, direktori):
         self.hostname = hostname
         self.port = port

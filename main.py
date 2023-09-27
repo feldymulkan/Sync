@@ -1,10 +1,8 @@
-import socket
 import os
 import time
-from Host.LocalHost import LocalHost
-import os
+from Host.localhost import localhost
 import psutil
-from Synchronization.file_sync import MyHandler, ssh_manager, observer
+from file_sync import MyHandler, ssh_manager, observer
 
 def cetak():
     artwork = """
@@ -39,7 +37,7 @@ def getIp(interface_name):
 def main():
     # Mendapatkan dan mencetak daftar nama antarmuka
     interface_names = get_network_interfaces()
-    lhost = LocalHost("")
+    lhost = localhost("")
     cetak()
     print("Welcome to file synhcronization")
     print(f"Hostname : {lhost.getHostName()}")

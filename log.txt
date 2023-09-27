@@ -519,3 +519,5 @@
 [2023-09-22 11:13:12]Deleted file on 192.168.1.13:/home/kali/server2/file.txt
 [2023-09-22 12:10:48]Created file on 192.168.1.13:/home/kali/server2/file.txt
 [2023-09-22 12:11:12]Created file on 192.168.1.13:/home/kali/server2/.goutputstream-XLZJB2
+[2023-09-28 00:32:21]Created folder on 192.168.170.109:/home/kali/server2/fel
+[2023-09-28 01:16:21]Created file on 192.168.170.109:/home/kali/server2/free.txt

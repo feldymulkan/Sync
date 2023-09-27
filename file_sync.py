@@ -3,12 +3,12 @@ import os
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from SSH.ssh_manager import SSHManager
-from Host.Host import Host
+from Host.host import host
 from Compare.compare import compare_files
 
 LOG = 'log.txt'
 
-host_info = Host.read_host_info("hostname.txt")
+host_info = host.read_host_info("hostname.txt")
 ssh_manager = SSHManager(host_info.hostname, host_info.port, host_info.username, host_info.password)
 observer = Observer()
 class MyHandler(FileSystemEventHandler):
@@ -55,8 +55,6 @@ class MyHandler(FileSystemEventHandler):
     def on_modified(self, event):
         try:
             path = event.src_path
-            remote_path = self.folder_enum(path, host_info.direktori)
-
             if event.is_directory:
                 print(f"Directory modified: {path}")
                 # You can add your logic here for handling modified directories, if needed.
