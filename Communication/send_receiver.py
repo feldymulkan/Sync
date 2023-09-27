@@ -24,4 +24,3 @@ def receive_directory(server_address):
         s.close()
 
 
-

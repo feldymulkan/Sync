@@ -75,6 +75,17 @@ class SSHManager:
         except Exception as e:
             print(f"Error: {str(e)}")
 
+    def rename_folder(self, src_path, dest_path):
+        if not self.client:
+            self.connect()
+
+        try:
+            sftp = self.client.open_sftp()
+            sftp.rename(src_path, dest_path)
+            sftp.close()
+        except Exception as e:
+            print(f"Error renaming folder: {str(e)}")
+
     def file_exists(self, remote_path):
         try:
             # Use the SSHManager to check if the file exists on the remote server
