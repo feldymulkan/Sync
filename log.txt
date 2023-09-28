@@ -626,3 +626,134 @@
 [2023-09-28 04:37:15]Deleted file on 192.168.170.109:/home/kali/server2/feldy
 [2023-09-28 04:38:33]Created folder on 192.168.170.109:/home/kali/server2/feldygagah
 [2023-09-28 04:38:39]Deleted folder on 192.168.170.109:/home/kali/server2/feldygagah
+[2023-09-28 14:41:34]Created folder on 192.168.1.55:/home/kali/server2/Feldy
+[2023-09-28 14:42:06]Created file on 192.168.1.55:/home/kali/server2/Selvi/file.txt
+[2023-09-28 14:43:59]Created file on 192.168.1.55:/home/kali/server2/Selvi/.goutputstream-DOGCC2
+[2023-09-28 14:44:38]Created file on 192.168.1.55:/home/kali/server2/Selvi/.goutputstream-NP4WB2
+[2023-09-28 14:56:30]Created file on 192.168.1.55:/home/kali/server2/file.txt
+[2023-09-28 14:56:56]Created file on 192.168.1.55:/home/kali/server2/.goutputstream-ZS15B2
+[2023-09-28 14:58:43]Created file on 192.168.1.55:/home/kali/server2/.goutputstream-8QESB2
+[2023-09-28 14:59:29]Created file on 192.168.1.55:/home/kali/server2/.goutputstream-HC6SB2
+[2023-09-28 14:59:54]Created file on 192.168.1.55:/home/kali/server2/.goutputstream-0IIXB2
+[2023-09-28 15:00:48]Created file on 192.168.1.55:/home/kali/server2/tes.py
+[2023-09-28 15:02:14]Created folder on 192.168.1.55:/home/kali/server2/Downloads
+[2023-09-28 15:02:14]Created file on 192.168.1.55:/home/kali/server2/Downloads/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2023-09-28 15:02:15]Created file on 192.168.1.55:/home/kali/server2/Downloads/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2023-09-28 15:02:24]Created file on 192.168.1.55:/home/kali/server2/Downloads/PRE-COURSE CS.pdf
+[2023-09-28 15:02:24]Created file on 192.168.1.55:/home/kali/server2/Downloads/21.04.2872_jurnal_eproc.pdf
+[2023-09-28 15:02:40]Created file on 192.168.1.55:/home/kali/server2/Downloads/ONBOARDING SAT 23092023.pdf
+[2023-09-28 15:02:40]Created file on 192.168.1.55:/home/kali/server2/Downloads/codingstudio.jpeg
+[2023-09-28 15:02:40]Created file on 192.168.1.55:/home/kali/server2/Downloads/Silabus_CCNA Network Engineer-1.pdf
+[2023-09-28 15:02:41]Created file on 192.168.1.55:/home/kali/server2/Downloads/tcpproxy(1).zip
+[2023-09-28 15:02:41]Created file on 192.168.1.55:/home/kali/server2/Downloads/2-Article Text-1-1-10-20191112.pdf
+[2023-09-28 15:02:42]Created file on 192.168.1.55:/home/kali/server2/Downloads/21.04.2872_jurnal_eproc(1).pdf
+[2023-09-28 15:02:49]Created file on 192.168.1.55:/home/kali/server2/Downloads/Universitas Mataram.pdf
+[2023-09-28 15:02:49]Created file on 192.168.1.55:/home/kali/server2/Downloads/Nilai prak. Jaringan Komputer_2023.xlsx
+[2023-09-28 15:02:50]Created file on 192.168.1.55:/home/kali/server2/Downloads/admin,+21893-60588-1-ED.pdf
+[2023-09-28 15:03:11]Created file on 192.168.1.55:/home/kali/server2/Downloads/PRE-COURSE CS-1.pdf
+[2023-09-28 15:03:12]Created file on 192.168.1.55:/home/kali/server2/Downloads/Untitled design(2).png
+[2023-09-28 15:03:12]Created file on 192.168.1.55:/home/kali/server2/Downloads/Black and Grey Clean Modern Minimalist Creative Technology Logo.png
+[2023-09-28 15:03:12]Created file on 192.168.1.55:/home/kali/server2/Downloads/ResponP6_K17_F1B019055_FeldyNovandaMulkan.docx
+[2023-09-28 15:03:38]Created file on 192.168.1.55:/home/kali/server2/Downloads/Terms & Conditions.png
+[2023-09-28 15:03:39]Created file on 192.168.1.55:/home/kali/server2/Downloads/ResponP6_K17_F1B019055_FeldyNovandaMulkan.pdf
+[2023-09-28 15:03:42]Created file on 192.168.1.55:/home/kali/server2/Downloads/S1.zip
+[2023-09-28 15:04:03]Created file on 192.168.1.55:/home/kali/server2/Downloads/tsetup.BewSK2B-.4.9.7.tar.xz.part
+[2023-09-28 15:04:03]Created file on 192.168.1.55:/home/kali/server2/Downloads/PRODI AGROEKOTEKNOLOGI.jpeg
+[2023-09-28 15:04:03]Created file on 192.168.1.55:/home/kali/server2/Downloads/LocalHost.cpython-310.pyc
+[2023-09-28 15:04:03]Created file on 192.168.1.55:/home/kali/server2/Downloads/b21d19307033905a35d3fb95ec584bee.jpg
+[2023-09-28 15:04:08]Created file on 192.168.1.55:/home/kali/server2/Downloads/pengumuman-seleksi-pppk-kemenag-tahun-2023pdf.pdf
+[2023-09-28 15:04:09]Created file on 192.168.1.55:/home/kali/server2/Downloads/10ae75a245769f2bd14465be27a1d107.jpeg
+[2023-09-28 15:04:12]Created file on 192.168.1.55:/home/kali/server2/Downloads/0185 Feldy Novanda Mulkan.pdf
+[2023-09-28 15:04:13]Created file on 192.168.1.55:/home/kali/server2/Downloads/0185 Feldy Novanda Mulkan-1.pdf
+[2023-09-28 15:04:15]Created file on 192.168.1.55:/home/kali/server2/Downloads/0185 Feldy Novanda Mulkan-2.pdf
+[2023-09-28 15:04:15]Created file on 192.168.1.55:/home/kali/server2/Downloads/tsetup.4.9.7.tar.xz
+[2023-09-28 15:04:17]Created file on 192.168.1.55:/home/kali/server2/Downloads/6-its-time-to-spill-penetapan-kebutuhan-pegawai-aparatur-sipil-negara-di-lingkungan-kejaksaan-agung-republik-indonesia1694867674.pdf
+[2023-09-28 15:04:17]Created file on 192.168.1.55:/home/kali/server2/Downloads/BAB I-1.pdf
+[2023-09-28 15:04:17]Created file on 192.168.1.55:/home/kali/server2/Downloads/ACC P4_M. Andre Sopian Vikta_F1B019086_Klp 15.docx
+[2023-09-28 15:04:17]Created file on 192.168.1.55:/home/kali/server2/Downloads/mpi-prime.c
+[2023-09-28 15:04:17]Created file on 192.168.1.55:/home/kali/server2/Downloads/IMG-20190628-WA0010.jpg
+[2023-09-28 15:04:18]Created file on 192.168.1.55:/home/kali/server2/Downloads/BAB I.pdf
+[2023-09-28 15:04:18]Created file on 192.168.1.55:/home/kali/server2/Downloads/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer.pdf
+[2023-09-28 15:04:19]Created file on 192.168.1.55:/home/kali/server2/Downloads/16.04.2060_jurnal_eproc.pdf
+[2023-09-28 15:04:20]Created file on 192.168.1.55:/home/kali/server2/Downloads/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-1.pdf
+[2023-09-28 15:04:22]Created file on 192.168.1.55:/home/kali/server2/Downloads/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-2.pdf
+[2023-09-28 15:04:29]Created file on 192.168.1.55:/home/kali/server2/Downloads/admin-journal-manager-109-118-ariyadi-dwi-utomo.pdf
+[2023-09-28 15:04:34]Created file on 192.168.1.55:/home/kali/server2/Downloads/348-1160-1-PB.pdf
+[2023-09-28 15:04:34]Created file on 192.168.1.55:/home/kali/server2/Downloads/494-Article Text-903-1-10-20190511.pdf
+[2023-09-28 15:04:35]Created file on 192.168.1.55:/home/kali/server2/Downloads/dina_oktavia,+##default.groups.name.manager##,+895-99Z_Artikel-5436-1-2-20170810.pdf
+[2023-09-28 15:04:37]Created file on 192.168.1.55:/home/kali/server2/Downloads/3577-9874-1-PB.pdf
+[2023-09-28 15:04:37]Created file on 192.168.1.55:/home/kali/server2/Downloads/permohonan mutasi.pdf
+[2023-09-28 15:04:38]Created file on 192.168.1.55:/home/kali/server2/Downloads/K17_P7_asis3.pdf
+[2023-09-28 15:04:38]Created file on 192.168.1.55:/home/kali/server2/Downloads/Silabus_CCNA Network Engineer.pdf
+[2023-09-28 15:04:38]Created file on 192.168.1.55:/home/kali/server2/Downloads/tcpproxy.zip
+[2023-09-28 15:06:19]Created folder on 192.168.1.55:/home/kali/server2/Screenshots
+[2023-09-28 15:06:19]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-09-23 13-36-43.png
+[2023-09-28 15:06:19]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-09-23 13-37-56.png
+[2023-09-28 15:06:19]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-09-23 12-23-45.png
+[2023-09-28 15:06:19]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-09-23 12-33-00.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-09-23 12-25-45.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-01 14-23-52.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 21-30-04 (copy).png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-04 15-19-59.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-12 13-25-14.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-01 20-41-33.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-12 13-24-24.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-01 20-15-53.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-09 21-34-29.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-03 00-47-02.png
+[2023-09-28 15:06:20]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-01 14-24-06.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-01 14-26-12.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 02-21-30.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-28 21-54-11.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-28 20-28-19.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 21-30-04.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 13-34-39.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 16-02-23.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 21-45-42.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 16-01-39.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 21-09-32.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 21-20-37.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 21-38-00.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 21-40-06.png
+[2023-09-28 15:06:21]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-29 20-56-09.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-31 01-10-02.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-31 04-38-23.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-31 04-38-56.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-31 04-39-17.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-05-31 04-39-44.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 02-39-21.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-03 20-51-42.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-03 20-56-39.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-03 20-52-04.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-03 21-01-03.png
+[2023-09-28 15:06:22]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-03 21-55-14.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 02-51-20.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-09 21-35-03.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 03-30-11.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 03-00-55.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 03-09-15.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 04-40-47.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 04-41-44.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-02 04-42-02.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-09 21-35-24.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-09 21-35-43.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-04 03-44-38.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-04 03-44-07.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-12 13-24-52.png
+[2023-09-28 15:06:23]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-12 13-25-26.png
+[2023-09-28 15:06:24]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-11 23-14-38.png
+[2023-09-28 15:06:24]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-17 00-13-09.png
+[2023-09-28 15:06:24]Created file on 192.168.1.55:/home/kali/server2/Screenshots/Screenshot from 2023-06-17 00-18-55.png
+[2023-09-28 15:07:00]Created file on 192.168.1.55:/home/kali/server2/chr-6.48.6.ova
+[2023-09-28 15:07:19]Deleted file on 192.168.1.55:/home/kali/server2/chr-6.48.6.ova
+[2023-09-28 15:07:32]Created folder on 192.168.1.55:/home/kali/server2/Feldy
+[2023-09-28 15:09:20]Created file on 192.168.1.55:/home/kali/server2/Feldy/2023-06-22 13-29-58.mkv
+[2023-09-28 15:09:58]Created file on 192.168.1.55:/home/kali/server2/file.txt
+[2023-09-28 15:10:34]Created file on 192.168.1.55:/home/kali/server2/.goutputstream-S2ECC2
+[2023-09-28 15:18:35]Deleted folder on 192.168.1.55:/home/kali/server2/Screenshots
+[2023-09-28 15:18:35]Deleted file on 192.168.1.55:/home/kali/server2/file.txt
+[2023-09-28 15:18:35]Deleted folder on 192.168.1.55:/home/kali/server2/Feldy
+[2023-09-28 15:18:39]Created file on 192.168.1.55:/home/kali/server2/file.txt
+[2023-09-28 15:18:48]Deleted file on 192.168.1.55:/home/kali/server2/file.txt
+[2023-09-28 15:18:50]Created file on 192.168.1.55:/home/kali/server2/file.txt
+[2023-09-28 15:18:58]Created file on 192.168.1.55:/home/kali/server2/.goutputstream-JD81B2

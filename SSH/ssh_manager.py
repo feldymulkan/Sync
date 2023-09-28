@@ -14,6 +14,17 @@ class SSHManager:
         ssh_client.connect(self.hostname, port=self.port, username=self.username, password=self.password)
         return ssh_client
 
+    def is_host_online(self):
+        try:
+            command = "whoami" 
+            stdin, stdout, stderr = self.client.exec_command(command)
+
+            stdout.channel.recv_exit_status()
+            return True
+        except Exception as e:
+            print(f"Error when checking host status: {str(e)}")
+            return False
+        
     def send_file(self, local_path, remote_path):
         try:
             sftp = self.client.open_sftp()
@@ -40,7 +51,6 @@ class SSHManager:
         except Exception as e:
             print(f"Error deleting file: {str(e)}")
 
-    # Metode untuk menghapus folder/direktori di server remote
     def delete_folder(self, remote_path):
         try:
             ssh = self.client.invoke_shell()
@@ -59,7 +69,6 @@ class SSHManager:
 
     def create_folder(self, remote_path):
         try:
-            # Gunakan perintah "mkdir -p" untuk membuat folder secara rekursif
             command = f'mkdir -p {remote_path}'
             
             stdin, stdout, stderr = self.client.exec_command(command)
@@ -97,3 +106,4 @@ class SSHManager:
 
     def close(self):
         self.client.close()
+

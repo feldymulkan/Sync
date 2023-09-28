@@ -36,49 +36,29 @@ class MyHandler(FileSystemEventHandler):
         new_folder_fix = os.path.join(remote_folder, *newfolder_parts)
         return new_folder_fix
     
-    def on_deleted(self, event):
-        try:
-            path = event.src_path
-            remote_path = self.folder_enum(path, host_info.direktori)
-            if event.event_type == 'deleted':
-                if event.is_directory:
-                    print(f"Directory deleted: {path}")
-                    # Hapus direktori di server menggunakan SSHManager
-                    ssh_manager.delete_folder(remote_path)
-                    self.log(f"Deleted folder on {host_info.hostname}:{remote_path}")
-                elif not event.is_directory:
-                    print(f"File deleted: {path}")
-                    # Hapus file di server menggunakan SSHManager
-                    ssh_manager.delete_file(remote_path)
-                    self.log(f"Deleted file on {host_info.hostname}:{remote_path}")
-        except Exception as e:
-            print(f"Error: {str(e)}")
-
-    # def on_modified(self, event):
-    #     try:
-    #         path = event.src_path
-    #         if event.event_type == 'modified':
-    #             if os.path.isdir(path):
-    #                 print(f"Directory modified: {path}")
-    #                 # Logika untuk direktori yang dimodifikasi, jika diperlukan.
-    #             else:
-    #                 print(f"File modified: {path}")
-    #                 folderFile = os.path.dirname(path)
-    #                 defFolder = self.folder_enum(folderFile, host_info.direktori)
-    #                 ujung = os.path.basename(path)
-    #                 full_path = os.path.join(defFolder, ujung)
-    #                 if ssh_manager.file_exists(full_path):
-    #                     ssh_manager.send_file(path, full_path, overwrite=True)
-    #                     self.log(f"Overwritten file on {host_info.hostname}:{full_path}")
-    #     except Exception as e:
-    #         print(f"Error: {str(e)}")
-
     def getServerFullPath(self, path_server):
         folder = os.path.dirname(path_server)
         defFolder = self.folder_enum(folder, host_info.direktori)
         ujung = os.path.basename(path_server)
         full_path = os.path.join(defFolder, ujung)
         return full_path
+    
+    def on_deleted(self, event):
+        try:
+            path = event.src_path
+            remote_path = self.folder_enum(path, host_info.direktori)
+            if event.is_directory:
+                print(f"Directory deleted: {path}")
+                # Hapus direktori di server menggunakan SSHManager
+                ssh_manager.delete_folder(remote_path)
+                self.log(f"Deleted folder on {host_info.hostname}:{remote_path}")
+            elif not event.is_directory:
+                print(f"File deleted: {path}")
+                # Hapus file di server menggunakan SSHManager
+                ssh_manager.delete_file(remote_path)
+                self.log(f"Deleted file on {host_info.hostname}:{remote_path}")
+        except Exception as e:
+            print(f"Error: {str(e)}")
 
     def on_moved(self, event):
         try:
@@ -95,18 +75,10 @@ class MyHandler(FileSystemEventHandler):
                 # Logika untuk file yang diubah namanya, jika diperlukan.
                 src_full_path = self.getServerFullPath(src_path)
                 dest_full_path = self.getServerFullPath(dest_path)
-
-                    
-                    # Cek apakah file ada di server sebelum mengirim ulang
-                    # if not ssh_manager.file_exists(dest_full_path):
-                    #     print(f"File not found on server: {dest_full_path}")
-                    # else:
-                        # Hapus file lama di server jika perlu
                 ssh_manager.delete_file(src_full_path)
-                        # Kirim ulang file dengan nama baru
                 ssh_manager.send_file(dest_path, dest_full_path)
                 if compare_files(dest_path, dest_full_path) == True:
-                    self.log(f"Renamed file on {host_info.hostname}:{dest_full_path}")
+                    self.log(f"Modified file on {host_info.hostname}:{dest_full_path}")
                 else:
                    ssh_manager.delete_file(dest_full_path)
                    print("Failed to rename")
@@ -118,16 +90,15 @@ class MyHandler(FileSystemEventHandler):
         try:
             folder = event.src_path
             define_folder = self.folder_enum(folder, host_info.direktori)
-            if event.event_type == 'created':
-                if os.path.isdir(folder):
-                    print(f"Directory created: {folder}")
-                    ssh_manager.create_folder(define_folder)
-                    self.log(f"Created folder on {host_info.hostname}:{define_folder}")
-                else:
-                    print(f"File created: {folder}")
-                    full_path = self.getServerFullPath(folder)
-                    ssh_manager.send_file(folder, full_path)
-                    self.log(f"Created file on {host_info.hostname}:{full_path}")
+            if event.is_directory:
+                print(f"Directory created: {folder}")
+                ssh_manager.create_folder(define_folder)
+                self.log(f"Created folder on {host_info.hostname}:{define_folder}")
+            else:
+                print(f"File created: {folder}")
+                full_path = self.getServerFullPath(folder)
+                ssh_manager.send_file(folder, full_path)
+                self.log(f"Created file on {host_info.hostname}:{full_path}")
         except Exception as e:
             print(f"Error: {str(e)}")
 
