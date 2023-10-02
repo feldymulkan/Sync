@@ -85,7 +85,6 @@ class MyHandler(FileSystemEventHandler):
         except Exception as e:
             print(f"Error: {str(e)}")
 
-
     def on_created(self, event):
         try:
             folder = event.src_path
@@ -97,8 +96,15 @@ class MyHandler(FileSystemEventHandler):
             else:
                 print(f"File created: {folder}")
                 full_path = self.getServerFullPath(folder)
-                ssh_manager.send_file(folder, full_path)
-                self.log(f"Created file on {host_info.hostname}:{full_path}")
+
+                # Check if the file already exists on the server
+                if not ssh_manager.file_exists(full_path):
+                    ssh_manager.send_file(folder, full_path)
+                    self.log(f"Created file on {host_info.hostname}:{full_path}")
+                else:
+                    print(f"File already exists on the server: {full_path}")
         except Exception as e:
             print(f"Error: {str(e)}")
+
+
 
