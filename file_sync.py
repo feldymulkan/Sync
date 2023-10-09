@@ -8,7 +8,8 @@ from Compare.compare import compare_files, calculate_md5
 
 LOG = 'log.txt'
 
-host_info = host.read_host_info("hostname.txt")
+host_info = host.read_host_info()
+print(host_info.hostname)
 ssh_manager = SSHManager(host_info.hostname, host_info.port, host_info.username, host_info.password)
 observer = Observer()
 
@@ -95,9 +96,8 @@ class MyHandler(FileSystemEventHandler):
                 self.log(f"Created folder on {host_info.hostname}:{define_folder}")
             else:
                 print(f"File created: {folder}")
+                calculate_md5(folder)
                 full_path = self.getServerFullPath(folder)
-
-                # Check if the file already exists on the server
                 if not ssh_manager.file_exists(full_path):
                     ssh_manager.send_file(folder, full_path)
                     self.log(f"Created file on {host_info.hostname}:{full_path}")
@@ -105,6 +105,4 @@ class MyHandler(FileSystemEventHandler):
                     print(f"File already exists on the server: {full_path}")
         except Exception as e:
             print(f"Error: {str(e)}")
-
-
 

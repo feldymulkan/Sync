@@ -99,6 +99,7 @@ class SSHManager:
         try:
             # Use the SSHManager to check if the file exists on the remote server
             self.ssh_manager.client.stat(remote_path)
+            print(remote_path)
             return True
         except Exception as e:
             # If an exception is raised, it means the file does not exist

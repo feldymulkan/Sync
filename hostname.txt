@@ -1,5 +1,5 @@
-hostname=192.168.1.55
+hostname=192.168.1.38
 port=22
-username=kali
-password=kali
-direktori=/home/kali/server2
+username=linuxmint
+password=linuxmint
+direktori=/home/linuxmint/server2

@@ -1,4 +1,5 @@
 import hashlib
+import os
 
 def calculate_md5(file_path):
     """
@@ -12,6 +13,7 @@ def calculate_md5(file_path):
                 break
             md5_hash.update(data)
     return md5_hash.hexdigest()
+
 
 def compare_files(file1_path, file2_path):
     """

@@ -7,7 +7,7 @@ class host:
         self.direktori = direktori
 
     @classmethod
-    def read_host_info(cls, filename):
+    def read_host_info(cls, filename="hostname.txt"):
         try:
             with open(filename, "r") as file:
                 lines = file.readlines()
@@ -32,4 +32,3 @@ class host:
         except Exception as e:
             print(f"Gagal membaca file {filename}: {str(e)}")
             return None
-
