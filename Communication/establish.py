@@ -1,7 +1,11 @@
 import socket
 import ssl
 
+ssl_session = None  # Variabel global untuk menyimpan sesi SSL
+
 def start_ssl_server(certfile, keyfile, address, port):
+    global ssl_session
+
     context = ssl.create_default_context(ssl.Purpose.CLIENT_AUTH)
     context.load_cert_chain(certfile=certfile, keyfile=keyfile)
 
@@ -10,15 +14,14 @@ def start_ssl_server(certfile, keyfile, address, port):
         server_socket.listen(1)
         print(f"Server listening on {address}:{port}")
 
-        with context.wrap_socket(server_socket, server_side=True) as secure_socket:
-            connection, client_address = secure_socket.accept()
-            print("Connected to", client_address)
-            data = connection.recv(1024)
-            print("Received data:", data.decode())
-            connection.close()
+        while True:
+            with context.wrap_socket(server_socket, server_side=True, session=ssl_session) as secure_socket:
+                connection, client_address = secure_socket.accept()
+                print("Connected to", client_address)
+                data = connection.recv(1024)
+                print("Received data:", data.decode())
 
-# Panggil fungsi untuk memulai server SSL
-certfile = 'server-cert.pem'
-keyfile = 'server-key.pem'
-server_address = ('192.168.1.38', 1024)
-start_ssl_server(certfile, keyfile, *server_address)
+                # Simpan sesi SSL untuk session resumption
+                ssl_session = secure_socket.session
+
+                connection.close()

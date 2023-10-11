@@ -1,5 +1,5 @@
-hostname=192.168.1.38
+hostname=192.168.20.2
 port=22
-username=linuxmint
-password=linuxmint
-direktori=/home/linuxmint/server2
+username=server2
+password=jarkom123
+direktori=/home/server2/server2

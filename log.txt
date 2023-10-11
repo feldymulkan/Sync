@@ -1292,3 +1292,29 @@
 [2023-10-04 01:13:32]Deleted file on 192.168.1.38:/home/linuxmint/server2/chr-6.48.6.ova
 [2023-10-04 01:16:28]Created file on 192.168.1.38:/home/linuxmint/server2/chr-6.48.6.ova
 [2023-10-04 01:16:53]Created file on 192.168.1.38:/home/linuxmint/server2/chr-6.48.6.ova
+[2023-10-11 14:25:48]Deleted file on 10.50.76.36:/home/server2/server2/tes.py
+[2023-10-11 14:25:48]Deleted file on 10.50.76.36:/home/server2/server2/chr-6.48.6.ova
+[2023-10-11 14:31:34]Created file on 10.50.76.36:/home/server2/server2/text.txt
+[2023-10-11 14:38:55]Created file on 10.50.76.36:/home/server2/server2/text.txt
+[2023-10-11 14:39:54]Created file on 10.50.76.36:/home/server2/server2/tes.py
+[2023-10-11 14:57:26]Deleted file on 10.50.76.36:/home/server2/server2/text.txt
+[2023-10-11 14:57:26]Deleted file on 10.50.76.36:/home/server2/server2/tes.py
+[2023-10-11 15:35:19]Created file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4
+[2023-10-11 15:40:46]Deleted file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4
+[2023-10-11 15:41:21]Created file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4 - Transfer time: 9.56 seconds
+[2023-10-11 15:42:56]Created file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Academy Week 1 Session 2.mp4 - Transfer time: 6.65 seconds
+[2023-10-11 15:43:34]Deleted file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4
+[2023-10-11 15:43:34]Deleted file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Academy Week 1 Session 2.mp4
+[2023-10-11 15:43:54]Created file on 192.168.20.2:/home/server2/server2/LF20.pdf - Transfer time: 0.57 seconds
+[2023-10-11 15:43:55]Created file on 192.168.20.2:/home/server2/server2/CyBOK-version-1.0.pdf - Transfer time: 0.39 seconds
+[2023-10-11 15:44:28]Created file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4 - Transfer time: 9.76 seconds
+[2023-10-11 15:44:35]Created file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Academy Week 1 Session 2.mp4 - Transfer time: 7.07 seconds
+[2023-10-11 15:45:07]Created file on 192.168.20.2:/home/server2/server2/IMG_85jpg.jpg - Transfer time: 0.02 seconds
+[2023-10-11 15:45:24]Deleted file on 192.168.20.2:/home/server2/server2/tes.py
+[2023-10-11 15:45:24]Deleted file on 192.168.20.2:/home/server2/server2/LF20.pdf
+[2023-10-11 15:45:24]Deleted file on 192.168.20.2:/home/server2/server2/IMG_85jpg.jpg
+[2023-10-11 15:45:24]Deleted file on 192.168.20.2:/home/server2/server2/CyBOK-version-1.0.pdf
+[2023-10-11 15:45:24]Deleted file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4
+[2023-10-11 15:45:24]Deleted file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Academy Week 1 Session 2.mp4
+[2023-10-11 15:47:27]Created file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4 - Transfer time: 10.07 seconds
+[2023-10-11 15:51:37]Deleted file on 192.168.20.2:/home/server2/server2/CS Academy Cohort 1 - 2023 - Cyber Security Week 1 Mentoring.mp4
