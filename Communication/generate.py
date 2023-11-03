@@ -1,7 +1,7 @@
 import subprocess
 import os
 
-def generate_ssl_certificate(cert_name="client", passphrase="client"):
+def generate_ssl_certificate(cert_name="server2", passphrase="server2"):
     cert_file = f"{cert_name}-cert.pem"
     key_file = f"{cert_name}-key.pem"
 

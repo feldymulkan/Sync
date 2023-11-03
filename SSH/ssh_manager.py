@@ -96,14 +96,16 @@ class SSHManager:
             print(f"Error renaming folder: {str(e)}")
 
     def file_exists(self, remote_path):
-        try:
-            # Use the SSHManager to check if the file exists on the remote server
-            self.ssh_manager.client.stat(remote_path)
-            print(remote_path)
-            return True
-        except Exception as e:
-            # If an exception is raised, it means the file does not exist
-            return False
+            try:
+                sftp = self.client.open_sftp()
+                sftp.stat(remote_path)  # Coba mengambil informasi tentang remote_path
+                sftp.close()
+                return True
+            except FileNotFoundError:
+                return False  # Jika file tidak ditemukan
+            except Exception as e:
+                print(f"Error checking file existence: {str(e)}")
+                return False
 
     def close(self):
         self.client.close()

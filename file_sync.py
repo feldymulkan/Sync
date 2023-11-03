@@ -6,8 +6,7 @@ from SSH.ssh_manager import SSHManager
 from Host.host import Host
 from Host.localhost import localhost
 from Compare.compare import compare_files, calculate_md5
-# from Communication.establish import start_ssl_server
-from Communication.client import send_message
+from Communication.client import connect_to_ssl_server
 
 LOG = 'log.txt'
 
@@ -92,7 +91,7 @@ class MyHandler(FileSystemEventHandler):
     def on_created(self, event):
         try:
             # start ssl server untuk menerima pesan perubahan
-            # start_ssl_server("server-cert.pem", "server-key.pem", lhost.getIP("wlo1"), 1024)
+            # start_ssl_server("server-cert.pem", "server-key.pem", lhost.getIP("wlo1"), 1024, "server")
             folder = event.src_path
             define_folder = self.folder_enum(folder, host_info.direktori)
             if event.is_directory:
@@ -131,9 +130,10 @@ class MyHandler(FileSystemEventHandler):
                 print(f"File created: {folder}")
                 calculate_md5(folder)
                 full_path = self.getServerFullPath(folder)
-                server_add = (host_info.hostname, 1024)
-                # send_message("server-cert.pem", "server-key.pem", server_add, "server2", full_path)
+                server_add = (host_info.hostname, 5000)
+                
                 if not ssh_manager.file_exists(full_path):
+                    connect_to_ssl_server('server-cert.pem', 'server-key.pem', server_add, 'server2jarkom', full_path)
                     ssh_manager.send_file(folder, full_path)
                     self.log(f"Created file on {host_info.hostname}:{full_path}")
                 else:
