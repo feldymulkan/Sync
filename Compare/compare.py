@@ -15,14 +15,15 @@ def calculate_md5(file_path):
     return md5_hash.hexdigest()
 
 
-def compare_files(file1_path, file2_path):
-    """
-    Membandingkan dua file berdasarkan nilai MD5 hash-nya.
-    """
+def compare_md5(file1_path, file2_path):
     md5_file1 = calculate_md5(file1_path)
     md5_file2 = calculate_md5(file2_path)
-
-    if md5_file1 == md5_file2:
+    return md5_file1 == md5_file2
+    
+def is_same_filename(path1, path2):
+    if os.path.basename(path1) == os.path.basename(path2):
         return True
-    else:
+    else: 
         return False
+        
+        

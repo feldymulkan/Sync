@@ -45,7 +45,7 @@ def main():
     
     # local_direktori = input("Masukkan direktori anda : ")
     local_direktori = "/home/cipeng/server1"
-    lhost.setLocalFolder(local_direktori)
+    lhost.setLocalFolder(local_direktori)   
     lhost_direktori = lhost.getLocalFolder()
     print (lhost_direktori)
     event_handler = MyHandler(lhost_direktori, ssh_manager)

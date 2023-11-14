@@ -16,7 +16,7 @@ def start_ssl_server(certfile, keyfile, address, port, pass_authentication):
                 print("Connected to", client_address)
                 data = connection.recv(1024)
                 print("Received data:", data.decode())
-                
                 connection.close()
-
-start_ssl_server("local-cert.pem", "local-key.pem", "localhost", 5000, "local")
+                return data.decode()
+                
+                

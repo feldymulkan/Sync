@@ -1,4 +1,5 @@
 import paramiko
+import hashlib
 
 class SSHManager:
     def __init__(self, hostname, port, username, password):
@@ -53,19 +54,34 @@ class SSHManager:
 
     def delete_folder(self, remote_path):
         try:
-            ssh = self.client.invoke_shell()
-            ssh.send(f'rm -r {remote_path}\n')
-            while not ssh.recv_ready():
-                pass
-            response = ssh.recv(1024).decode()
-            ssh.close()
-            
-            if "No such file or directory" in response:
-                print(f"Folder does not exist on {self.hostname}:{remote_path}")
-            else:
-                print(f"Folder deleted on {self.hostname}:{remote_path}")
+            with self.client.open_sftp() as sftp:
+                sftp.rmdir(remote_path)
+            print(f"Folder deleted on {self.hostname}:{remote_path}")
+
+        except FileNotFoundError:
+            print(f"Folder does not exist on {self.hostname}:{remote_path}")
+
+        except PermissionError:
+            print(f"Permission error deleting folder on {self.hostname}:{remote_path}")
+
         except Exception as e:
             print(f"Error deleting folder: {str(e)}")
+
+    # def delete_folder(self, remote_path):
+    #     try:
+    #         ssh = self.client.invoke_shell()
+    #         ssh.send(f'rm -r {remote_path}\n')
+    #         while not ssh.recv_ready():
+    #             pass
+    #         response = ssh.recv(1024).decode()
+    #         ssh.close()
+            
+    #         if "No such file or directory" in response:
+    #             print(f"Folder does not exist on {self.hostname}:{remote_path}")
+    #         else:
+    #             print(f"Folder deleted on {self.hostname}:{remote_path}")
+    #     except Exception as e:
+    #         print(f"Error deleting folder: {str(e)}")
 
     def create_folder(self, remote_path):
         try:
@@ -94,19 +110,53 @@ class SSHManager:
             sftp.close()
         except Exception as e:
             print(f"Error renaming folder: {str(e)}")
+            
+    def rename_file(self, src_path, dest_path):
+        try:
+            sftp = self.client.open_sftp()
+            sftp.rename(src_path, dest_path)
+            sftp.close()
+            print(f"File renamed from {src_path} to {dest_path}")
+        except Exception as e:
+            print(f"Error renaming file: {str(e)}")
+            
+    def check_existence(self, remote_path):
+        try:
+            sftp = self.client.open_sftp()
+            sftp.stat(remote_path)  # Mencoba mendapatkan informasi metadata file
+            sftp.close()
+            return True
+        except FileNotFoundError:
+            return False
+        except Exception as e:
+            print(f"Error when checking file existence: {str(e)}")
+            return False 
+     
+    def calculate_remote_md5(self, remote_file_path):
+        try:
+            sftp = self.client.open_sftp()
 
-    def file_exists(self, remote_path):
-            try:
-                sftp = self.client.open_sftp()
-                sftp.stat(remote_path)  # Coba mengambil informasi tentang remote_path
+            with sftp.file(remote_file_path, 'rb') as remote_file:
+                md5 = hashlib.md5()
+                while True:
+                    data = remote_file.read(4096)
+                    if not data:
+                        break
+                    md5.update(data)
+
+                md5_hash = md5.hexdigest()
+
                 sftp.close()
-                return True
-            except FileNotFoundError:
-                return False  # Jika file tidak ditemukan
-            except Exception as e:
-                print(f"Error checking file existence: {str(e)}")
-                return False
 
+                return md5_hash
+
+        except Exception as e:
+            print(f"Error calculating remote MD5 hash: {str(e)}")
+            return None
+
+     
     def close(self):
         self.client.close()
+        
+        
 
