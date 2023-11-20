@@ -54,18 +54,23 @@ class SSHManager:
 
     def delete_folder(self, remote_path):
         try:
-            with self.client.open_sftp() as sftp:
-                sftp.rmdir(remote_path)
-            print(f"Folder deleted on {self.hostname}:{remote_path}")
+            command = f'rm -r {remote_path}'
 
-        except FileNotFoundError:
-            print(f"Folder does not exist on {self.hostname}:{remote_path}")
+            stdin, stdout, stderr = self.client.exec_command(command)
+            exit_status = stdout.channel.recv_exit_status()
 
-        except PermissionError:
-            print(f"Permission error deleting folder on {self.hostname}:{remote_path}")
+            if exit_status == 0:
+                print(f"Folder deleted on {self.hostname}:{remote_path}")
+            else:
+                error_message = stderr.read().decode()
+                print(f"Failed to delete folder on {self.hostname}:{remote_path}: {error_message}")
+
+        except paramiko.SSHException as e:
+            print(f"SSH Error: {str(e)}")
 
         except Exception as e:
             print(f"Error deleting folder: {str(e)}")
+
 
     # def delete_folder(self, remote_path):
     #     try:

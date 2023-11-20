@@ -53,18 +53,16 @@ class MyHandler(FileSystemEventHandler):
             remote_path = self.folder_enum(path, host_info.direktori)
             if event.is_directory:
                 try:
-                    print(remote_path)
-                    ssh_manager.delete_folder(remote_path)
-                    self.log(f"Deleted folder on {host_info.hostname}:{remote_path}")
                     if ssh_manager.check_existence(remote_path) == True:
-                        print(f"{remote_path} cannot deleting this folder")
+                        ssh_manager.delete_folder(remote_path)
+                        self.log(f"Deleted folder on {host_info.hostname}:{remote_path}")
                 except Exception as e:
                     self.log(f"{remote_path} cannot deleting this folder")
                     print("Cannot deleting this folder" + e)
                 
             elif not event.is_directory:
                 try:
-                    if ssh_manager.check_existence(remote_path):
+                    if ssh_manager.check_existence(remote_path) == True:
                         ssh_manager.delete_file(remote_path)
                         self.log(f"Deleted file on {host_info.hostname}:{remote_path}")
                     else:
@@ -75,32 +73,31 @@ class MyHandler(FileSystemEventHandler):
         except Exception as e:
             print(f"Error: {str(e)}")
     
-    def on_modified(self, event):
-        try:
-            src_path_server1 = event.src_path
-            dest_path_server1 = event.dest_path
-            if not event.is_directory:
-                src_full_path_server2 = self.getServerFullPath(src_path_server1)
-                dest_full_path_server2 = self.getServerFullPath(dest_path_server1)                
-                print(f"File moved: {src_path_server1} -> {dest_path_server1}")
+    # def on_modified(self, event):
+    #     try:
+    #         src_path_server1 = event.src_path
+    #         dest_path_server1 = event.dest_path
+    #         if not event.is_directory:
+    #             src_full_path_server2 = self.getServerFullPath(src_path_server1)
+    #             dest_full_path_server2 = self.getServerFullPath(dest_path_server1)                
+    #             print(f"File moved: {src_path_server1} -> {dest_path_server1}")
 
-                # print("src_path_server1 : " + src_path_server1)
-                # print("dest_path_server1 : " + dest_path_server1)
-                # print("md5 dest_path_server1 : " + calculate_md5(dest_path_server1))
-                # print("src_full_path_server2 : " + src_full_path_server2)
-                # print("dest_full_path_server2 : " + dest_full_path_server2)
-                # print("md5 dest_path_server2 : " + ssh_manager.calculate_remote_md5(dest_full_path_server2))
-                # print("is File name same : " + str(is_same_filename(dest_path_server1, src_full_path_server2)))
-                ssh_manager.delete_file(src_full_path_server2)
-                ssh_manager.send_file(dest_path_server1, dest_full_path_server2)
-        except Exception as e:
-            print(e)
+    #             # print("src_path_server1 : " + src_path_server1)
+    #             # print("dest_path_server1 : " + dest_path_server1)
+    #             # print("md5 dest_path_server1 : " + calculate_md5(dest_path_server1))
+    #             # print("src_full_path_server2 : " + src_full_path_server2)
+    #             # print("dest_full_path_server2 : " + dest_full_path_server2)
+    #             # print("md5 dest_path_server2 : " + ssh_manager.calculate_remote_md5(dest_full_path_server2))
+    #             # print("is File name same : " + str(is_same_filename(dest_path_server1, src_full_path_server2)))
+    #             ssh_manager.delete_file(src_full_path_server2)
+    #             ssh_manager.send_file(dest_path_server1, dest_full_path_server2)
+    #     except Exception as e:
+    #         print(e)
     
     def on_moved(self, event):
         try:
             src_path_server1 = event.src_path
             dest_path_server1 = event.dest_path
-            
             if event.is_directory:
                 def_folder1 = self.getServerFullPath(src_path_server1)
                 def_folder2 = self.getServerFullPath(dest_path_server1)
@@ -119,64 +116,9 @@ class MyHandler(FileSystemEventHandler):
                 # print("is File name same : " + str(is_same_filename(dest_path_server1, src_full_path_server2)))
                 ssh_manager.delete_file(src_full_path_server2)
                 ssh_manager.send_file(dest_path_server1, dest_full_path_server2)
-                
-                # if not is_same_filename(dest_path_server1, src_full_path_server2):
-                #     ssh_manager.rename_file(src_full_path_server2, dest_full_path_server2)
-                #     self.log(f"File renamed on {host_info.hostname}:{dest_full_path_server2}")
-                # elif is_same_filename(src_path_server1, dest_full_path_server2):
         except Exception as e:
             print(f"Error: {str(e)}")
     
-    # def on_moved(self, event):
-    #     try:
-    #         src_path = event.src_path
-    #         dest_path = event.dest_path
-    #         if event.is_directory:
-    #             print(f"Directory moved: {src_path} -> {dest_path}")
-    #             def_folder1 = self.getServerFullPath(src_path)
-    #             def_folder2 = self.getServerFullPath(dest_path)
-                
-    #             ssh_manager.rename_folder(def_folder1, def_folder2)
-    #         elif not event.is_directory:
-    #             print(f"File moved: {src_path} -> {dest_path}")
-    #             # Logika untuk file yang diubah namanya, jika diperlukan.
-    #             src_full_path = self.getServerFullPath(src_path)
-    #             dest_full_path = self.getServerFullPath(dest_path)
-    #             ssh_manager.delete_file(src_full_path)
-    #             ssh_manager.send_file(dest_path, dest_full_path)
-    #             if compare_md5(dest_path, dest_full_path) == True:
-    #                 self.log(f"Modified file on {host_info.hostname}:{dest_full_path}")
-    #             else:
-    #                ssh_manager.delete_file(dest_full_path)
-    #                print("Failed to rename")
-    #     except Exception as e:
-    #         print(f"Error: {str(e)}")
-
-    # def on_moved(self, event):
-    #     try:
-    #         if not event.is_directory:
-    #             src_path_server1 = event.src_path
-    #             dest_path_server2 = self.getServerFullPath(src_path_server1)
-                
-    #             print(src_path_server1)
-    #             print(dest_path_server2)
-
-    #             # Hitung hash MD5 file di server1
-    #             md5_server1 = calculate_md5(src_path_server1)
-
-    #             # Hitung hash MD5 file di server2
-    #             md5_server2 = ssh_manager.calculate_remote_md5(dest_path_server2)
-
-    #             if md5_server1 != md5_server2:
-    #                 # Hash MD5 berbeda, kirim ulang file
-    #                 ssh_manager.send_file(src_path_server1, dest_path_server2)
-    #                 self.log(f"Modified file on {host_info.hostname}:{dest_path_server2}")
-    #             else:
-    #                 # Hash MD5 sama, tidak perlu tindakan apa-apa
-    #                 print(f"File already up to date: {dest_path_server2}")
-
-    #     except Exception as e:
-    #         print(f"Error: {str(e)}")
 
     def on_created(self, event):
         try:
@@ -198,8 +140,8 @@ class MyHandler(FileSystemEventHandler):
                     ssh_manager.send_file(server1_path, server2_path)
                     self.log(f"Created file on {host_info.hostname}:{server2_path}")
                 
-                print("file eksis : " + str(ssh_manager.check_existence(server2_path)))
-                print("md5 server2 : " + ssh_manager.calculate_remote_md5(server2_path))
+                # print("file eksis : " + str(ssh_manager.check_existence(server2_path)))
+                # print("md5 server2 : " + ssh_manager.calculate_remote_md5(server2_path))
                 
             # if not ssh_manager.check_file_existence(full_path) or not compare_md5(full_path, folder):
             # else:
