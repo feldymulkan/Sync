@@ -53,7 +53,7 @@ def main():
     
     # Mendownload file dan subfolder dari server
     file_manager.download_files_from_server()
-
+ ##ted
     # Menutup koneksi SSH
     ssh_manager.close()
 
