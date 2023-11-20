@@ -2,6 +2,7 @@ import os
 import time
 import psutil
 from file_sync import MyHandler, ssh_manager, observer, lhost
+from getfile import GetFileManager
 
 def cetak():
     artwork = """
@@ -47,8 +48,9 @@ def main():
     local_direktori = "/home/cipeng/server1"
     lhost.setLocalFolder(local_direktori)   
     lhost_direktori = lhost.getLocalFolder()
-    print (lhost_direktori)
+    getFile = GetFileManager(ssh_manager, lhost_direktori)
     event_handler = MyHandler(lhost_direktori, ssh_manager)
+    getFile.download_files_from_server()
     
     observer.schedule(event_handler, path=lhost_direktori, recursive=True)
     observer.start()

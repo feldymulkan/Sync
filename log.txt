@@ -2583,3 +2583,14 @@
 [2023-11-20 14:30:40]Created file on 192.168.20.2:/home/server2/server2/tes.py
 [2023-11-20 14:30:40]Created file on 192.168.20.2:/home/server2/server2/IMG_85jpg.jpg
 [2023-11-20 14:34:46]Created file on 192.168.20.2:/home/server2/server2/chr-6.48.6.ova
+[2023-11-20 14:52:05]/home/server2/server2/Skripsi/dede.jpg cannot deleting this file
+[2023-11-20 14:52:10]Created file on 192.168.20.2:/home/server2/server2/Skripsi/dede.jpg
+[2023-11-20 14:52:22]Deleted file on 192.168.20.2:/home/server2/server2/Skripsi/CHR.ova
+[2023-11-20 14:52:26]Created file on 192.168.20.2:/home/server2/server2/Skripsi/CHR.ova
+[2023-11-20 15:19:09]Created folder on 192.168.20.2:/home/server2/server2/Feldy
+[2023-11-20 15:19:41]Created file on 192.168.20.2:/home/server2/server2/file.txt
+[2023-11-20 15:25:57]Deleted file on 192.168.20.2:/home/server2/server2/file.txt
+[2023-11-20 15:26:06]Created file on 192.168.20.2:/home/server2/server2/file.txt
+[2023-11-20 15:26:58]Deleted file on 192.168.20.2:/home/server2/server2/file.txt
+[2023-11-20 15:27:03]Created file on 192.168.20.2:/home/server2/server2/file.txt
+[2023-11-20 15:55:52]Created file on 192.168.20.2:/home/server2/server2/ade (copy).txt

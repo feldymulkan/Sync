@@ -6,8 +6,6 @@ from SSH.ssh_manager import SSHManager
 from Host.host import Host
 from Host.localhost import localhost
 from Compare.compare import compare_md5, calculate_md5, is_same_filename
-# from Communication.client import connect_to_ssl_server
-# from Communication.establish import start_ssl_server
 
 LOG = 'log.txt'
 
@@ -72,28 +70,7 @@ class MyHandler(FileSystemEventHandler):
                     print("Cannot deleting this file" + e)
         except Exception as e:
             print(f"Error: {str(e)}")
-    
-    # def on_modified(self, event):
-    #     try:
-    #         src_path_server1 = event.src_path
-    #         dest_path_server1 = event.dest_path
-    #         if not event.is_directory:
-    #             src_full_path_server2 = self.getServerFullPath(src_path_server1)
-    #             dest_full_path_server2 = self.getServerFullPath(dest_path_server1)                
-    #             print(f"File moved: {src_path_server1} -> {dest_path_server1}")
-
-    #             # print("src_path_server1 : " + src_path_server1)
-    #             # print("dest_path_server1 : " + dest_path_server1)
-    #             # print("md5 dest_path_server1 : " + calculate_md5(dest_path_server1))
-    #             # print("src_full_path_server2 : " + src_full_path_server2)
-    #             # print("dest_full_path_server2 : " + dest_full_path_server2)
-    #             # print("md5 dest_path_server2 : " + ssh_manager.calculate_remote_md5(dest_full_path_server2))
-    #             # print("is File name same : " + str(is_same_filename(dest_path_server1, src_full_path_server2)))
-    #             ssh_manager.delete_file(src_full_path_server2)
-    #             ssh_manager.send_file(dest_path_server1, dest_full_path_server2)
-    #     except Exception as e:
-    #         print(e)
-    
+            
     def on_moved(self, event):
         try:
             src_path_server1 = event.src_path
@@ -105,56 +82,41 @@ class MyHandler(FileSystemEventHandler):
                 self.log(f"Folder Modified on {host_info.hostname}:{def_folder2}")
             elif not event.is_directory:
                 src_full_path_server2 = self.getServerFullPath(src_path_server1)
-                dest_full_path_server2 = self.getServerFullPath(dest_path_server1)                
-                print(f"File moved: {src_path_server1} -> {dest_path_server1}")
-                # print("src_path_server1 : " + src_path_server1)
-                # print("dest_path_server1 : " + dest_path_server1)
-                # print("md5 dest_path_server1 : " + calculate_md5(dest_path_server1))
-                # print("src_full_path_server2 : " + src_full_path_server2)
-                # print("dest_full_path_server2 : " + dest_full_path_server2)
-                # print("md5 dest_path_server2 : " + ssh_manager.calculate_remote_md5(dest_full_path_server2))
-                # print("is File name same : " + str(is_same_filename(dest_path_server1, src_full_path_server2)))
-                ssh_manager.delete_file(src_full_path_server2)
-                ssh_manager.send_file(dest_path_server1, dest_full_path_server2)
+                dest_full_path_server2 = self.getServerFullPath(dest_path_server1)
+                if is_same_filename(dest_path_server1, dest_full_path_server2) == True:
+                    if calculate_md5(dest_path_server1) == ssh_manager.calculate_remote_md5(dest_full_path_server2):
+                        ssh_manager.delete_file(dest_full_path_server2)
+                        ssh_manager.send_file(dest_path_server1, dest_full_path_server2)
+                
+                if is_same_filename(dest_path_server1, src_full_path_server2) == False and calculate_md5(dest_path_server1) == ssh_manager.calculate_remote_md5(src_full_path_server2):
+                    ssh_manager.rename_file(src_full_path_server2, dest_full_path_server2)
+                    print("Rename file Success")
+                else:
+                    ssh_manager.delete_file(src_full_path_server2)
+                    ssh_manager.send_file(dest_path_server1, dest_full_path_server2)
         except Exception as e:
             print(f"Error: {str(e)}")
     
-
     def on_created(self, event):
         try:
-            # start ssl server untuk menerima pesan perubahan
-            # start_ssl_server("server-cert.pem", "server-key.pem", lhost.getIP("wlo1"), 1024, "server")
             server1_path = event.src_path
             define_folder = self.folder_enum(server1_path, host_info.direktori)
             if event.is_directory:
                 if ssh_manager.check_existence(define_folder) == False:
                     ssh_manager.create_folder(define_folder)
-                    self.log(f"Created folder on {host_info.hostname}:{define_folder}")
+                    if ssh_manager.check_existence(define_folder) == True: 
+                        self.log(f"Created folder on {host_info.hostname}:{define_folder}")
                 else:
                     print(f"Folder already created ")
             elif not event.is_directory:
                 server2_path = self.getServerFullPath(server1_path)
                 file_existance = ssh_manager.check_existence(server2_path)
                 if file_existance == False:
-                    print(f"File Created {server2_path}")
                     ssh_manager.send_file(server1_path, server2_path)
-                    self.log(f"Created file on {host_info.hostname}:{server2_path}")
-                
-                # print("file eksis : " + str(ssh_manager.check_existence(server2_path)))
-                # print("md5 server2 : " + ssh_manager.calculate_remote_md5(server2_path))
-                
-            # if not ssh_manager.check_file_existence(full_path) or not compare_md5(full_path, folder):
-            # else:
-            #     # File sudah ada di server
-            #     if not compare_md5(full_path, folder):
-            #         # Hash MD5 file berbeda, kirim ulang file
-            #         ssh_manager.delete_file(full_path)
-            #         ssh_manager.send_file(folder, full_path)
-            #         self.log(f"Modified file on {host_info.hostname}:{full_path}")
-            #     else:
-            #         # Hash MD5 file sama, tidak perlu tindakan apa-apa
-            #         print(f"File already exists and is identical: {full_path}")
-
+                    if calculate_md5(server1_path) == ssh_manager.calculate_remote_md5(server2_path):
+                        print(f"File Created {server2_path}")
+                        self.log(f"Created file on {host_info.hostname}:{server2_path}")
+                    
         except Exception as e:
             print(f"Error: {str(e)}")
 

@@ -159,7 +159,48 @@ class SSHManager:
             print(f"Error calculating remote MD5 hash: {str(e)}")
             return None
 
-     
+    def list_files_and_folders(self, remote_path):
+        try:
+            sftp = self.client.open_sftp()
+            file_list = sftp.listdir(remote_path)
+            sftp.close()
+            return file_list
+        except Exception as e:
+            print(f"Error listing files and folders: {str(e)}")
+            return []
+
+    def is_file(self, remote_path):
+        try:
+            sftp = self.client.open_sftp()
+            # Cek apakah path adalah file (bukan direktori)
+            is_file = sftp.stat(remote_path).st_mode and not sftp.stat(remote_path).st_mode & 0o040000
+            sftp.close()
+            return is_file
+        except Exception as e:
+            print(f"Error checking if file: {str(e)}")
+            return False
+
+    def is_directory(self, remote_path):
+        try:
+            sftp = self.client.open_sftp()
+            # Cek apakah path adalah direktori
+            is_directory = sftp.stat(remote_path).st_mode and sftp.stat(remote_path).st_mode & 0o040000
+            sftp.close()
+            return is_directory
+        except Exception as e:
+            print(f"Error checking if directory: {str(e)}")
+            return False
+
+    def get_file_mtime(self, remote_path):
+        try:
+            sftp = self.client.open_sftp()
+            mtime = sftp.stat(remote_path).st_mtime
+            sftp.close()
+            return mtime
+        except Exception as e:
+            print(f"Error getting file modification time: {str(e)}")
+            return 0
+    
     def close(self):
         self.client.close()
         
