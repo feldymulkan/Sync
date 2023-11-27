@@ -17,11 +17,12 @@ class SSHManager:
 
     def is_host_online(self):
         try:
-            command = "whoami" 
-            stdin, stdout, stderr = self.client.exec_command(command)
-
-            stdout.channel.recv_exit_status()
-            return True
+            transport = self.client.get_transport()
+            
+            if transport and transport.is_active():
+                return True
+            else:
+                return False
         except Exception as e:
             print(f"Error when checking host status: {str(e)}")
             return False

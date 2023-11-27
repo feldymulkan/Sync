@@ -54,6 +54,8 @@ def main():
     
     observer.schedule(event_handler, path=lhost_direktori, recursive=True)
     observer.start()
+    
+    
     try:
         while True:
             time.sleep(1)
