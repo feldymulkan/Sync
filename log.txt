@@ -2909,3 +2909,18 @@
 [2023-11-29 15:10:45]Created file on 172.16.28.2:/home/server2/server2/IMG_85jpg.jpg
 [2023-11-29 15:10:46]Created file on 172.16.28.2:/home/server2/server2/1.docx
 [2023-11-29 15:10:46]Created file on 172.16.28.2:/home/server2/server2/2.docx
+[2023-11-30 01:46:08]Created file on 192.168.1.20:/home/lubuntu/server2/tes.py
+[2023-11-30 01:50:06]Deleted file on 192.168.1.20:/home/lubuntu/server2/feldy/.feldy.txt.swp
+[2023-11-30 01:50:39]Created file on 192.168.1.20:/home/lubuntu/server2/feldy/.goutputstream-M5N9E2
+[2023-11-30 01:51:11]Created file on 192.168.1.20:/home/lubuntu/server2/feldy/.goutputstream-ZCT7E2
+[2023-11-30 01:52:23]Deleted file on 192.168.1.20:/home/lubuntu/server2/feldy/2.odt
+[2023-11-30 01:52:23]Created file on 192.168.1.20:/home/lubuntu/server2/feldy/2.odt
+[2023-11-30 01:52:23]/home/lubuntu/server2/feldy/lu3449k2dlor.tmp cannot deleting this file
+[2023-11-30 01:52:23]/home/lubuntu/server2/feldy/.~lock.2.docx# cannot deleting this file
+[2023-11-30 01:52:23]Deleted file on 192.168.1.20:/home/lubuntu/server2/feldy/2.odt
+[2023-11-30 01:52:28]/home/lubuntu/server2/feldy/.~lock.2.odt# cannot deleting this file
+[2023-11-30 02:00:22]Deleted file on 192.168.1.20:/home/lubuntu/server2/feldy/2dsdsdds.odt
+[2023-11-30 02:00:22]Created file on 192.168.1.20:/home/lubuntu/server2/feldy/2dsdsdds.odt
+[2023-11-30 02:00:22]/home/lubuntu/server2/feldy/lu3743k2nvjy.tmp cannot deleting this file
+[2023-11-30 02:00:22]/home/lubuntu/server2/feldy/.~lock.2.docx# cannot deleting this file
+[2023-11-30 02:00:22]Deleted file on 192.168.1.20:/home/lubuntu/server2/feldy/2dsdsdds.odt

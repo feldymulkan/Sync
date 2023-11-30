@@ -157,7 +157,7 @@ class SSHManager:
                 return md5_hash
 
         except Exception as e:
-            print(f"Error calculating remote MD5 hash: {str(e)}")
+            print(f"Error calculating remote MD5 hash,file has been deleted: {str(e)}")
             return None
 
     def list_files_and_folders(self, remote_path):
