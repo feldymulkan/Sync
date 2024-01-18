@@ -2924,3 +2924,193 @@
 [2023-11-30 02:00:22]/home/lubuntu/server2/feldy/lu3743k2nvjy.tmp cannot deleting this file
 [2023-11-30 02:00:22]/home/lubuntu/server2/feldy/.~lock.2.docx# cannot deleting this file
 [2023-11-30 02:00:22]Deleted file on 192.168.1.20:/home/lubuntu/server2/feldy/2dsdsdds.odt
+[2023-11-30 14:26:18]/home/lubuntu/server2/tes cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/tes'
+[2023-11-30 15:48:49]Created folder on 10.50.76.68:/home/lubuntu/server2/freeman
+[2023-11-30 15:52:19]/home/lubuntu/server2/dede cannot be deleted
+[2023-11-30 15:53:09]Created file on 10.50.76.68:/home/lubuntu/server2/.goutputstream-2CRWE2
+[2023-11-30 15:57:46]Folder Modified on 10.50.76.68:/home/lubuntu/server2/dede
+[2023-11-30 16:00:53]/home/lubuntu/server2/tes cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/tes'
+[2023-11-30 16:00:53]/home/lubuntu/server2/pbo.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/pbo.txt'
+[2023-11-30 16:00:53]/home/lubuntu/server2/hahahaha.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/hahahaha.txt'
+[2023-11-30 16:00:53]/home/lubuntu/server2/gagah.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/gagah.txt'
+[2023-11-30 16:00:53]Deleted folder on 10.50.76.68:/home/lubuntu/server2/feldy
+[2023-11-30 16:00:53]/home/lubuntu/server2/dede.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/dede.txt'
+[2023-11-30 16:00:53]Deleted folder on 10.50.76.68:/home/lubuntu/server2/dede
+[2023-11-30 16:00:53]/home/lubuntu/server2/decodebase64.py cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/decodebase64.py'
+[2023-11-30 16:00:53]/home/lubuntu/server2/baru.txt.save cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/baru.txt.save'
+[2023-11-30 16:01:08]Created folder on 10.50.76.68:/home/lubuntu/server2/feldy
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/.goutputstream-ZCT7E2
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/IMG_85jpg.jpg
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/dede.txt
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/2.docx
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/tes.py
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/1.docx
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/2.txt
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/feldy.txt
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/.~lock.2dsdsdds.odt#
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/.goutputstream-M5N9E2
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/feldy/.goutputstream-F8WAF2
+[2023-11-30 16:01:08]Created folder on 10.50.76.68:/home/lubuntu/server2/dede
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/dede/hahahaha.txt
+[2023-11-30 16:01:08]Created file on 10.50.76.68:/home/lubuntu/server2/dede/dede.txt
+[2023-11-30 16:01:09]Created file on 10.50.76.68:/home/lubuntu/server2/dede/tes
+[2023-11-30 16:01:09]Created file on 10.50.76.68:/home/lubuntu/server2/dede/gagah.txt
+[2023-11-30 16:01:09]Created file on 10.50.76.68:/home/lubuntu/server2/dede/pbo.txt
+[2023-11-30 16:01:09]Created file on 10.50.76.68:/home/lubuntu/server2/dede/decodebase64.py
+[2023-11-30 16:01:09]Created file on 10.50.76.68:/home/lubuntu/server2/dede/baru.txt.save
+[2023-11-30 16:02:29]Created file on 10.50.76.68:/home/lubuntu/server2/IMG_85jpg.jpg
+[2023-11-30 16:05:58]/home/lubuntu/server2/dede/hahahaha.txt cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/dede/dede.txt cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/dede/tes cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/dede/gagah.txt cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/dede/pbo.txt cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/dede/decodebase64.py cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/dede/baru.txt.save cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/.goutputstream-ZCT7E2 cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/IMG_85jpg.jpg cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/dede.txt cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/2.docx cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/tes.py cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/1.docx cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/2.txt cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/feldy.txt cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/.~lock.2dsdsdds.odt# cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/.goutputstream-M5N9E2 cannot be deleted
+[2023-11-30 16:05:58]/home/lubuntu/server2/feldy/.goutputstream-F8WAF2 cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/tes cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/pbo.txt cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/hahahaha.txt cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/gagah.txt cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/feldy.jpg cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/dede.txt cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/decodebase64.py cannot be deleted
+[2023-11-30 16:06:20]/home/lubuntu/server2/baru.txt.save cannot be deleted
+[2023-11-30 16:07:51]Created folder on 10.50.76.68:/home/lubuntu/server2/Feldy
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/decodebase64.py
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/pbo.txt
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/baru.txt.save
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/baru.txt
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/pbo.txt.save
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/text.txt
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/establish.py
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/tes.py
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/IMG_85jpg.jpg
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/1.docx
+[2023-11-30 16:08:14]Created file on 10.50.76.68:/home/lubuntu/server2/2.docx
+[2023-11-30 16:10:43]/home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/IMG_85jpg.jpg'
+[2023-11-30 16:10:43]Created file on 10.50.76.68:/home/lubuntu/server2/decodebase64.py
+[2023-11-30 16:10:43]Created file on 10.50.76.68:/home/lubuntu/server2/pbo.txt
+[2023-11-30 16:10:43]Created file on 10.50.76.68:/home/lubuntu/server2/baru.txt.save
+[2023-11-30 16:10:43]Created file on 10.50.76.68:/home/lubuntu/server2/baru.txt
+[2023-11-30 16:10:43]Created file on 10.50.76.68:/home/lubuntu/server2/pbo.txt.save
+[2023-11-30 16:10:43]Created file on 10.50.76.68:/home/lubuntu/server2/text.txt
+[2023-11-30 16:10:43]Created file on 10.50.76.68:/home/lubuntu/server2/establish.py
+[2023-11-30 16:10:44]Created file on 10.50.76.68:/home/lubuntu/server2/tes.py
+[2023-11-30 16:10:44]Created file on 10.50.76.68:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2023-11-30 16:10:44]Created file on 10.50.76.68:/home/lubuntu/server2/1.docx
+[2023-11-30 16:10:44]Created file on 10.50.76.68:/home/lubuntu/server2/2.docx
+[2023-11-30 16:11:06]/home/lubuntu/server2/text.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/text.txt'
+[2023-11-30 16:11:06]/home/lubuntu/server2/tes.py cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/tes.py'
+[2023-11-30 16:11:06]/home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/signal-desktop-keyring.gpg'
+[2023-11-30 16:11:06]/home/lubuntu/server2/pbo.txt.save cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/pbo.txt.save'
+[2023-11-30 16:11:06]/home/lubuntu/server2/pbo.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/pbo.txt'
+[2023-11-30 16:11:06]/home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/IMG_85jpg.jpg'
+[2023-11-30 16:11:06]/home/lubuntu/server2/establish.py cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/establish.py'
+[2023-11-30 16:11:06]/home/lubuntu/server2/decodebase64.py cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/decodebase64.py'
+[2023-11-30 16:11:06]/home/lubuntu/server2/baru.txt.save cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/baru.txt.save'
+[2023-11-30 16:11:06]/home/lubuntu/server2/baru.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/baru.txt'
+[2023-11-30 16:11:06]/home/lubuntu/server2/2.docx cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/2.docx'
+[2023-11-30 16:11:06]/home/lubuntu/server2/1.docx cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/1.docx'
+[2023-11-30 16:11:32]/home/lubuntu/server2/text.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/text.txt'
+[2023-11-30 16:11:32]/home/lubuntu/server2/tes.py cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/tes.py'
+[2023-11-30 16:11:32]/home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/signal-desktop-keyring.gpg'
+[2023-11-30 16:11:32]/home/lubuntu/server2/pbo.txt.save cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/pbo.txt.save'
+[2023-11-30 16:11:32]/home/lubuntu/server2/pbo.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/pbo.txt'
+[2023-11-30 16:11:32]/home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/IMG_85jpg.jpg'
+[2023-11-30 16:11:32]/home/lubuntu/server2/establish.py cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/establish.py'
+[2023-11-30 16:11:32]/home/lubuntu/server2/decodebase64.py cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/decodebase64.py'
+[2023-11-30 16:11:32]/home/lubuntu/server2/baru.txt.save cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/baru.txt.save'
+[2023-11-30 16:11:32]/home/lubuntu/server2/baru.txt cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/baru.txt'
+[2023-11-30 16:11:32]/home/lubuntu/server2/2.docx cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/2.docx'
+[2023-11-30 16:11:32]/home/lubuntu/server2/1.docx cannot be deleted: [Errno 2] No such file or directory: '/home/cipeng/server1/1.docx'
+[2023-11-30 16:31:19]Created folder on 10.50.76.68:/home/lubuntu/server2/Feldy
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/decodebase64.py
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/pbo.txt
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/baru.txt.save
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/baru.txt
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/pbo.txt.save
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/text.txt
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/establish.py
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/tes.py
+[2023-12-07 14:30:24]Created file on 10.50.76.50:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2023-12-07 14:30:25]Created file on 10.50.76.50:/home/lubuntu/server2/IMG_85jpg.jpg
+[2023-12-07 14:30:25]Created file on 10.50.76.50:/home/lubuntu/server2/1.docx
+[2023-12-07 14:30:25]Created file on 10.50.76.50:/home/lubuntu/server2/2.docx
+[2023-12-07 14:39:52]Created folder on 10.50.76.50:/home/lubuntu/server2/feldy
+[2023-12-07 14:42:35]Deleted file on 10.50.76.50:/home/lubuntu/server2/text.txt
+[2023-12-07 14:42:35]Deleted file on 10.50.76.50:/home/lubuntu/server2/tes.py
+[2023-12-07 14:42:35]Deleted file on 10.50.76.50:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2023-12-07 14:42:35]Deleted file on 10.50.76.50:/home/lubuntu/server2/pbo.txt.save
+[2023-12-07 14:42:35]Deleted file on 10.50.76.50:/home/lubuntu/server2/pbo.txt
+[2023-12-07 14:42:35]Deleted file on 10.50.76.50:/home/lubuntu/server2/IMG_85jpg.jpg
+[2023-12-07 14:42:35]Deleted folder on 10.50.76.50:/home/lubuntu/server2/feldy
+[2023-12-07 14:42:36]Deleted file on 10.50.76.50:/home/lubuntu/server2/establish.py
+[2023-12-07 14:42:36]Deleted file on 10.50.76.50:/home/lubuntu/server2/decodebase64.py
+[2023-12-07 14:42:36]Deleted file on 10.50.76.50:/home/lubuntu/server2/baru.txt.save
+[2023-12-07 14:42:36]Deleted file on 10.50.76.50:/home/lubuntu/server2/baru.txt
+[2023-12-07 14:42:36]Deleted file on 10.50.76.50:/home/lubuntu/server2/2.docx
+[2023-12-07 14:42:36]Deleted file on 10.50.76.50:/home/lubuntu/server2/1.docx
+[2023-12-07 14:42:41]Created file on 10.50.76.50:/home/lubuntu/server2/baru.txt
+[2023-12-07 14:42:41]Created file on 10.50.76.50:/home/lubuntu/server2/pbo.txt.save
+[2023-12-07 14:42:42]Created folder on 10.50.76.50:/home/lubuntu/server2/feldy
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/baru.txt.save
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/1.docx
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/decodebase64.py
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/tes.py
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/establish.py
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/2.docx
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/IMG_85jpg.jpg
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/text.txt
+[2023-12-07 14:42:42]Created file on 10.50.76.50:/home/lubuntu/server2/pbo.txt
+[2023-12-07 14:50:08]Created file on 10.50.76.50:/home/lubuntu/server2/.goutputstream-GQRLF2
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/text.txt
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/tes.py
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/pbo.txt.save
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/pbo.txt
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-01-13 15:32:04]Deleted folder on 10.26.48.21:/home/lubuntu/server2/feldy
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/establish.py
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/decodebase64.py
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/baru.txt.save
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/baru.txt
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/2.docx
+[2024-01-13 15:32:04]Deleted file on 10.26.48.21:/home/lubuntu/server2/1.docx
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/pbo.txt
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/baru.txt
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/baru.txt.save
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/text.txt
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/2.docx
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/decodebase64.py
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/1.docx
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/pbo.txt.save
+[2024-01-13 15:32:15]Created folder on 10.26.48.21:/home/lubuntu/server2/feldy
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/tes.py
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/establish.py
+[2024-01-13 15:32:15]Created file on 10.26.48.21:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-01-13 15:47:00]Created file on 10.26.48.21:/home/lubuntu/server2/.goutputstream-V8KYH2
+[2024-01-13 15:50:00]Created file on 10.26.48.21:/home/lubuntu/server2/.goutputstream-PDANH2
+[2024-01-13 15:50:25]Created file on 10.26.48.21:/home/lubuntu/server2/.goutputstream-9O5ZH2
+[2024-01-13 15:57:33]Created file on 10.26.48.21:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-13 15:58:41]Created file on 10.26.48.21:/home/lubuntu/server2/feldy/lu5236833aj6.tmp
+[2024-01-13 15:58:41]Created file on 10.26.48.21:/home/lubuntu/server2/feldy/.~lock.feldy.odt#
+[2024-01-13 15:58:41]Created file on 10.26.48.21:/home/lubuntu/server2/feldy/feldy.odt
+[2024-01-13 15:58:41]Deleted file on 10.26.48.21:/home/lubuntu/server2/feldy/lu5236833aj6.tmp
+[2024-01-13 15:58:41]Deleted file on 10.26.48.21:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-13 15:59:34]Deleted file on 10.26.48.21:/home/lubuntu/server2/feldy/.~lock.feldy.odt#
+[2024-01-13 15:59:34]Created file on 10.26.48.21:/home/lubuntu/server2/feldy/lu5236833ajg.tmp
+[2024-01-13 15:59:34]Created file on 10.26.48.21:/home/lubuntu/server2/feldy/.~lock.feldy.odt#
