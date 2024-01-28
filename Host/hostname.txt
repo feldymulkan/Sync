@@ -1,11 +1,5 @@
-hostname1=10.50.76.32
-port1=22
-username1=kali
-password1=kali
-direktori1=/home/kali/server2
-
-hostname2=10.50.76.32
-port2=22
-username2=kali
-password2=kali
-direktori2=/home/kali/server2
+hostname=10.26.48.21
+port=22
+username=lubuntu
+password=lubuntu
+direktori=/home/lubuntu/server2/

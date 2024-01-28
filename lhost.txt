@@ -1,0 +1,3 @@
+localdir=/home/cipeng/server1/
+interface=wlo1
+port=12345

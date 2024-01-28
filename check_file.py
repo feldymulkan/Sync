@@ -21,12 +21,3 @@ def check_file_existence(hostname, port, username, password, remote_path):
         print(f"Error: {str(e)}")
     finally:
         ssh_client.close()
-
-# Contoh penggunaan
-hostname = "192.168.20.2"
-port = 22
-username = "server2"
-password = "jarkom123"
-remote_path = "/home/server2/file.txt"
-
-check_file_existence(hostname, port, username, password, remote_path)

@@ -3114,3 +3114,222 @@
 [2024-01-13 15:59:34]Deleted file on 10.26.48.21:/home/lubuntu/server2/feldy/.~lock.feldy.odt#
 [2024-01-13 15:59:34]Created file on 10.26.48.21:/home/lubuntu/server2/feldy/lu5236833ajg.tmp
 [2024-01-13 15:59:34]Created file on 10.26.48.21:/home/lubuntu/server2/feldy/.~lock.feldy.odt#
+[2024-01-27 03:42:29]Created folder on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy
+[2024-01-27 03:46:35]Created folder on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/tesdede
+[2024-01-27 03:47:59]Created folder on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/sdfsdfdfsd
+[2024-01-27 03:49:56]Created folder on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/tess
+[2024-01-27 03:53:17]Created file on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/silvia.txt
+[2024-01-27 03:54:54]Created file on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/silvianew.txt
+[2024-01-27 03:55:31]Created folder on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/feldy/dede
+[2024-01-27 03:55:41]Created file on 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/feldy/dede/file.txt
+[2024-01-27 03:56:51]Created folder on 172.16.28.37:/home/lubuntu/server2/feldy/dede/dede
+[2024-01-27 03:57:19]Deleted file on 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-01-27 03:57:28]/home/lubuntu/server2/tettes.py cannot be deleted as it doesn't exist on the server.
+[2024-01-27 03:57:28]Deleted file on 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-01-27 03:57:28]Deleted file on 172.16.28.37:/home/lubuntu/server2/tes
+[2024-01-27 03:57:28]/home/lubuntu/server2/silvianew.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-27 03:57:28]/home/lubuntu/server2/silvia.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-27 03:57:28]Deleted file on 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-01-27 03:57:28]Deleted file on 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-01-27 03:57:28]Deleted file on 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-01-27 03:57:28]Deleted folder on 172.16.28.37:/home/lubuntu/server2/home
+[2024-01-27 03:57:28]Deleted file on 172.16.28.37:/home/lubuntu/server2/hai.py
+[2024-01-27 03:57:29]Deleted folder on 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-01-27 03:57:29]Deleted file on 172.16.28.37:/home/lubuntu/server2/feldeefefef.txt
+[2024-01-27 03:57:29]Deleted file on 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-01-27 03:57:29]/home/lubuntu/server2/dede.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-27 03:57:29]Deleted file on 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-01-27 03:57:29]Deleted file on 172.16.28.37:/home/lubuntu/server2/barudedede.txt
+[2024-01-27 03:57:29]Deleted file on 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-01-27 03:57:29]Deleted file on 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-01-27 03:57:29]Deleted file on 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-01-27 03:57:55]Created folder on 172.16.28.37:/home/lubuntu/server2/ferry
+[2024-01-27 03:57:55]Created file on 172.16.28.37:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-27 03:57:55]Created file on 172.16.28.37:/home/lubuntu/server2/myserver-key.pem
+[2024-01-27 03:57:55]Created file on 172.16.28.37:/home/lubuntu/server2/myserver-request.csr
+[2024-01-27 03:57:55]Created file on 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-01-27 04:10:19]Created file on 172.16.28.37:/home/lubuntu/server2/.goutputstream-ABI6H2
+[2024-01-27 04:44:21]Created folder on 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-27 04:44:33]Created file on 172.16.28.37:/home/lubuntu/server2/hari.txt
+[2024-01-27 04:46:11]Created file on 172.16.28.37:/home/lubuntu/server2/.goutputstream-Z9Q2H2
+[2024-01-28 14:42:20]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 14:43:48]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/feldy
+[2024-01-28 15:07:47]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy3/dede
+[2024-01-28 15:07:57]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/dede.txt
+[2024-01-28 15:08:06]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:08:09]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:08:09]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:08:18]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:09:52]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:09:53]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:09:53]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:09:55]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 15:11:28]Created file on 192.168.1.31:/home/lubuntu/server2/1.docx
+[2024-01-28 15:11:29]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-28 15:11:42]Created file on 192.168.1.31:/home/lubuntu/server2/lu77951d2f2.tmp
+[2024-01-28 15:11:42]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:11:42]Created file on 192.168.1.31:/home/lubuntu/server2/real.odt
+[2024-01-28 15:11:42]Deleted file on 192.168.1.31:/home/lubuntu/server2/lu77951d2f2.tmp
+[2024-01-28 15:11:42]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-28 15:11:46]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:11:46]Created file on 192.168.1.31:/home/lubuntu/server2/lu77951d2fc.tmp
+[2024-01-28 15:11:46]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:12:03]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:12:03]Created file on 192.168.1.31:/home/lubuntu/server2/lu77951d2fm.tmp
+[2024-01-28 15:12:03]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:12:13]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:12:13]Created file on 192.168.1.31:/home/lubuntu/server2/lu77951d2fx.tmp
+[2024-01-28 15:12:13]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:21:02]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-28 15:21:07]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-28 15:21:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 15:21:14]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 16:21:41]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 16:21:41]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 16:21:41]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 16:21:47]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 16:23:07]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 16:23:07]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 16:23:07]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 16:23:15]Deleted file on 192.168.1.31:/home/lubuntu/server2/Feldy3/.dede.txt.swp
+[2024-01-28 17:13:02]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 17:13:08]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-28 17:13:13]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.1.docx#
+[2024-01-28 17:13:14]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 17:13:20]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 17:13:20]Created file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 17:13:54]Deleted file on 192.168.1.31:/home/lubuntu/server2/.~lock.real.odt#
+[2024-01-28 17:14:06]Deleted file on 192.168.1.31:/home/lubuntu/server2/real.odt
+[2024-01-28 17:14:06]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-request.csr
+[2024-01-28 17:14:06]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-key.pem
+[2024-01-28 17:14:06]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-28 17:14:06]Deleted file on 192.168.1.31:/home/lubuntu/server2/jumat.txt
+[2024-01-28 17:14:06]/home/lubuntu/server2/hari.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:14:06]Deleted folder on 192.168.1.31:/home/lubuntu/server2/ferry
+[2024-01-28 17:14:06]Deleted folder on 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 17:14:06]Deleted folder on 192.168.1.31:/home/lubuntu/server2/Feldy
+[2024-01-28 17:14:06]Deleted file on 192.168.1.31:/home/lubuntu/server2/dedede.py
+[2024-01-28 17:14:06]Deleted file on 192.168.1.31:/home/lubuntu/server2/1.docx
+[2024-01-28 17:16:16]/home/lubuntu/server2/real.odt cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:16]/home/lubuntu/server2/myserver-request.csr cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:16]/home/lubuntu/server2/myserver-key.pem cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:16]/home/lubuntu/server2/myserver-cert.pem cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:16]/home/lubuntu/server2/jumat.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:16]/home/lubuntu/server2/hari.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:16]/home/lubuntu/server2/dedede.py cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:16]/home/lubuntu/server2/1.docx cannot be deleted as it doesn't exist on the server.
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/myserver-key.pem
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/hari.txt
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/jumat.txt
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/myserver-request.csr
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/dedede.py
+[2024-01-28 17:16:20]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/1.docx
+[2024-01-28 17:16:20]Created folder on 192.168.1.31:/home/lubuntu/server2/ferry
+[2024-01-28 17:16:20]Created file on 192.168.1.31:/home/lubuntu/server2/real.odt
+[2024-01-28 17:16:21]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 17:16:21]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy3/dede
+[2024-01-28 17:16:21]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/dede.txt
+[2024-01-28 17:16:21]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/Feldy.txt
+[2024-01-28 17:16:33]Deleted file on 192.168.1.31:/home/lubuntu/server2/real.odt
+[2024-01-28 17:16:33]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-request.csr
+[2024-01-28 17:16:33]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-key.pem
+[2024-01-28 17:16:33]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-28 17:16:33]Deleted file on 192.168.1.31:/home/lubuntu/server2/jumat.txt
+[2024-01-28 17:16:33]Deleted file on 192.168.1.31:/home/lubuntu/server2/hari.txt
+[2024-01-28 17:16:33]Deleted folder on 192.168.1.31:/home/lubuntu/server2/ferry
+[2024-01-28 17:16:33]Deleted folder on 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 17:16:33]Deleted folder on 192.168.1.31:/home/lubuntu/server2/Feldy
+[2024-01-28 17:16:33]Deleted file on 192.168.1.31:/home/lubuntu/server2/dedede.py
+[2024-01-28 17:16:34]Deleted file on 192.168.1.31:/home/lubuntu/server2/1.docx
+[2024-01-28 17:16:35]Created file on 192.168.1.31:/home/lubuntu/server2/myserver-key.pem
+[2024-01-28 17:16:35]Created file on 192.168.1.31:/home/lubuntu/server2/hari.txt
+[2024-01-28 17:16:35]Created file on 192.168.1.31:/home/lubuntu/server2/jumat.txt
+[2024-01-28 17:16:35]Created file on 192.168.1.31:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-28 17:16:35]Created file on 192.168.1.31:/home/lubuntu/server2/myserver-request.csr
+[2024-01-28 17:16:35]Created file on 192.168.1.31:/home/lubuntu/server2/dedede.py
+[2024-01-28 17:16:35]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy
+[2024-01-28 17:16:36]Created file on 192.168.1.31:/home/lubuntu/server2/1.docx
+[2024-01-28 17:16:36]Created folder on 192.168.1.31:/home/lubuntu/server2/ferry
+[2024-01-28 17:16:36]Created file on 192.168.1.31:/home/lubuntu/server2/real.odt
+[2024-01-28 17:16:36]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 17:16:36]Created folder on 192.168.1.31:/home/lubuntu/server2/Feldy3/dede
+[2024-01-28 17:16:36]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/dede.txt
+[2024-01-28 17:16:36]Created file on 192.168.1.31:/home/lubuntu/server2/Feldy3/Feldy.txt
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/real.odt
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-request.csr
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-key.pem
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/jumat.txt
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/hari.txt
+[2024-01-28 17:36:14]Deleted folder on 192.168.1.31:/home/lubuntu/server2/ferry
+[2024-01-28 17:36:14]Deleted folder on 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 17:36:14]Deleted folder on 192.168.1.31:/home/lubuntu/server2/Feldy
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/dedede.py
+[2024-01-28 17:36:14]Deleted file on 192.168.1.31:/home/lubuntu/server2/1.docx
+[2024-01-28 17:36:21]Created file: 192.168.1.31:/home/lubuntu/server2/myserver-key.pem
+[2024-01-28 17:36:21]Created file: 192.168.1.31:/home/lubuntu/server2/hari.txt
+[2024-01-28 17:36:21]Created file: 192.168.1.31:/home/lubuntu/server2/jumat.txt
+[2024-01-28 17:36:21]Created file: 192.168.1.31:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-28 17:36:21]Created file: 192.168.1.31:/home/lubuntu/server2/myserver-request.csr
+[2024-01-28 17:36:21]Created file: 192.168.1.31:/home/lubuntu/server2/dedede.py
+[2024-01-28 17:36:21]Created folder: 192.168.1.31:/home/lubuntu/server2/Feldy
+[2024-01-28 17:36:22]Created file: 192.168.1.31:/home/lubuntu/server2/1.docx
+[2024-01-28 17:36:22]Created folder: 192.168.1.31:/home/lubuntu/server2/ferry
+[2024-01-28 17:36:22]Created file: 192.168.1.31:/home/lubuntu/server2/real.odt
+[2024-01-28 17:36:22]Created folder: 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 17:36:22]Created folder: 192.168.1.31:/home/lubuntu/server2/Feldy3/dede
+[2024-01-28 17:36:22]Created file: 192.168.1.31:/home/lubuntu/server2/Feldy3/dede.txt
+[2024-01-28 17:36:22]Created file: 192.168.1.31:/home/lubuntu/server2/Feldy3/Feldy.txt
+[2024-01-28 17:38:39]Folder Modified: 192.168.1.31:/home/lubuntu/server2/feldy hehe
+[2024-01-28 17:38:39]Folder Modified: 192.168.1.31:/home/lubuntu/server2/feldy hehe/dede
+[2024-01-28 17:38:50]Folder Modified: 192.168.1.31:/home/lubuntu/server2/Feldy3
+[2024-01-28 17:38:50]Folder Modified: 192.168.1.31:/home/lubuntu/server2/Feldy3/dede
+[2024-01-28 17:41:17]Folder Modified: 192.168.1.31:/home/lubuntu/server2/feldy
+[2024-01-28 17:42:55]Folder Modified: 192.168.1.31:/home/lubuntu/server2/silvia
+[2024-01-28 17:42:55]Folder Modified: 192.168.1.31:/home/lubuntu/server2/silvia/dede
+[2024-01-28 17:44:24]Folder Modified: 192.168.1.31:/home/lubuntu/server2/dedefe
+[2024-01-28 17:44:24]Folder Modified: 192.168.1.31:/home/lubuntu/server2/dedefe/dede
+[2024-01-28 17:46:46]Rename Folder: 192.168.1.31:/home/lubuntu/server2/hai
+[2024-01-28 17:46:46]Rename Folder: 192.168.1.31:/home/lubuntu/server2/hai/dede
+[2024-01-28 17:46:51]Rename Folder: 192.168.1.31:/home/lubuntu/server2/Feldy/hai
+[2024-01-28 17:46:51]Rename Folder: 192.168.1.31:/home/lubuntu/server2/Feldy/hai/dede
+[2024-01-28 17:49:16]Created folder: 192.168.1.31:/home/lubuntu/server2/Fefefefe
+[2024-01-28 17:49:22]Rename Folder: 192.168.1.31:/home/lubuntu/server2/silvia
+[2024-01-28 17:53:57]Rename Folder: 192.168.1.31:/home/lubuntu/server2/silvia
+[2024-01-28 17:54:08]Rename Folder: 192.168.1.31:/home/lubuntu/server2/dededehehee
+[2024-01-28 17:54:18]Rename Folder: 192.168.1.31:/home/lubuntu/server2/feldynov
+[2024-01-28 18:05:21]Rename Folder: 192.168.1.31:/home/lubuntu/server2/abiyu
+[2024-01-29 01:23:55]Rename Folder: 172.16.28.37:/home/lubuntu/server2/haribaik
+[2024-01-29 01:29:59]Created folder: 172.16.28.37:/home/lubuntu/server2/Feldy\
+[2024-01-29 01:30:30]Rename Folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-29 01:33:51]Deleted file: 172.16.28.37:/home/lubuntu/server2/sabtu.txt
+[2024-01-29 01:33:51]Deleted file: 172.16.28.37:/home/lubuntu/server2/real.odt
+[2024-01-29 01:33:51]Deleted file: 172.16.28.37:/home/lubuntu/server2/myserver-request.csr
+[2024-01-29 01:33:51]Deleted file: 172.16.28.37:/home/lubuntu/server2/myserver-key.pem
+[2024-01-29 01:33:51]Deleted file: 172.16.28.37:/home/lubuntu/server2/myserver-cert.pem
+[2024-01-29 01:33:51]Deleted file: 172.16.28.37:/home/lubuntu/server2/hari-hari.txt
+[2024-01-29 01:33:51]Deleted folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-29 01:33:51]Deleted file: 172.16.28.37:/home/lubuntu/server2/dedede.py
+[2024-01-29 01:33:52]Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-01-29 01:33:57]Created folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-29 01:34:00]Created folder: 172.16.28.37:/home/lubuntu/server2/Dede
+[2024-01-29 01:45:06]Created folder: 172.16.28.37:/home/lubuntu/server2/free
+[2024-01-29 01:45:09]Moved Folder: 172.16.28.37:/home/lubuntu/server2/Feldy/free
+[2024-01-29 01:50:32]Created file: 172.16.28.37:/home/lubuntu/server2/tes.txt
+[2024-01-29 01:53:10]/home/lubuntu/server2/tes.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-29 01:53:18]Created folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-29 01:53:26]Created file: 172.16.28.37:/home/lubuntu/server2/file.txt
+[2024-01-29 01:55:09]Created file: 172.16.28.37:/home/lubuntu/server2/file2.txt
+[2024-01-29 01:56:59]Created file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 01:59:27]Moved file to: 172.16.28.37:/home/lubuntu/server2/Feldy/file2.txt
+[2024-01-29 01:59:27]Moved file to: 172.16.28.37:/home/lubuntu/server2/Feldy/file.txt
+[2024-01-29 02:26:29]Moved file to: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 02:26:37]Moved file to: 172.16.28.37:/home/lubuntu/server2/Feldy/feldy.txt
+[2024-01-29 02:27:06]Deleted folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-29 02:30:06]Created file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 02:31:43]Created file: 172.16.28.37:/home/lubuntu/server2/silvia.txt
+[2024-01-29 02:34:11]Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-01-29 02:34:12]Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-01-29 02:34:12]Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf

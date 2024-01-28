@@ -49,7 +49,7 @@ class SSHManager:
             sftp = self.client.open_sftp()
             sftp.remove(remote_path)
             sftp.close()
-            print(f"File deleted on {self.hostname}:{remote_path}")
+            # print(f"File deleted on {self.hostname}:{remote_path}")
         except Exception as e:
             print(f"Error deleting file: {str(e)}")
 
@@ -60,11 +60,11 @@ class SSHManager:
             stdin, stdout, stderr = self.client.exec_command(command)
             exit_status = stdout.channel.recv_exit_status()
 
-            if exit_status == 0:
-                print(f"Folder deleted on {self.hostname}:{remote_path}")
-            else:
-                error_message = stderr.read().decode()
-                print(f"Failed to delete folder on {self.hostname}:{remote_path}: {error_message}")
+            # if exit_status == 0:
+            #     print(f"Folder deleted on {self.hostname}:{remote_path}")
+            # else:
+            #     error_message = stderr.read().decode()
+            #     print(f"Failed to delete folder on {self.hostname}:{remote_path}: {error_message}")
 
         except paramiko.SSHException as e:
             print(f"SSH Error: {str(e)}")
@@ -72,23 +72,20 @@ class SSHManager:
         except Exception as e:
             print(f"Error deleting folder: {str(e)}")
 
+    def send_and_replace_file(self, local_path, remote_path):
+        try:
+            # Cek apakah file di remote_path sudah ada
+            if self.check_existence(remote_path):
+                # Hapus file yang sudah ada di remote_path
+                self.delete_file(remote_path)
 
-    # def delete_folder(self, remote_path):
-    #     try:
-    #         ssh = self.client.invoke_shell()
-    #         ssh.send(f'rm -r {remote_path}\n')
-    #         while not ssh.recv_ready():
-    #             pass
-    #         response = ssh.recv(1024).decode()
-    #         ssh.close()
+            # Kirim file baru
+            self.send_file(local_path, remote_path)
             
-    #         if "No such file or directory" in response:
-    #             print(f"Folder does not exist on {self.hostname}:{remote_path}")
-    #         else:
-    #             print(f"Folder deleted on {self.hostname}:{remote_path}")
-    #     except Exception as e:
-    #         print(f"Error deleting folder: {str(e)}")
-
+            # print(f"File sent and replaced on {self.hostname}:{remote_path}")
+        except Exception as e:
+            print(f"Error sending and replacing file: {str(e)}")
+    
     def create_folder(self, remote_path):
         try:
             command = f'mkdir -p {remote_path}'
@@ -96,11 +93,11 @@ class SSHManager:
             stdin, stdout, stderr = self.client.exec_command(command)
             exit_status = stdout.channel.recv_exit_status()
 
-            if exit_status == 0:
-                print(f"Created folder on {self.hostname}:{remote_path}")
-            else:
-                error_message = stderr.read().decode()
-                print(f"Failed to create folder on {self.hostname}:{remote_path}: {error_message}")
+            # if exit_status == 0:
+            #     print(f"Created folder on {self.hostname}:{remote_path}")
+            # else:
+            #     error_message = stderr.read().decode()
+            #     print(f"Failed to create folder on {self.hostname}:{remote_path}: {error_message}")
         except paramiko.SSHException as e:
             print(f"SSH Error: {str(e)}")
         except Exception as e:
@@ -122,7 +119,6 @@ class SSHManager:
             sftp = self.client.open_sftp()
             sftp.rename(src_path, dest_path)
             sftp.close()
-            print(f"File renamed from {src_path} to {dest_path}")
         except Exception as e:
             print(f"Error renaming file: {str(e)}")
             
@@ -201,9 +197,31 @@ class SSHManager:
         except Exception as e:
             print(f"Error getting file modification time: {str(e)}")
             return 0
-    
+
+    def move(self, src_path, dest_path):
+        try:
+            # Buat perintah SSH untuk memindahkan folder
+            command = f"mv {src_path} {dest_path}"
+
+            # Jalankan perintah SSH
+            stdin, stdout, stderr = self.client.exec_command(command)
+            exit_status = stdout.channel.recv_exit_status()
+
+            if exit_status == 0:
+                # print(f"Folder moved from {src_path} to {dest_path}")
+                pass
+            else:
+                error_message = stderr.read().decode()
+                print(f"Failed to move folder: {error_message}")
+
+        except paramiko.SSHException as e:
+            print(f"SSH Error: {str(e)}")
+        except Exception as e:
+            print(f"Error moving folder: {str(e)}")
+
     def close(self):
         self.client.close()
-        
+    
+    
         
 

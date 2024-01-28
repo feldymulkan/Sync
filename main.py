@@ -1,13 +1,14 @@
-import os
 import time
-import psutil
-from file_sync import MyHandler, ssh_manager, observer, lhost
+from Host.localhost import localhost
+from file_sync import MyHandler, ssh_manager, observer
 from getfile import GetFileManager
+from Communication.ClientServer import start_server, start_client
+
 
 def cetak():
     artwork = """
     __   __                              
-    \ \ / /                              
+    \ \ / /                                  
     \ v /  _   ______  ___  _  __ _   _ 
     > <  | | (  __  )/ __)| |/ /( \ / )
     / ^ \ | |  | || | > _) | / /  \ v / 
@@ -17,44 +18,34 @@ def cetak():
     """
     print(artwork)
 
-def get_network_interfaces():
-# Mendapatkan daftar nama antarmuka jaringan
-    interfaces = os.listdir('/sys/class/net/')
-    return interfaces
-
-def getIp(interface_name):
-    try:
-        addrs = psutil.net_if_addrs()
-        if interface_name in addrs:
-            ip_address = addrs[interface_name][0].address
-            return ip_address
-        else:
-                return None
-    except Exception as e:
-        print(f"Terjadi kesalahan: {e}")
-        return None
-
 def main():
-    # Mendapatkan dan mencetak daftar nama antarmuka
-    interface_names = get_network_interfaces()
-    cetak()
-    print("Welcome to file synhcronization")
-    print(f"Hostname : {lhost.getHostName()}")
-    for name in interface_names:
-        get_ip = getIp(name)
-        print(f"interfaces {name} : {get_ip}")
+    #localhost
+    lhost = localhost.read_localhost_info("lhost.txt")
+    local_ip = lhost.getIP(lhost.getInterface())
+    local_port = int(lhost.getPort())
     
-    # local_direktori = input("Masukkan direktori anda : ")
-    local_direktori = "/home/cipeng/server1"
-    lhost.setLocalFolder(local_direktori)   
-    lhost_direktori = lhost.getLocalFolder()
-    getFile = GetFileManager(ssh_manager, lhost_direktori)
-    event_handler = MyHandler(lhost_direktori, ssh_manager)
+    #Host SSH
+    ip_target = ssh_manager.hostname
+    
+    cetak()
+    print("Welcome to file synchronization")
+    print(f"Hostname: {lhost.getHostName()}")
+    print(f"Active IP: {lhost.getActiveInterfaceIP()}")
+
+    
+    # local_message= "Hello"
+    # start_client(ip_target, local_message)
+    # time.sleep(2)
+    # start_server(local_ip)
+
+    
+    
+    active_interface_ip = lhost.getActiveInterfaceIP()
+    getFile = GetFileManager(ssh_manager, lhost.getLocalFolder())
     getFile.download_files_from_server()
     
-    observer.schedule(event_handler, path=lhost_direktori, recursive=True)
+    observer.schedule(MyHandler(lhost.getLocalFolder(), ssh_manager), path=lhost.getLocalFolder(), recursive=True)
     observer.start()
-    
     
     try:
         while True:

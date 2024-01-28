@@ -1,5 +1,4 @@
 import os
-from SSH.ssh_manager import SSHManager
 from Host.host import Host
 
 host_info = Host.read_host_info("hostname.txt")
@@ -35,27 +34,3 @@ class GetFileManager:
         except Exception as e:
             print(f"Error: {str(e)}")
 
-# def main():
-#     # Informasi koneksi SSH
-#     hostname = '192.168.20.2'
-#     port = 22
-#     username = 'server2'
-#     password = 'jarkom123'
-    
-#     # Path di server dan lokal
-#     remote_path = '/home/server2/server2/'
-#     local_path = '/home/cipeng/server1'
-
-    
-#     # Membuat objek GetFileManager
-#     file_manager = GetFileManager(ssh_manager_getfile, local_path)
-    
-#     # Mendownload file dan subfolder dari server
-#     file_manager.download_files_from_server()
-
-#     # Menutup koneksi SSH
-#     ssh_manager_getfile.close()
-
-# if __name__ == "__main__":
-#     #print
-#     main()
