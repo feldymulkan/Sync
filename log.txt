@@ -3333,3 +3333,168 @@
 [2024-01-29 02:34:11]Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
 [2024-01-29 02:34:12]Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
 [2024-01-29 02:34:12]Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-01-29 02:38:10]Deleted file: 172.16.28.37:/home/lubuntu/server2/silvia.txt
+[2024-01-29 02:38:10]Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-01-29 02:38:10]Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 02:38:10]Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-01-29 02:38:10]Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-01-29 02:38:13]Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-01-29 02:38:13]Created file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 02:38:13]Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-01-29 02:38:13]Created file: 172.16.28.37:/home/lubuntu/server2/silvia.txt
+[2024-01-29 02:38:13]Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-01-29 02:38:17]Created file: 172.16.28.37:/home/lubuntu/server2/.~lock.2.docx#
+[2024-01-29 02:38:30]Created file: 172.16.28.37:/home/lubuntu/server2/.~lock.ngetes.odt#
+[2024-01-29 02:38:30]Created file: 172.16.28.37:/home/lubuntu/server2/ngetes.odt
+[2024-01-29 02:38:30]Deleted file: 172.16.28.37:/home/lubuntu/server2/.~lock.2.docx#
+[2024-01-29 02:38:40]Deleted file: 172.16.28.37:/home/lubuntu/server2/.~lock.ngetes.odt#
+[2024-01-29 02:38:40]Created file: 172.16.28.37:/home/lubuntu/server2/.~lock.ngetes.odt#
+[2024-01-29 02:39:15]Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-01-29 02:39:18]Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-01-29 02:39:22]Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 02:39:24]Deleted file: 172.16.28.37:/home/lubuntu/server2/silvia.txt
+[2024-01-29 02:39:24]Deleted file: 172.16.28.37:/home/lubuntu/server2/ngetes.odt
+[2024-01-29 02:39:24]Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-01-29 02:40:22]Created file: 172.16.28.37:/home/lubuntu/server2/LF20.pdf
+[2024-01-29 02:41:46]Created file: 172.16.28.37:/home/lubuntu/server2/CyBOK-version-1.0.pdf
+[2024-01-29 02:43:43]Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-01-29 14:55:14]Deleted file: 172.16.28.37:/home/lubuntu/server2/LF20.pdf
+[2024-01-29 14:55:14]Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-01-29 14:55:14]Deleted file: 172.16.28.37:/home/lubuntu/server2/CyBOK-version-1.0.pdf
+[2024-01-29 14:55:18]Created folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-29 14:55:25]Created file: 172.16.28.37:/home/lubuntu/server2/Feldy/feldy.txt
+[2024-01-29 15:08:55]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy/Dede
+[2024-01-29 15:09:15]Moved folder to: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy/home
+[2024-01-29 15:09:15]Moved folder to: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy/home/cipeng
+[2024-01-29 15:09:15]Moved folder to: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy/home/cipeng/server1
+[2024-01-29 15:09:15]Moved folder to: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy/home/cipeng/server1/Feldy
+[2024-01-29 15:09:15]Moved folder to: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy/home/cipeng/server1/Feldy/Dede
+[2024-01-29 15:10:20]Deleted folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Feldy
+[2024-01-29 15:10:55]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/Ddede
+[2024-01-29 15:11:52]Created file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 15:12:17]Deleted folder: 172.16.28.37:/home/lubuntu/server2/home
+[2024-01-29 15:12:17]Deleted folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-01-29 15:12:17]Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-01-29 15:12:27]Created file: 172.16.28.37:/home/lubuntu/server2/feldydede.txt
+[2024-01-29 15:13:01]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/dedede
+[2024-01-29 15:13:37]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/ghehe
+[2024-01-29 15:14:57]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/server1/hehedede
+[2024-01-29 15:18:01]Created folder: 172.16.28.37:/home/lubuntu/server2/new
+[2024-01-29 15:18:36]Created folder: 172.16.28.37:/home/lubuntu/server2/dede
+[2024-01-29 15:18:41]Deleted folder: 172.16.28.37:/home/lubuntu/server2/new
+[2024-01-29 15:18:41]Deleted folder: 172.16.28.37:/home/lubuntu/server2/home
+[2024-01-29 15:18:41]Deleted file: 172.16.28.37:/home/lubuntu/server2/feldydede.txt
+[2024-01-29 15:18:42]/home/lubuntu/server2/fel.txt cannot be deleted as it doesn't exist on the server.
+[2024-01-29 15:18:42]Deleted folder: 172.16.28.37:/home/lubuntu/server2/dede
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/home
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/hehedede
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/dedede
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/home/cipeng/ghehe
+[2024-01-29 15:19:05]Created file: 172.16.28.37:/home/lubuntu/server2/fel.txt
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/dede
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/hehedede
+[2024-01-29 15:19:05]Created file: 172.16.28.37:/home/lubuntu/server2/feldydede.txt
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/dedede
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/ghehe
+[2024-01-29 15:19:05]Created folder: 172.16.28.37:/home/lubuntu/server2/new
+[2024-01-29 15:19:54]Created file: 172.16.28.37:/home/lubuntu/server2/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:20:11]Deleted file: 172.16.28.37:/home/lubuntu/server2/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:20:41]Created file: 172.16.28.37:/home/lubuntu/server2/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:28:57][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/dede/fel.txt
+[2024-01-29 15:29:01][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/dedede/dede
+[2024-01-29 15:29:01][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/dedede/dede/fel.txt
+[2024-01-29 15:29:05][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/dedede
+[2024-01-29 15:29:05][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/dedede/dede
+[2024-01-29 15:29:05][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/ghehe/dedede/dede/fel.txt
+[2024-01-29 15:29:27][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/ghehe/feldydede.txt
+[2024-01-29 15:29:32][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/hehedede
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng/server1
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng/hehedede
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng/dedede
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng/ghehe
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng/hehedede
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng/dedede
+[2024-01-29 15:29:36][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/ghehe/home/cipeng/ghehe
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/hehedede
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/dedede
+[2024-01-29 15:29:54][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/feldydede.txt
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng/server1
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng/hehedede
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng/dedede
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng/ghehe
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng/hehedede
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng/dedede
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/home/cipeng/ghehe
+[2024-01-29 15:29:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/dedede/dede
+[2024-01-29 15:29:54][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/ghehe/dedede/dede/fel.txt
+[2024-01-29 15:30:40][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/new/ghehe
+[2024-01-29 15:30:53][*] Created folder: 172.16.28.37:/home/lubuntu/server2/new/1
+[2024-01-29 15:31:01][*] Created folder: 172.16.28.37:/home/lubuntu/server2/new/2
+[2024-01-29 15:31:03][*] Created folder: 172.16.28.37:/home/lubuntu/server2/new/3
+[2024-01-29 15:31:05][*] Created folder: 172.16.28.37:/home/lubuntu/server2/new/4
+[2024-01-29 15:31:06][*] Created folder: 172.16.28.37:/home/lubuntu/server2/new/5
+[2024-01-29 15:31:11][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/2
+[2024-01-29 15:31:12][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/3
+[2024-01-29 15:31:13][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/4
+[2024-01-29 15:31:15][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/5
+[2024-01-29 15:31:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/new/2
+[2024-01-29 15:31:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/new/3
+[2024-01-29 15:31:38][*] Created file: 172.16.28.37:/home/lubuntu/server2/new/4
+[2024-01-29 15:31:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/new/5
+[2024-01-29 15:32:29][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2.txt
+[2024-01-29 15:32:30][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/3.txt
+[2024-01-29 15:32:30][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/4.txt
+[2024-01-29 15:32:31][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/5.txt
+[2024-01-29 15:32:36][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2/2.txt
+[2024-01-29 15:32:38][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/3/3.txt
+[2024-01-29 15:32:39][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/4/4.txt
+[2024-01-29 15:32:40][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/5/5.txt
+[2024-01-29 15:32:42][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3
+[2024-01-29 15:32:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3/3.txt
+[2024-01-29 15:32:53][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/2/4
+[2024-01-29 15:32:53][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2/4/4.txt
+[2024-01-29 15:32:54][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/2/5
+[2024-01-29 15:32:54][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2/5/5.txt
+[2024-01-29 15:32:59][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3/4
+[2024-01-29 15:32:59][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3/4/4.txt
+[2024-01-29 15:33:00][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3/5
+[2024-01-29 15:33:00][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3/5/5.txt
+[2024-01-29 15:33:03][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3/4/5
+[2024-01-29 15:33:03][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/1/2/3/4/5/5.txt
+[2024-01-29 15:36:04][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/5.txt
+[2024-01-29 15:36:10][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:36:14][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/new/5.txt
+[2024-01-29 15:36:18][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Free
+[2024-01-29 15:36:21][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/Free/new
+[2024-01-29 15:36:21][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/Free/new/1
+[2024-01-29 15:36:21][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/5.txt
+[2024-01-29 15:36:21][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:36:21][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2
+[2024-01-29 15:36:21][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3
+[2024-01-29 15:36:21][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/2.txt
+[2024-01-29 15:36:21][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4
+[2024-01-29 15:36:21][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/3.txt
+[2024-01-29 15:36:21][*] Moved folder to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5
+[2024-01-29 15:36:21][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/4.txt
+[2024-01-29 15:37:03][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:37:04][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/5.txt
+[2024-01-29 15:37:17][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/5.txt
+[2024-01-29 15:37:18][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:37:28][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/2.txt
+[2024-01-29 15:37:28][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/5.txt
+[2024-01-29 15:37:28][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:37:33][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/2.txt
+[2024-01-29 15:37:33][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/3.txt
+[2024-01-29 15:37:33][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5.txt
+[2024-01-29 15:37:33][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/Proposal_FeldyGantengNew.docx
+[2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/2.txt
+[2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/3.txt
+[2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/4.txt
+[2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/5.txt
+[2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/Proposal_FeldyGantengNew.docx

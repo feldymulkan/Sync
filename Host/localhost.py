@@ -21,7 +21,7 @@ class localhost():
                     value = parts[1].strip()
                     host_info[key] = value
         except Exception as e:
-            print(f"Gagal membaca file {filename}: {str(e)}")
+            print(f"Failed to read file {filename}: {str(e)}")
             return None
 
         return cls(
@@ -31,7 +31,7 @@ class localhost():
         )
     
     def getLocalFolder(self):
-        return self._localFolder
+        return self._localFolder.rstrip('/')
     
     def getHostName(self):
         return self._hostname
@@ -47,25 +47,23 @@ class localhost():
 
     def getActiveInterfaceIP(self):
         try:
-            # Dapatkan semua antarmuka jaringan yang aktif
             active_interfaces = [self.getIP(_interface) for _interface, addrs in psutil.net_if_addrs().items() if addrs]
-
             return active_interfaces
 
         except Exception as e:
-            print("Error:", e)
+            print("[!]Error:", e)
         return []
 
     def printActiveInterfaces(self):
         active_interfaces = psutil.net_if_addrs()
         if active_interfaces:
-            print("Antarmuka jaringan yang aktif:")
+            print("[+] Active Interfaces:")
             for interface_name, addrs in active_interfaces.items():
                 print(f"- {interface_name}:")
                 for addr in addrs:
                     print(f"  {addr.family.name}: {addr.address}")
         else:
-            print("Tidak ada antarmuka jaringan yang aktif.")
+            print("[!] No interface active.")
     
     def getIP(self, interface_name):
         try:
@@ -75,5 +73,5 @@ class localhost():
                     if ip.family == socket.AF_INET:
                         return ip.address
         except Exception as e:
-            print(f"Error: {e}")
+            print(f"[!] Error: {e}")
         return None

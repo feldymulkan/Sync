@@ -22,13 +22,13 @@ class GetFileManager:
                 if self.ssh_manager.is_file(remote_item_path):
                     if not os.path.exists(local_item_path) or os.path.getmtime(local_item_path) < self.ssh_manager.get_file_mtime(remote_item_path):
                         self.ssh_manager.download_file(remote_item_path, local_item_path)
-                        print(f"Downloaded: {item}")
+                        print(f"[*] Downloaded: {item}")
                     else:
-                        print(f"Skipped: {item} (Already up to date)")
+                        print(f"[-] Skipped: {item} (Already up to date)")
                 elif self.ssh_manager.is_directory(remote_item_path):
                     if not os.path.exists(local_item_path):
                         os.makedirs(local_item_path)
-                        print(f"Created folder: {item}")
+                        print(f"[*] Created folder: {item}")
                     self.download_files_from_server(remote_item_path, local_item_path)
 
         except Exception as e:

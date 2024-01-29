@@ -207,12 +207,12 @@ class SSHManager:
             stdin, stdout, stderr = self.client.exec_command(command)
             exit_status = stdout.channel.recv_exit_status()
 
-            if exit_status == 0:
-                # print(f"Folder moved from {src_path} to {dest_path}")
-                pass
-            else:
-                error_message = stderr.read().decode()
-                print(f"Failed to move folder: {error_message}")
+            # if exit_status == 0:
+            #     # print(f"Folder moved from {src_path} to {dest_path}")
+            #     pass
+            # else:
+            #     error_message = stderr.read().decode()
+            #     print(f"Failed to move folder: {error_message}")
 
         except paramiko.SSHException as e:
             print(f"SSH Error: {str(e)}")

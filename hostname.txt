@@ -2,10 +2,4 @@ hostname=172.16.28.37
 port=22
 username=lubuntu
 password=lubuntu
-direktori=/home/lubuntu/server2/
-
-hostname=172.16.28.37
-port=22
-username=lubuntu
-password=lubuntu
-direktori=/home/lubuntu/server2/
+direktori=/home/lubuntu/server2

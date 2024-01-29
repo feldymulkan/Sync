@@ -1,10 +1,14 @@
 import time
 from Host.localhost import localhost
-from file_sync import MyHandler, ssh_manager, observer
+from file_sync import MyHandler, ssh_manager, run_prog
 from getfile import GetFileManager
 from Communication.ClientServer import start_server, start_client
 
+import signal
 
+def cetak_stopped_signal(signum, frame):
+    print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[-] Stopped")
+    exit()
 def cetak():
     artwork = """
     __   __                              
@@ -26,11 +30,11 @@ def main():
     
     #Host SSH
     ip_target = ssh_manager.hostname
-    
+    signal.signal(signal.SIGINT, cetak_stopped_signal)
     cetak()
-    print("Welcome to file synchronization")
-    print(f"Hostname: {lhost.getHostName()}")
-    print(f"Active IP: {lhost.getActiveInterfaceIP()}")
+    print("-- Welcome to file synchronization -- ")
+    print(f"[#] Hostname: {lhost.getHostName()}")
+    print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
 
     
     # local_message= "Hello"
@@ -43,17 +47,7 @@ def main():
     active_interface_ip = lhost.getActiveInterfaceIP()
     getFile = GetFileManager(ssh_manager, lhost.getLocalFolder())
     getFile.download_files_from_server()
+    run_prog(str(lhost.getLocalFolder()), ssh_manager)
     
-    observer.schedule(MyHandler(lhost.getLocalFolder(), ssh_manager), path=lhost.getLocalFolder(), recursive=True)
-    observer.start()
-    
-    try:
-        while True:
-            time.sleep(1)
-    except KeyboardInterrupt:
-        observer.stop()
-    observer.join()
-    ssh_manager.close()
-
 if __name__ == "__main__":
     main()
