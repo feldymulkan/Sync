@@ -1,21 +1,33 @@
-import zmq
+import socket
+import threading
+import time
 
-def start_client():
-    context = zmq.Context()
-    client_socket = context.socket(zmq.REQ)
-    client_socket.connect("tcp://127.0.0.1:5555")
+def start_client(address):
+    try:
+        client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        client_socket.connect((address, 9000))
 
-    while True:
-        message = input("Enter message (type 'exit' to quit): ")
-        if message.lower() == 'exit':
-            break
-        client_socket.send_multipart([message.encode('utf-8')])
+        for _ in range(30):  # Send and receive messages 5 times (you can adjust the number)
+            message = f"Hello server 2, from client vivapanturas at {time.time()}"
+            
+            # Send a message to the server
+            client_socket.send(message.encode('utf-8'))
+            
+            # Receive the echoed message from the server
+            data = client_socket.recv(1024)
+            print(f"Received from server: {data.decode('utf-8')}")
+            
+            time.sleep(1)  # Optional: Add a delay between messages
 
-        # Receive and print the response from the server
-        response = client_socket.recv_string()
-        print(f"Server response: {response}")
+    except Exception as e:
+        print(f"Error cannot connect to the server: {e}")
+    finally:
+        client_socket.close()
 
-    client_socket.close()
+def run_client():
+    start_client('172.16.28.37')  # Replace with the server's IP address
 
 if __name__ == "__main__":
-    start_client()
+    # Run the client in a separate thread
+    client_thread = threading.Thread(target=run_client)
+    client_thread.start()

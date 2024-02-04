@@ -3,7 +3,6 @@ import threading
 import time
 
 def handle_client(client_socket):
-    # This function handles communication with a specific client
     try:
         while True:
             data = client_socket.recv(1024)
@@ -31,30 +30,28 @@ def start_server(address):
     finally:
         server_socket.close()
 
-def start_client(address, message):
+def start_client(address):
     try:
         client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         client_socket.connect((address, 9000))
-        client_socket.send(message.encode('utf-8'))
+
+        for _ in range(5):  # Send the same message 5 times (you can adjust the number)
+            message = "Hello server"
+            client_socket.send(message.encode('utf-8'))
+            time.sleep(1)  # Optional: Add a delay between messages
 
     except Exception as e:
         print(f"Error cannot connect to the server: {e}")
     finally:
         client_socket.close()
 
-# def run_server_and_client():
-#     # Start the server in a new thread
-#     server_thread = threading.Thread(target=start_server, args=('0.0.0.0', 9999))
-#     server_thread.start()
-
-#     # Give some time for the server to start before starting the client
-#     # You may need to adjust this based on the actual server startup time
-#     time.sleep(2)
-
-#     # Start the client in another thread
-#     client_thread = threading.Thread(target=start_client, args=('127.0.0.1', 9999, 'Hello server!'))
-#     client_thread.start()
-
-# if __name__ == "__main__":
-#     run_server_and_client()
+def run_server_and_client():
+    server_thread = threading.Thread(target=start_server, args=('0.0.0.0',))
+    server_thread.start()
     
+    time.sleep(2)  # Allow server to start before the client
+    client_thread = threading.Thread(target=start_client, args=('172.16.28.37',))
+    client_thread.start()
+
+if __name__ == "__main__":
+    run_server_and_client()

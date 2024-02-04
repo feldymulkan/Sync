@@ -46,8 +46,8 @@ def main():
     
     active_interface_ip = lhost.getActiveInterfaceIP()
     getFile = GetFileManager(ssh_manager, lhost.getLocalFolder())
-    getFile.download_files_from_server()
-    run_prog(str(lhost.getLocalFolder()), ssh_manager)
+    # getFile.download_files_from_server()
+    # run_prog(str(lhost.getLocalFolder()), ssh_manager)
     
 if __name__ == "__main__":
     main()

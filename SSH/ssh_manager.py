@@ -1,6 +1,6 @@
 import paramiko
 import hashlib
-
+import os
 class SSHManager:
     def __init__(self, hostname, port, username, password):
         self.hostname = hostname
@@ -218,6 +218,59 @@ class SSHManager:
             print(f"SSH Error: {str(e)}")
         except Exception as e:
             print(f"Error moving folder: {str(e)}")
+
+    def compare_local_remote_metadata(self, local_path, remote_path):
+        try:
+            local_mtime = os.path.getmtime(local_path)
+            local_checksum = self.calculate_checksum(local_path)
+
+            remote_mtime, remote_checksum = self.get_remote_metadata(remote_path)
+
+            return local_mtime, local_checksum, remote_mtime, remote_checksum
+
+        except Exception as e:
+            print(f"Error comparing file metadata: {str(e)}")
+            return 0, "", 0, ""
+
+    def handle_metadata_comparison(self, local_path, remote_path):
+        try:
+            local_mtime, local_checksum, remote_mtime, remote_checksum = self.compare_local_remote_metadata(local_path, remote_path)
+
+            if local_mtime != remote_mtime and local_checksum == remote_checksum:
+                return True
+            elif local_mtime == remote_mtime and local_checksum == remote_checksum:
+                return True
+            elif local_mtime != remote_mtime and local_checksum != remote_checksum:
+                return False
+
+        except Exception as e:
+            print(f"Error handling metadata comparison: {str(e)}")
+            return "Error in metadata comparison."
+
+    def calculate_checksum(self, file_path, algorithm="sha256"):
+        hasher = hashlib.new(algorithm)
+        with open(file_path, "rb") as file:
+            while chunk := file.read(8192):
+                hasher.update(chunk)
+        return hasher.hexdigest()
+
+    def get_remote_metadata(self, remote_file_path):
+        try:
+            sftp = self.client.open_sftp()
+            remote_mtime = sftp.stat(remote_file_path).st_mtime
+            with sftp.file(remote_file_path, "rb") as remote_file:
+                remote_checksum = self.calculate_checksum_from_file(remote_file)
+            sftp.close()
+            return remote_mtime, remote_checksum
+        except Exception as e:
+            print(f"Error getting remote file metadata: {str(e)}")
+            return 0, ""
+
+    def calculate_checksum_from_file(self, file):
+        hasher = hashlib.sha256()
+        while chunk := file.read(8192):
+            hasher.update(chunk)
+        return hasher.hexdigest()
 
     def close(self):
         self.client.close()

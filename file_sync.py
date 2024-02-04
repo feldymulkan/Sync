@@ -70,20 +70,21 @@ class MyHandler(FileSystemEventHandler):
         try:
             server1_path = event.src_path
             server2_path = self.getServerFullPath(server1_path)
-            if event.is_directory:
-                pass
-            elif not event.is_directory:    
-                if not self.ignore_tempfile(server1_path):
-                    if is_same_filename(server1_path,server2_path):
-                        file_existence = ssh_manager.check_existence(server2_path)
-                        if file_existence:
-                            local_modified_time = os.path.getmtime(server1_path)
-                            remote_modified_time = ssh_manager.get_file_mtime(server2_path)
-                            if local_modified_time > remote_modified_time: 
-                                if calculate_md5(server1_path)!= ssh_manager.calculate_remote_md5(server2_path):
-                                    ssh_manager.send_and_replace_file(server1_path, server2_path)
-                                    if file_existence == True and calculate_md5(server1_path)== ssh_manager.calculate_remote_md5(server2_path):
-                                        print(f'[*] Modified file on: {host_info.hostname}:{server2_path}')
+            if ssh_manager.handle_metadata_comparison(server1_path, server2_path) == False:
+                if event.is_directory:
+                    pass
+                elif not event.is_directory:    
+                    if not self.ignore_tempfile(server1_path):
+                        if is_same_filename(server1_path,server2_path):
+                            file_existence = ssh_manager.check_existence(server2_path)
+                            if file_existence:
+                                local_modified_time = os.path.getmtime(server1_path)
+                                remote_modified_time = ssh_manager.get_file_mtime(server2_path)
+                                if local_modified_time > remote_modified_time: 
+                                    if calculate_md5(server1_path)!= ssh_manager.calculate_remote_md5(server2_path):
+                                        ssh_manager.send_and_replace_file(server1_path, server2_path)
+                                        if file_existence == True and calculate_md5(server1_path)== ssh_manager.calculate_remote_md5(server2_path):
+                                            print(f'[*] Modified file on: {host_info.hostname}:{server2_path}')
         except Exception as e:
             print('[!] Failed to handle modified event: {}'.format(e))
 
@@ -91,6 +92,7 @@ class MyHandler(FileSystemEventHandler):
         try:
             server1_path = event.src_path
             server2_path = self.getServerFullPath(server1_path)
+            
             if not self.ignore_tempfile(server1_path) and not self.ignore_tempfile(server2_path):
                 define_folder = self.folder_enum(server1_path, host_info.direktori)
                 if event.is_directory:
@@ -149,22 +151,24 @@ class MyHandler(FileSystemEventHandler):
                     print(f"[*] Moved folder to: {host_info.hostname}:{def_folder2}")
                 
             elif not event.is_directory:
+                
                 src_full_path_server2 = self.getServerFullPath(src_path_server1)
                 dest_full_path_server2 = self.getServerFullPath(dest_path_server1)
-                if self.ignore_tempfile(src_path_server1) and self.ignore_tempfile(src_full_path_server2):
-                    if is_same_filename(dest_path_server1, dest_full_path_server2) and calculate_md5(dest_path_server1) != ssh_manager.calculate_remote_md5(dest_full_path_server2):
-                        ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
-                        print(f'[*] Modified file on: {host_info.hostname}:{dest_full_path_server2}')
-                elif not (self.ignore_tempfile(src_path_server1) and self.ignore_tempfile(dest_path_server1)):
-                    if not is_same_filename(dest_path_server1, src_full_path_server2) and calculate_md5(dest_path_server1) == ssh_manager.calculate_remote_md5(src_full_path_server2):
-                        ssh_manager.rename_file(src_full_path_server2, dest_full_path_server2)
-                        print(f"[*] Rename file Success: {src_full_path_server2} => {dest_full_path_server2}")
-                    elif src_path_server1 != dest_path_server1:
-                        ssh_manager.move(src_full_path_server2, dest_full_path_server2)
-                        self.log(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
-                        print(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
-                    else:
-                        ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
+                if ssh_manager.handle_metadata_comparison(dest_path_server1, dest_full_path_server2) == False:
+                    if self.ignore_tempfile(src_path_server1) and self.ignore_tempfile(src_full_path_server2):
+                        if is_same_filename(dest_path_server1, dest_full_path_server2) and calculate_md5(dest_path_server1) != ssh_manager.calculate_remote_md5(dest_full_path_server2):
+                            ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
+                            print(f'[*] Modified file on: {host_info.hostname}:{dest_full_path_server2}')
+                    elif not (self.ignore_tempfile(src_path_server1) and self.ignore_tempfile(dest_path_server1)):
+                        if not is_same_filename(dest_path_server1, src_full_path_server2) and calculate_md5(dest_path_server1) == ssh_manager.calculate_remote_md5(src_full_path_server2):
+                            ssh_manager.rename_file(src_full_path_server2, dest_full_path_server2)
+                            print(f"[*] Rename file Success: {src_full_path_server2} => {dest_full_path_server2}")
+                        elif src_path_server1 != dest_path_server1:
+                            ssh_manager.move(src_full_path_server2, dest_full_path_server2)
+                            self.log(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
+                            print(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
+                        else:
+                            ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
         except Exception as e:
             print(f"[!] Error in on_moved: {str(e)}")
 def start_watchdog(folderlocal, ssh_manager):

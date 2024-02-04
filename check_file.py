@@ -1,4 +1,5 @@
 import paramiko
+import os
 
 def check_file_existence(hostname, port, username, password, remote_path):
     try:
@@ -21,3 +22,11 @@ def check_file_existence(hostname, port, username, password, remote_path):
         print(f"Error: {str(e)}")
     finally:
         ssh_client.close()
+
+def get_local_mtime(self):
+    try:
+        mtime = os.path.getmtime(self.local_path)
+        return mtime
+    except Exception as e:
+        print(f"Error getting local file modification time: {str(e)}")
+        return 0
