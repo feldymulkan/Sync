@@ -2,6 +2,7 @@ import time
 from Host.localhost import localhost
 from file_sync import MyHandler, ssh_manager, observer
 from getfile import GetFileManager
+import threading
 from Communication.ClientServer import start_server, start_client
 from concurrent.futures import ThreadPoolExecutor
 
@@ -27,23 +28,17 @@ def start_watchdog(folderlocal, ssh_manager, ip_target):
     handler = MyHandler(folderlocal, ssh_manager)
     observer.schedule(handler, path=folderlocal, recursive=True)
     
-    observer_running = True
+    
     try:
         observer.start()
-        while observer_running:
-            # Mendapatkan jumlah file yang dimodifikasi secara langsung dari handler
+        while True:
             total_synced_files = handler.get_file_synced()
             print(f"Total Modified Files: {total_synced_files}", end='\r')
             time.sleep(1)
-            if total_synced_files >= 10:
-                observer_running = False 
+            if total_synced_files > 3:
                 observer.stop()
-                observer.join()
-                # observer_running = False 
                 break
-            
-            
-        start_client(ip_target, 'Start')
+        start_client(ip_target, "STOP")
     except KeyboardInterrupt:
         observer.stop()
     finally:
@@ -54,36 +49,46 @@ def get_total_file(folderlocal, ssh_manager):
     handler = MyHandler(folderlocal, ssh_manager)
     return handler.get_file_synced()
 
-def run_prog(folder_path, ssh_manager, target):
-    with ThreadPoolExecutor() as executor:
-        executor.submit(start_watchdog, folder_path, ssh_manager, target)
+# def run_prog(folder_path, ssh_manager):
+#     with ThreadPoolExecutor() as executor:
+#         executor.submit(start_watchdog, folder_path, ssh_manager)
         
 def main():
     #localhost
     lhost = localhost.read_localhost_info("lhost.txt")
     local_ip = lhost.getIP(lhost.getInterface())
     local_port = int(lhost.getPort())
-    #Host SSH
+    local_dir = str(lhost.getLocalFolder())
+    total_file = get_total_file(local_dir, ssh_manager)
+    # #Host SSH
     ip_target = ssh_manager.hostname
     signal.signal(signal.SIGINT, cetak_stopped_signal)
     cetak()
     print("-- Welcome to file synchronization -- ")
     print(f"[#] Hostname: {lhost.getHostName()}")
     print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
-
-    
-    # local_message= "Hello"
-    # start_client(ip_target, local_message)
-    # time.sleep(2)
     # start_server(local_ip)
+    # start_watchdog(local_dir, ssh_manager, ip_target)
+    thread1 = threading.Thread(target=start_server, args=(local_ip,))
+    
+    # Membuat thread untuk menjalankan fungsi start_watchdog
+    thread2 = threading.Thread(target=start_watchdog, args=(local_dir, ssh_manager, ip_target))
 
+    # Memulai kedua thread secara bersamaan
+    thread1.start()
+    thread2.start()
+
+    # Menunggu kedua thread selesai
+    thread1.join()
+    thread2.join()
+    # active_interface_ip = lhost.getActiveInterfaceIP()
+    # getFile = GetFileManager(ssh_manager, local_dir)
+    # getFile.download_files_from_server()
+    # start_watchdog
+    # start_client(ip_target, 'local_message')
     
-    
-    active_interface_ip = lhost.getActiveInterfaceIP()
-    getFile = GetFileManager(ssh_manager, lhost.getLocalFolder())
-    getFile.download_files_from_server()
-    run_prog(str(lhost.getLocalFolder()), ssh_manager, ip_target)
     # Mendapatkan informasi jumlah file yang sudah di-sinkronisasi
+    
     
     
     

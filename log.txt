@@ -4036,3 +4036,1099 @@
 [2024-02-18 01:33:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (152nd copy).pdf
 [2024-02-18 01:33:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (153rd copy).pdf
 [2024-02-18 01:33:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (154th copy).pdf
+[2024-02-18 15:49:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (155th copy).pdf
+[2024-02-18 15:49:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (156th copy).pdf
+[2024-02-18 15:49:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (157th copy).pdf
+[2024-02-18 15:49:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (158th copy).pdf
+[2024-02-18 15:49:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (159th copy).pdf
+[2024-02-18 15:49:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (160th copy).pdf
+[2024-02-18 15:49:18][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (161st copy).pdf
+[2024-02-18 15:51:27][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (162nd copy).pdf
+[2024-02-18 15:51:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (163rd copy).pdf
+[2024-02-18 15:51:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (164th copy).pdf
+[2024-02-18 15:51:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (165th copy).pdf
+[2024-02-18 15:51:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (166th copy).pdf
+[2024-02-18 15:51:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (167th copy).pdf
+[2024-02-18 15:51:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (168th copy).pdf
+[2024-02-18 15:51:50][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (169th copy).pdf
+[2024-02-18 15:51:50][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (170th copy).pdf
+[2024-02-18 15:51:51][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (171st copy).pdf
+[2024-02-18 15:51:51][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (172nd copy).pdf
+[2024-02-18 15:51:51][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (173rd copy).pdf
+[2024-02-18 15:51:52][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (174th copy).pdf
+[2024-02-18 15:53:16][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (176th copy).pdf
+[2024-02-18 15:53:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (177th copy).pdf
+[2024-02-18 15:53:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (178th copy).pdf
+[2024-02-18 15:53:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (179th copy).pdf
+[2024-02-18 15:53:18][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (180th copy).pdf
+[2024-02-18 15:53:18][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (181st copy).pdf
+[2024-02-18 15:53:19][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (182nd copy).pdf
+[2024-02-18 15:53:20][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (183rd copy).pdf
+[2024-02-18 15:53:20][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (184th copy).pdf
+[2024-02-18 15:53:20][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (185th copy).pdf
+[2024-02-18 15:53:21][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (186th copy).pdf
+[2024-02-18 15:53:21][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (187th copy).pdf
+[2024-02-18 15:53:21][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (188th copy).pdf
+[2024-02-18 15:53:22][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (189th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (189th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (188th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (187th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (186th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (185th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (184th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (183rd copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (182nd copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (181st copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (180th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (179th copy).pdf
+[2024-02-18 15:54:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (178th copy).pdf
+[2024-02-18 15:54:21][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (172nd copy).pdf
+[2024-02-18 15:54:21][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (171st copy).pdf
+[2024-02-18 15:54:21][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (170th copy).pdf
+[2024-02-18 15:54:21][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (169th copy).pdf
+[2024-02-18 15:54:22][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (168th copy).pdf
+[2024-02-18 15:54:22][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (167th copy).pdf
+[2024-02-18 15:54:22][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (166th copy).pdf
+[2024-02-18 15:54:22][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (165th copy).pdf
+[2024-02-18 15:54:22][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (164th copy).pdf
+[2024-02-18 15:59:48][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (175th copy).pdf
+[2024-02-18 15:59:49][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (178th copy).pdf
+[2024-02-18 15:59:49][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (164th copy).pdf
+[2024-02-18 15:59:50][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (165th copy).pdf
+[2024-02-18 15:59:50][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (166th copy).pdf
+[2024-02-18 15:59:50][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (167th copy).pdf
+[2024-02-18 15:59:50][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (168th copy).pdf
+[2024-02-18 15:59:51][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (169th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (178th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (175th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (169th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (168th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (167th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (166th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (165th copy).pdf
+[2024-02-18 16:00:30][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (164th copy).pdf
+[2024-02-18 16:01:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (178th copy).pdf
+[2024-02-18 16:01:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (179th copy).pdf
+[2024-02-18 16:01:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (175th copy).pdf
+[2024-02-18 16:01:38][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (180th copy).pdf
+[2024-02-18 16:01:38][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (164th copy).pdf
+[2024-02-18 16:01:52][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (181st copy).pdf
+[2024-02-18 16:01:52][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (182nd copy).pdf
+[2024-02-18 16:01:53][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (183rd copy).pdf
+[2024-02-18 16:01:53][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (184th copy).pdf
+[2024-02-18 16:01:53][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (165th copy).pdf
+[2024-02-18 16:02:41][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (185th copy).pdf
+[2024-02-18 16:02:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (186th copy).pdf
+[2024-02-18 16:02:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (187th copy).pdf
+[2024-02-18 16:02:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (188th copy).pdf
+[2024-02-18 16:02:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (166th copy).pdf
+[2024-02-18 16:12:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (189th copy).pdf
+[2024-02-18 16:12:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (190th copy).pdf
+[2024-02-18 16:12:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (191st copy).pdf
+[2024-02-18 16:12:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (192nd copy).pdf
+[2024-02-18 16:12:32][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (193rd copy).pdf
+[2024-02-18 16:12:32][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (194th copy).pdf
+[2024-02-18 16:12:32][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (195th copy).pdf
+[2024-02-18 16:12:32][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (196th copy).pdf
+[2024-02-18 16:12:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (197th copy).pdf
+[2024-02-18 16:12:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (198th copy).pdf
+[2024-02-18 16:12:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (199th copy).pdf
+[2024-02-18 16:12:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (200th copy).pdf
+[2024-02-18 16:12:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (201st copy).pdf
+[2024-02-18 16:12:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (202nd copy).pdf
+[2024-02-18 16:12:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (167th copy).pdf
+[2024-02-18 16:12:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (203rd copy).pdf
+[2024-02-18 16:12:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (204th copy).pdf
+[2024-02-18 16:12:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (205th copy).pdf
+[2024-02-18 16:12:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (206th copy).pdf
+[2024-02-18 16:12:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (207th copy).pdf
+[2024-02-18 16:12:41][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (208th copy).pdf
+[2024-02-18 16:12:41][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (209th copy).pdf
+[2024-02-18 16:12:41][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (210th copy).pdf
+[2024-02-18 16:12:41][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (211th copy).pdf
+[2024-02-18 16:12:41][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (212th copy).pdf
+[2024-02-18 16:12:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (213th copy).pdf
+[2024-02-18 16:12:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (214th copy).pdf
+[2024-02-18 16:12:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (215th copy).pdf
+[2024-02-18 16:12:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (216th copy).pdf
+[2024-02-18 16:12:43][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (168th copy).pdf
+[2024-02-18 16:13:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (217th copy).pdf
+[2024-02-18 16:13:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (218th copy).pdf
+[2024-02-18 16:13:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (219th copy).pdf
+[2024-02-18 16:13:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (220th copy).pdf
+[2024-02-18 16:13:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (221st copy).pdf
+[2024-02-18 16:13:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (222nd copy).pdf
+[2024-02-18 16:13:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (223rd copy).pdf
+[2024-02-18 16:13:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (224th copy).pdf
+[2024-02-18 16:13:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (225th copy).pdf
+[2024-02-18 16:13:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (226th copy).pdf
+[2024-02-18 16:13:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (227th copy).pdf
+[2024-02-18 16:13:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (228th copy).pdf
+[2024-02-18 16:13:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (229th copy).pdf
+[2024-02-18 16:13:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (230th copy).pdf
+[2024-02-18 16:13:27][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (169th copy).pdf
+[2024-02-18 16:32:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (231st copy).pdf
+[2024-02-18 16:32:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (232nd copy).pdf
+[2024-02-18 16:32:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (233rd copy).pdf
+[2024-02-18 16:32:27][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (234th copy).pdf
+[2024-02-18 16:32:27][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (235th copy).pdf
+[2024-02-18 16:32:27][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (236th copy).pdf
+[2024-02-18 16:33:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (237th copy).pdf
+[2024-02-18 16:33:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (238th copy).pdf
+[2024-02-18 16:33:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (239th copy).pdf
+[2024-02-18 16:33:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (240th copy).pdf
+[2024-02-18 16:33:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (241st copy).pdf
+[2024-02-18 16:33:26][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (242nd copy).pdf
+[2024-02-18 16:34:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (243rd copy).pdf
+[2024-02-18 16:34:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (244th copy).pdf
+[2024-02-18 16:34:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (245th copy).pdf
+[2024-02-18 16:34:55][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (246th copy).pdf
+[2024-02-18 16:34:55][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (247th copy).pdf
+[2024-02-18 16:34:56][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (248th copy).pdf
+[2024-02-18 16:35:01][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (249th copy).pdf
+[2024-02-18 16:35:01][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (250th copy).pdf
+[2024-02-18 16:35:02][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (251st copy).pdf
+[2024-02-18 16:35:02][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (252nd copy).pdf
+[2024-02-18 16:35:02][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (253rd copy).pdf
+[2024-02-18 16:35:03][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (254th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (254th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (253rd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (252nd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (251st copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (250th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (249th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (248th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (247th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (246th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (245th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (244th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (243rd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (242nd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (241st copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (240th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (239th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (238th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (237th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (236th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (235th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (234th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (233rd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (232nd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (231st copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (230th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (229th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (228th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (227th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (226th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (225th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (224th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (223rd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (222nd copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (221st copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (220th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (219th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (218th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (217th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (216th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (215th copy).pdf
+[2024-02-18 16:35:06][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (214th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (213th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (212th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (211th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (210th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (209th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (208th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (207th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (206th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (205th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (204th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (203rd copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (202nd copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (201st copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (200th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (199th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (198th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (197th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (196th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (195th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (194th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (193rd copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (192nd copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (191st copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (190th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (189th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (188th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (187th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (186th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (185th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (184th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (183rd copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (182nd copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (181st copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (180th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (179th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (178th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (177th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (176th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (175th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (174th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (173rd copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (169th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (168th copy).pdf
+[2024-02-18 16:35:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (167th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (166th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (165th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (164th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (163rd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (162nd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (161st copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (160th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (159th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (158th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (157th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (156th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (155th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (154th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (153rd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (152nd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (151st copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (150th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (149th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (148th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (147th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (146th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (145th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (144th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (143rd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (142nd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (141st copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (140th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (139th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (138th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (137th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (136th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (135th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (134th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (133rd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (132nd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (131st copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (130th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (129th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (128th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (127th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (126th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (125th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (124th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (123rd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (122nd copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (121st copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (120th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (119th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (118th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (117th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (116th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (115th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (114th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (113th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (112th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (111th copy).pdf
+[2024-02-18 16:35:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (110th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (109th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (108th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (107th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (106th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (105th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (104th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (103rd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (102nd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (101st copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (100th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (99th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (98th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (97th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (96th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (95th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (94th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (93rd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (92nd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (91st copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (90th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (89th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (88th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (87th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (86th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (85th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (84th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (83rd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (82nd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (81st copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (80th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (79th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (78th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (77th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (76th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (75th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (74th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (73rd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (72nd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (71st copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (70th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (69th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (68th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (67th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (66th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (65th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (64th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (63rd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (62nd copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (61st copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (60th copy).pdf
+[2024-02-18 16:35:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (59th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (58th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (57th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (56th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (55th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (54th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (53rd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (52nd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (51st copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (50th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (49th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (48th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (47th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (46th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (45th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (44th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (43rd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (42nd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (41st copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (40th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (39th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (38th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (37th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (36th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (35th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (34th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (33rd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (32nd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (31st copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (30th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (29th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (28th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (27th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (26th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (25th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (24th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (23rd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (22nd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (21st copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (20th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (19th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (18th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (17th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (16th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (15th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (14th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (13th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (12th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (11th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (10th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (9th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (8th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (7th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (6th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (5th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (4th copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (3rd copy).pdf
+[2024-02-18 16:35:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-18 16:35:10][*] Deleted folder: 192.168.1.67:/home/lubuntu/server2/Instagram-Phishing
+[2024-02-18 16:35:11][*] Deleted folder: 192.168.1.67:/home/lubuntu/server2/Instagram-and-Facebook-login-page
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (copy).jpg
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (another copy).jpg
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-02-18 16:35:11][*] Deleted folder: 192.168.1.67:/home/lubuntu/server2/Feldy
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish (copy).py
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish (6th copy).py
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish (5th copy).py
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish (4th copy).py
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish (3rd copy).py
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish.py
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru (copy).txt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru (another copy).txt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru (5th copy).txt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru (4th copy).txt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru (3rd copy).txt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt (copy).save
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt (another copy).save
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt (5th copy).save
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt (4th copy).save
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt (3rd copy).save
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (another copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (11th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (10th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (9th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (8th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (7th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (6th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (5th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (4th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (3rd copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2.docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1 (copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1baru (copy).odt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1baru (another copy).odt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1baru (3rd copy).odt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1baru.odt
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1 (another copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1 (5th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1 (4th copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1 (3rd copy).docx
+[2024-02-18 16:35:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1.docx
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/decodebase64.py
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/feldy.txt
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo.txt
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo.txt.save
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/text.txt
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/establish.py
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes.py
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes.php
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes.pdf
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-02-18 16:37:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/1.docx
+[2024-02-18 16:37:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/2.docx
+[2024-02-18 16:37:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-18 16:37:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-18 16:37:36][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-18 16:42:03][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/feldy.txt
+[2024-02-18 16:42:03][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish.py
+[2024-02-18 16:42:03][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/decodebase64.py
+[2024-02-18 16:42:03][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 16:42:03][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-18 16:42:03][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2.docx
+[2024-02-18 16:42:03][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1.docx
+[2024-02-18 16:42:06][*] Created file: 192.168.1.67:/home/lubuntu/server2/2.docx
+[2024-02-18 16:42:06][*] Created file: 192.168.1.67:/home/lubuntu/server2/establish.py
+[2024-02-18 16:42:06][*] Created file: 192.168.1.67:/home/lubuntu/server2/feldy.txt
+[2024-02-18 16:42:06][*] Created file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-18 16:42:06][*] Created file: 192.168.1.67:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 16:42:06][*] Created file: 192.168.1.67:/home/lubuntu/server2/1.docx
+[2024-02-18 16:42:06][*] Created file: 192.168.1.67:/home/lubuntu/server2/decodebase64.py
+[2024-02-18 16:44:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (copy).jpg
+[2024-02-18 16:44:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/feldy (copy).txt
+[2024-02-18 16:44:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/establish (copy).py
+[2024-02-18 16:44:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/decodebase64 (copy).py
+[2024-02-18 16:44:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/baru.txt (copy).save
+[2024-02-18 16:44:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset (copy).backup
+[2024-02-18 16:44:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/2 (copy).docx
+[2024-02-18 16:44:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (another copy).jpg
+[2024-02-18 16:44:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/feldy (another copy).txt
+[2024-02-18 16:44:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/establish (another copy).py
+[2024-02-18 16:44:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/decodebase64 (another copy).py
+[2024-02-18 16:44:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/baru.txt (another copy).save
+[2024-02-18 16:44:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset (another copy).backup
+[2024-02-18 16:44:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/2 (another copy).docx
+[2024-02-18 16:44:37][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (another copy).docx
+[2024-02-18 16:44:37][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset (another copy).backup
+[2024-02-18 16:44:37][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt (another copy).save
+[2024-02-18 16:44:37][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/decodebase64 (another copy).py
+[2024-02-18 16:44:37][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish (another copy).py
+[2024-02-18 16:44:37][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/feldy (another copy).txt
+[2024-02-18 16:44:37][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (another copy).jpg
+[2024-02-18 16:45:53][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (copy).txt
+[2024-02-18 16:45:53][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (copy).pdf
+[2024-02-18 16:45:53][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (another copy).jpg
+[2024-02-18 16:45:53][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (3rd copy).jpg
+[2024-02-18 16:46:01][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (another copy).txt
+[2024-02-18 16:46:01][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (another copy).pdf
+[2024-02-18 16:46:01][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (4th copy).jpg
+[2024-02-18 16:46:01][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (5th copy).jpg
+[2024-02-18 16:46:51][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (3rd copy).txt
+[2024-02-18 16:46:51][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (3rd copy).pdf
+[2024-02-18 16:46:51][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (6th copy).jpg
+[2024-02-18 16:46:52][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (7th copy).jpg
+[2024-02-18 16:48:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (4th copy).txt
+[2024-02-18 16:48:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (4th copy).pdf
+[2024-02-18 16:48:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (8th copy).jpg
+[2024-02-18 16:48:32][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (9th copy).jpg
+[2024-02-18 16:50:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (5th copy).txt
+[2024-02-18 16:50:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (5th copy).pdf
+[2024-02-18 16:50:40][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (10th copy).jpg
+[2024-02-18 16:50:41][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (11th copy).jpg
+[2024-02-18 16:51:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (6th copy).txt
+[2024-02-18 16:51:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (7th copy).txt
+[2024-02-18 16:51:59][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-18 16:52:01][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (8th copy).txt
+[2024-02-18 16:53:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (9th copy).txt
+[2024-02-18 16:53:32][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (10th copy).txt
+[2024-02-18 16:53:34][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (11th copy).txt
+[2024-02-18 16:53:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo.txt (another copy).save
+[2024-02-18 16:59:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (15th copy).txt
+[2024-02-18 16:59:25][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (16th copy).txt
+[2024-02-18 16:59:27][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (17th copy).txt
+[2024-02-18 16:59:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (18th copy).txt
+[2024-02-18 16:59:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (19th copy).txt
+[2024-02-18 16:59:28][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (20th copy).txt
+[2024-02-18 16:59:44][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (21st copy).txt
+[2024-02-18 16:59:45][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (22nd copy).txt
+[2024-02-18 16:59:45][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (23rd copy).txt
+[2024-02-18 16:59:45][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (24th copy).txt
+[2024-02-18 16:59:45][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (25th copy).txt
+[2024-02-18 16:59:45][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (26th copy).txt
+[2024-02-18 16:59:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (27th copy).txt
+[2024-02-18 16:59:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (28th copy).txt
+[2024-02-18 16:59:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (29th copy).txt
+[2024-02-18 16:59:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (30th copy).txt
+[2024-02-18 16:59:54][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (31st copy).txt
+[2024-02-18 16:59:55][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (32nd copy).txt
+[2024-02-18 17:00:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (copy).pdf
+[2024-02-18 17:00:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (copy).pdf
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (33rd copy).txt
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (34th copy).txt
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (35th copy).txt
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (36th copy).txt
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (37th copy).txt
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (38th copy).txt
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (39th copy).txt
+[2024-02-18 17:00:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (40th copy).txt
+[2024-02-18 17:01:55][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (another copy).pdf
+[2024-02-18 17:01:55][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (another copy).gpg
+[2024-02-18 17:01:56][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (another copy).pdf
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (41st copy).txt
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (42nd copy).txt
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (43rd copy).txt
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (44th copy).txt
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (45th copy).txt
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (46th copy).txt
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (47th copy).txt
+[2024-02-18 17:01:57][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (48th copy).txt
+[2024-02-18 17:02:22][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (3rd copy).pdf
+[2024-02-18 17:02:22][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (3rd copy).gpg
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (3rd copy).pdf
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (49th copy).txt
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (50th copy).txt
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (51st copy).txt
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (52nd copy).txt
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (53rd copy).txt
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (54th copy).txt
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (55th copy).txt
+[2024-02-18 17:02:24][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (56th copy).txt
+[2024-02-18 17:06:15][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (4th copy).pdf
+[2024-02-18 17:06:15][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (4th copy).gpg
+[2024-02-18 17:06:16][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (4th copy).pdf
+[2024-02-18 17:06:16][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (57th copy).txt
+[2024-02-18 17:06:16][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (58th copy).txt
+[2024-02-18 17:06:16][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (59th copy).txt
+[2024-02-18 17:06:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (60th copy).txt
+[2024-02-18 17:06:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (61st copy).txt
+[2024-02-18 17:06:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (62nd copy).txt
+[2024-02-18 17:06:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (63rd copy).txt
+[2024-02-18 17:06:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (64th copy).txt
+[2024-02-18 17:07:27][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (5th copy).gpg
+[2024-02-18 17:07:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (6th copy).gpg
+[2024-02-18 17:07:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (5th copy).pdf
+[2024-02-18 17:08:08][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (7th copy).gpg
+[2024-02-18 17:08:10][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (8th copy).gpg
+[2024-02-18 17:18:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (9th copy).gpg
+[2024-02-18 17:18:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (10th copy).gpg
+[2024-02-18 17:18:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (11th copy).gpg
+[2024-02-18 17:18:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (12th copy).gpg
+[2024-02-18 17:18:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (13th copy).gpg
+[2024-02-18 17:18:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (14th copy).gpg
+[2024-02-18 17:18:58][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (15th copy).gpg
+[2024-02-18 17:19:00][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (15th copy).pdf
+[2024-02-18 17:30:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (16th copy).gpg
+[2024-02-18 17:30:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (17th copy).gpg
+[2024-02-18 17:30:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (18th copy).gpg
+[2024-02-18 17:30:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (19th copy).gpg
+[2024-02-18 17:30:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (20th copy).gpg
+[2024-02-18 17:30:17][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (21st copy).gpg
+[2024-02-18 17:30:18][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (22nd copy).gpg
+[2024-02-18 17:30:19][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (16th copy).pdf
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (5th copy).pdf
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (23rd copy).gpg
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (24th copy).gpg
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (25th copy).gpg
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (26th copy).gpg
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (27th copy).gpg
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (28th copy).gpg
+[2024-02-18 17:30:29][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (29th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (30th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (31st copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (32nd copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (33rd copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (34th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (35th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (36th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (37th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (38th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (39th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (40th copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (41st copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (42nd copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (43rd copy).gpg
+[2024-02-18 17:30:30][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (44th copy).gpg
+[2024-02-18 17:30:31][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (45th copy).gpg
+[2024-02-18 17:30:32][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (17th copy).pdf
+[2024-02-18 17:30:33][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (18th copy).pdf
+[2024-02-18 17:30:35][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (19th copy).pdf
+[2024-02-18 17:34:39][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (46th copy).gpg
+[2024-02-18 17:34:39][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (47th copy).gpg
+[2024-02-18 17:34:39][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (48th copy).gpg
+[2024-02-18 17:34:39][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (49th copy).gpg
+[2024-02-18 17:34:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (6th copy).pdf
+[2024-02-18 17:34:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (50th copy).gpg
+[2024-02-18 17:34:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (51st copy).gpg
+[2024-02-18 17:34:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (52nd copy).gpg
+[2024-02-18 17:34:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (53rd copy).gpg
+[2024-02-18 17:34:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (54th copy).gpg
+[2024-02-18 17:34:42][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (55th copy).gpg
+[2024-02-18 17:36:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (7th copy).pdf
+[2024-02-18 17:36:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (56th copy).gpg
+[2024-02-18 17:36:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (57th copy).gpg
+[2024-02-18 17:36:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (58th copy).gpg
+[2024-02-18 17:36:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (59th copy).gpg
+[2024-02-18 17:36:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (60th copy).gpg
+[2024-02-18 17:36:37][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (61st copy).gpg
+[2024-02-18 17:37:51][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (61st copy).gpg
+[2024-02-18 17:37:55][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (60th copy).gpg
+[2024-02-18 17:37:57][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (59th copy).gpg
+[2024-02-18 17:37:59][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (58th copy).gpg
+[2024-02-18 17:38:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (57th copy).gpg
+[2024-02-18 17:38:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (56th copy).gpg
+[2024-02-18 17:38:07][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (55th copy).gpg
+[2024-02-18 17:38:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (54th copy).gpg
+[2024-02-18 17:38:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (53rd copy).gpg
+[2024-02-18 17:38:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (52nd copy).gpg
+[2024-02-18 17:38:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (51st copy).gpg
+[2024-02-18 17:38:09][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (50th copy).gpg
+[2024-02-18 17:38:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (49th copy).gpg
+[2024-02-18 17:38:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (48th copy).gpg
+[2024-02-18 17:38:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (47th copy).gpg
+[2024-02-18 17:38:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (46th copy).gpg
+[2024-02-18 17:38:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (45th copy).gpg
+[2024-02-18 17:38:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (44th copy).gpg
+[2024-02-18 17:38:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (43rd copy).gpg
+[2024-02-18 17:38:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (42nd copy).gpg
+[2024-02-18 17:38:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (41st copy).gpg
+[2024-02-18 17:38:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (40th copy).gpg
+[2024-02-18 17:38:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (39th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/text.txt
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (copy).pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (another copy).pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (7th copy).pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (6th copy).pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (5th copy).pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (4th copy).pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (3rd copy).pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes.py
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes.php
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes.pdf
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (another copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (38th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (37th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (36th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (35th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (34th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (33rd copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (32nd copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (31st copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (30th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (29th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (28th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (27th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (26th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (25th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (24th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (23rd copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (22nd copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (21st copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (20th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (19th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (18th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (17th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (16th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (15th copy).gpg
+[2024-02-18 17:38:14][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (14th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (13th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (12th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (11th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (10th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (9th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (8th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (7th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (6th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (5th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (4th copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (3rd copy).gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (another copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (19th copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (18th copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (17th copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (16th copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (15th copy).pdf
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/Print Voucher (14th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/Print Voucher (13th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/Print Voucher (12th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/Print Voucher (11th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (10th copy).pdf
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/Print Voucher (9th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/Print Voucher (8th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/Print Voucher (7th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (6th copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (5th copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (4th copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (3rd copy).pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (another copy).txt
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (84th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (83rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (82nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (81st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (80th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (79th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (78th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (77th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (76th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (75th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (74th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (73rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (72nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (71st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (70th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (69th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (68th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (67th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (66th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][!] /home/lubuntu/server2/pbo (65th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (64th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (63rd copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (62nd copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (61st copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (60th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (59th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (58th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (57th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (56th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (55th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (54th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (53rd copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (52nd copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (51st copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (50th copy).txt
+[2024-02-18 17:38:15][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (49th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (48th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (47th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (46th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (45th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (44th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (43rd copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (42nd copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (41st copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (40th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (39th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (38th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (37th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (36th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (35th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (34th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (33rd copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (32nd copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (31st copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (30th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (29th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (28th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (27th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (26th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (25th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (24th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (23rd copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (22nd copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (21st copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (20th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (19th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (18th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (17th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (16th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (15th copy).txt
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/pbo (14th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/pbo (13th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/pbo (12th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (11th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (10th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (9th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (8th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (7th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (6th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (5th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (4th copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (3rd copy).txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo.txt (another copy).save
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/pbo.txt (3rd copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo.txt.save
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo.txt
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (copy).pdf
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (another copy).pdf
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (11th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (10th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (9th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (8th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (7th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (6th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (5th copy).pdf
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (4th copy).pdf
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (3rd copy).pdf
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-18 17:38:16][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (another copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (11th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (10th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (9th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (8th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (7th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (6th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (5th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (4th copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (3rd copy).jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/feldy (copy).txt
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/feldy.txt
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish (copy).py
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/establish.py
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/decodebase64 (copy).py
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/decodebase64.py
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt (copy).save
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset (copy).backup
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2 (copy).docx
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/2.docx
+[2024-02-18 17:38:17][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/1.docx
+[2024-02-18 17:39:02][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (6th copy).pdf
+[2024-02-18 17:39:02][*] Created file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-18 17:39:03][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (78th copy).txt
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (5th copy).pdf
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (46th copy).txt
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (30th copy).txt
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (29th copy).txt
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes (5th copy).pdf
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (copy).jpg
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (16th copy).txt
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/decodebase64 (copy).py
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (7th copy).gpg
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (13th copy).txt
+[2024-02-18 17:39:04][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (3rd copy).gpg
+[2024-02-18 17:39:05][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (10th copy).txt
+[2024-02-18 17:39:05][*] Created file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-18 17:39:05][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (57th copy).txt
+[2024-02-18 17:39:05][*] Created file: 192.168.1.67:/home/lubuntu/server2/tes.pdf
+[2024-02-18 17:39:05][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (71st copy).txt
+[2024-02-18 17:39:05][*] Created file: 192.168.1.67:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 17:39:05][*] Created file: 192.168.1.67:/home/lubuntu/server2/pbo (25th copy).txt
+[2024-02-18 17:39:07][*] Created file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (6th copy).pdf
+[2024-02-18 17:39:31][!] /home/lubuntu/server2/text.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:31][!] /home/lubuntu/server2/tes (copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:31][!] /home/lubuntu/server2/tes (another copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:31][!] /home/lubuntu/server2/tes (7th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:38][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes.pdf
+[2024-02-18 17:39:40][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-18 17:39:42][!] /home/lubuntu/server2/signal-desktop-keyring (another copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:44][!] /home/lubuntu/server2/signal-desktop-keyring (38th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:46][!] /home/lubuntu/server2/signal-desktop-keyring (37th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:48][!] /home/lubuntu/server2/signal-desktop-keyring (36th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:48][!] /home/lubuntu/server2/signal-desktop-keyring (35th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:49][!] /home/lubuntu/server2/signal-desktop-keyring (34th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:52][!] /home/lubuntu/server2/tes (3rd copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:39:56][!] /home/lubuntu/server2/decodebase64.py cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:40:08][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/IMG_85jpg (8th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/IMG_85jpg (7th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/IMG_85jpg (6th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/IMG_85jpg (5th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/IMG_85jpg (4th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/IMG_85jpg (3rd copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/feldy (copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:05][!] /home/lubuntu/server2/feldy.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/tes (6th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/tes (5th copy).pdf
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/tes (4th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (33rd copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (32nd copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (31st copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (30th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (29th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (28th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (27th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (26th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (25th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (24th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (23rd copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (22nd copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (21st copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (20th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (19th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (18th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (17th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (16th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (15th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (14th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (13th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (12th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (11th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (10th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (9th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (8th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (7th copy).gpg
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (6th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (5th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:10][!] /home/lubuntu/server2/signal-desktop-keyring (4th copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/signal-desktop-keyring (3rd copy).gpg
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (another copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (19th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (18th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (17th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (16th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (15th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (14th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (13th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (12th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (11th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (10th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (9th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (8th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (7th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (6th copy).pdf
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/Print Voucher (5th copy).pdf
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (4th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher (3rd copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/Print Voucher.pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (another copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (84th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (83rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (82nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (81st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (80th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (79th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (78th copy).txt
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (77th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (76th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (75th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (74th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (73rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (72nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (71st copy).txt
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (70th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (69th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (68th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (67th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (66th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (65th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (64th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (63rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (62nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (61st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (60th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (59th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (58th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (57th copy).txt
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (56th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (55th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (54th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (53rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (52nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (51st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (50th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (49th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (48th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (47th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (46th copy).txt
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (45th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (44th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (43rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (42nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (41st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (40th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (39th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (38th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (37th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (36th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (35th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (34th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (33rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (32nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (31st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (30th copy).txt
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (29th copy).txt
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (28th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (27th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (26th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (25th copy).txt
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (24th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (23rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (22nd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (21st copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (20th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (19th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (18th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (17th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (16th copy).txt
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (15th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][!] /home/lubuntu/server2/pbo (14th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:11][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (13th copy).txt
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (12th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (11th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/pbo (10th copy).txt
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (9th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (8th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (7th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (6th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (5th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (4th copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo (3rd copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo.txt (another copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo.txt (3rd copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/pbo.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (another copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (11th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (10th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (9th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (8th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (7th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (6th copy).pdf
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (5th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (4th copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (3rd copy).pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-18 17:41:12][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/IMG_85jpg (copy).jpg
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/IMG_85jpg (another copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/IMG_85jpg (11th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/IMG_85jpg (10th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/IMG_85jpg (9th copy).jpg cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/decodebase64 (copy).py
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/baru.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][*] Deleted file: 192.168.1.67:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/auto-before-reset (copy).backup cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/auto-before-reset.backup cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/2 (copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/2.docx cannot be deleted as it doesn't exist on the server.
+[2024-02-18 17:41:12][!] /home/lubuntu/server2/1.docx cannot be deleted as it doesn't exist on the server.
