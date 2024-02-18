@@ -3498,3 +3498,541 @@
 [2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/4.txt
 [2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/5.txt
 [2024-01-29 15:37:42][*] Moved file to: 172.16.28.37:/home/lubuntu/server2/Free/new/1/2/3/4/5/Proposal_FeldyGantengNew.docx
+[2024-02-05 02:05:31][*] Created file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-02-05 02:06:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-02-05 02:09:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-02-05 02:10:43][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy.txt
+[2024-02-05 02:34:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 02:35:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 02:35:19][*] Created file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 02:35:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 02:36:20][*] Created file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 03:06:35][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Feldyydyd
+[2024-02-05 03:07:20][*] Created folder: 172.16.28.37:/home/lubuntu/server2/assfasf
+[2024-02-05 03:10:19][*] Created folder: 172.16.28.37:/home/lubuntu/server2/safsfas
+[2024-02-05 03:11:26][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/assfasf
+[2024-02-05 03:11:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 03:11:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 03:13:57][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/CyBOK-version-1.0.pdf
+[2024-02-05 03:14:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/CyBOK-version-1.0.pdf
+[2024-02-05 03:15:50][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/CyBOK-version-1.0.pdf
+[2024-02-05 03:17:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feldy
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-05 03:18:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-02-05 03:18:03][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-02-05 03:18:03][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-02-05 03:18:03][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-02-05 03:19:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-02-06 20:24:14][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.2.docx#
+[2024-02-06 20:24:24][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.2baru.odt#
+[2024-02-06 20:27:50][!] /home/lubuntu/server2/1.docx cannot be deleted as it doesn't exist on the server.
+[2024-02-06 20:27:50][*] Created file: 192.168.1.101:/home/lubuntu/server2/1.docx
+[2024-02-06 20:27:57][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1.docx#
+[2024-02-06 20:28:05][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 20:28:06][*] Created file: 192.168.1.101:/home/lubuntu/server2/1baru.odt
+[2024-02-06 20:28:06][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1.docx#
+[2024-02-06 20:34:44][*] Created folder: 192.168.1.101:/home/lubuntu/server2/Feldy
+[2024-02-06 20:34:57][*] Created file: 192.168.1.101:/home/lubuntu/server2/baru.txt
+[2024-02-06 20:35:06][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 20:35:07][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 20:35:11][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 20:35:11][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 20:40:23][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 20:40:24][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:03:10][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:03:10][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:04:47][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:04:47][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:04:52][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:04:52][*] Created file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:04:52][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.1baru.odt#
+[2024-02-06 21:07:37][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-06 21:07:54][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-06 21:07:54][*] Deleted file: 192.168.1.101:/home/lubuntu/server2/.~lock.2baru.odt#
+[2024-02-06 21:10:03][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-06 21:10:52][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-06 21:12:00][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-06 21:13:04][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-06 21:14:34][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-06 21:14:53][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-15 16:01:59][*] Deleted file: 192.168.100.15:/home/lubuntu/server2/baru.txt
+[2024-02-15 16:02:00][*] Created file: 192.168.100.15:/home/lubuntu/server2/baru.txt
+[2024-02-15 16:02:13][*] Moved file to: 192.168.100.15:/home/lubuntu/server2/Feldy/baru.txt
+[2024-02-15 16:02:16][*] Moved file to: 192.168.100.15:/home/lubuntu/server2/baru.txt
+[2024-02-15 16:02:51][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-15 16:02:57][!] /home/lubuntu/server2/.~lock.1baru.odt# cannot be deleted as it doesn't exist on the server.
+[2024-02-17 23:55:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing
+[2024-02-17 23:55:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks
+[2024-02-17 23:55:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-push.sample
+[2024-02-17 23:55:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/post-update.sample
+[2024-02-17 23:55:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-receive.sample
+[2024-02-17 23:55:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/update.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/applypatch-msg.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-applypatch.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/push-to-checkout.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-merge-commit.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/fsmonitor-watchman.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/commit-msg.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-rebase.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/prepare-commit-msg.sample
+[2024-02-17 23:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-commit.sample
+[2024-02-17 23:57:49][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing
+[2024-02-17 23:57:49][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-02-17 23:57:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-02-17 23:57:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1baru.odt
+[2024-02-17 23:57:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-02-17 23:58:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-02-17 23:58:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-02-17 23:58:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/1baru.odt
+[2024-02-17 23:58:07][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Feldy
+[2024-02-17 23:58:08][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/README.md
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/index.html
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/LICENSE
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/css.css
+[2024-02-17 23:58:08][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs
+[2024-02-17 23:58:08][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/branches
+[2024-02-17 23:58:08][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks
+[2024-02-17 23:58:08][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/refs
+[2024-02-17 23:58:08][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/objects
+[2024-02-17 23:58:08][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/info
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/description
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/index
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/config
+[2024-02-17 23:58:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/packed-refs
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/HEAD
+[2024-02-17 23:58:09][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs/refs
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs/HEAD
+[2024-02-17 23:58:09][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs/refs/remotes
+[2024-02-17 23:58:09][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs/refs/heads
+[2024-02-17 23:58:09][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs/refs/remotes/origin
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs/refs/remotes/origin/HEAD
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/logs/refs/heads/main
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-receive.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-commit.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/commit-msg.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-rebase.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/prepare-commit-msg.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/push-to-checkout.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-merge-commit.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/applypatch-msg.sample
+[2024-02-17 23:58:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-push.sample
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/update.sample
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/fsmonitor-watchman.sample
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/post-update.sample
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/hooks/pre-applypatch.sample
+[2024-02-17 23:58:10][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/refs/remotes
+[2024-02-17 23:58:10][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/refs/heads
+[2024-02-17 23:58:10][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/refs/tags
+[2024-02-17 23:58:10][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/refs/remotes/origin
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/refs/remotes/origin/HEAD
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/refs/heads/main
+[2024-02-17 23:58:10][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/objects/pack
+[2024-02-17 23:58:10][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/objects/info
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/objects/pack/pack-dac5f8605b6bb58b75bcfaea12ae387abc4d40b1.idx
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/objects/pack/pack-dac5f8605b6bb58b75bcfaea12ae387abc4d40b1.pack
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-Phishing/.git/info/exclude
+[2024-02-17 23:58:10][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/facebook.css
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/README.md
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/wrong_password.css
+[2024-02-17 23:58:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/loginstyle.css
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/Instagram-Icon.png
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/Instagram_logo_2016.svg.webp
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/screenshot4.png
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/forget.css
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/Facebook-logo.png
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/Facebook_Logo_(2019).png.webp
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/wrong_password.html
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/login.html
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/facebook-login.html
+[2024-02-17 23:58:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/forget.html
+[2024-02-17 23:58:11][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs
+[2024-02-17 23:58:11][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/branches
+[2024-02-17 23:58:11][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks
+[2024-02-17 23:58:11][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/refs
+[2024-02-17 23:58:11][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/objects
+[2024-02-17 23:58:12][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/info
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/description
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/index
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/config
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/packed-refs
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/HEAD
+[2024-02-17 23:58:12][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs/refs
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs/HEAD
+[2024-02-17 23:58:12][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs/refs/remotes
+[2024-02-17 23:58:12][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs/refs/heads
+[2024-02-17 23:58:12][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs/refs/remotes/origin
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs/refs/remotes/origin/HEAD
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/logs/refs/heads/main
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/pre-receive.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/pre-commit.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/commit-msg.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/pre-rebase.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/prepare-commit-msg.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/push-to-checkout.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/pre-merge-commit.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/applypatch-msg.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/pre-push.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/update.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/fsmonitor-watchman.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/post-update.sample
+[2024-02-17 23:58:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/hooks/pre-applypatch.sample
+[2024-02-17 23:58:12][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/refs/remotes
+[2024-02-17 23:58:13][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/refs/heads
+[2024-02-17 23:58:13][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/refs/tags
+[2024-02-17 23:58:13][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/refs/remotes/origin
+[2024-02-17 23:58:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/refs/remotes/origin/HEAD
+[2024-02-17 23:58:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/refs/heads/main
+[2024-02-17 23:58:13][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/objects/pack
+[2024-02-17 23:58:13][*] Created folder: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/objects/info
+[2024-02-17 23:58:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/objects/pack/pack-ed2147545676007ec975b98eb9c4f1f707b50084.idx
+[2024-02-17 23:58:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/objects/pack/pack-ed2147545676007ec975b98eb9c4f1f707b50084.pack
+[2024-02-17 23:58:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/Instagram-and-Facebook-login-page/.git/info/exclude
+[2024-02-18 00:44:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-02-18 00:44:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-02-18 00:44:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-18 00:44:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-02-18 00:44:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-18 00:44:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-18 00:44:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-18 00:46:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-02-18 00:46:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-02-18 00:46:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-02-18 00:46:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-18 00:46:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-18 00:46:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (copy).docx
+[2024-02-18 00:46:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/1baru (copy).odt
+[2024-02-18 00:46:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-02-18 00:48:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/text (copy).txt
+[2024-02-18 00:48:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (copy).py
+[2024-02-18 00:48:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (copy).pdf
+[2024-02-18 00:48:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-18 00:48:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (copy).pdf
+[2024-02-18 00:48:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-18 00:48:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo (copy).txt
+[2024-02-18 00:48:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (copy).pdf
+[2024-02-18 00:48:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/text (another copy).txt
+[2024-02-18 00:48:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (another copy).py
+[2024-02-18 00:48:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (another copy).pdf
+[2024-02-18 00:48:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (another copy).gpg
+[2024-02-18 00:48:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (another copy).pdf
+[2024-02-18 00:48:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo (another copy).txt
+[2024-02-18 00:48:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (another copy).save
+[2024-02-18 00:48:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (another copy).pdf
+[2024-02-18 00:49:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/text (3rd copy).txt
+[2024-02-18 00:49:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (3rd copy).py
+[2024-02-18 00:49:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (3rd copy).pdf
+[2024-02-18 00:49:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (3rd copy).gpg
+[2024-02-18 00:49:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (3rd copy).pdf
+[2024-02-18 00:49:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo (3rd copy).txt
+[2024-02-18 00:49:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (3rd copy).save
+[2024-02-18 00:49:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (3rd copy).pdf
+[2024-02-18 00:49:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/text (4th copy).txt
+[2024-02-18 00:49:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (4th copy).py
+[2024-02-18 00:49:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (4th copy).pdf
+[2024-02-18 00:49:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (4th copy).gpg
+[2024-02-18 00:49:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (4th copy).pdf
+[2024-02-18 00:49:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo (4th copy).txt
+[2024-02-18 00:49:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (4th copy).save
+[2024-02-18 00:49:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (4th copy).pdf
+[2024-02-18 00:52:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/text (5th copy).txt
+[2024-02-18 00:52:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (5th copy).py
+[2024-02-18 00:52:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (5th copy).pdf
+[2024-02-18 00:52:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (5th copy).gpg
+[2024-02-18 00:52:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (5th copy).pdf
+[2024-02-18 00:52:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo (5th copy).txt
+[2024-02-18 00:52:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (5th copy).save
+[2024-02-18 00:52:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (5th copy).pdf
+[2024-02-18 00:54:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/text (6th copy).txt
+[2024-02-18 00:54:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (6th copy).py
+[2024-02-18 00:54:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (6th copy).pdf
+[2024-02-18 00:54:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (6th copy).gpg
+[2024-02-18 00:54:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (6th copy).pdf
+[2024-02-18 00:54:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo (6th copy).txt
+[2024-02-18 00:54:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (6th copy).save
+[2024-02-18 00:54:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (6th copy).pdf
+[2024-02-18 00:54:56][*] Created file: 172.16.28.37:/home/lubuntu/server2/text (7th copy).txt
+[2024-02-18 00:54:56][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (7th copy).py
+[2024-02-18 00:54:56][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes (7th copy).pdf
+[2024-02-18 00:54:56][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (7th copy).gpg
+[2024-02-18 00:54:57][*] Created file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (7th copy).pdf
+[2024-02-18 00:54:57][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo (7th copy).txt
+[2024-02-18 00:54:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (7th copy).save
+[2024-02-18 00:54:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (7th copy).pdf
+[2024-02-18 00:56:03][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg (copy).jpg
+[2024-02-18 01:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (8th copy).pdf
+[2024-02-18 01:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (9th copy).pdf
+[2024-02-18 01:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (10th copy).pdf
+[2024-02-18 01:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (11th copy).pdf
+[2024-02-18 01:11:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (12th copy).pdf
+[2024-02-18 01:11:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (13th copy).pdf
+[2024-02-18 01:14:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (14th copy).pdf
+[2024-02-18 01:14:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (15th copy).pdf
+[2024-02-18 01:14:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (16th copy).pdf
+[2024-02-18 01:14:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (17th copy).pdf
+[2024-02-18 01:14:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (18th copy).pdf
+[2024-02-18 01:14:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (19th copy).pdf
+[2024-02-18 01:14:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (20th copy).pdf
+[2024-02-18 01:14:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (21st copy).pdf
+[2024-02-18 01:14:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (22nd copy).pdf
+[2024-02-18 01:14:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (23rd copy).pdf
+[2024-02-18 01:14:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (24th copy).pdf
+[2024-02-18 01:14:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (25th copy).pdf
+[2024-02-18 01:15:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (26th copy).pdf
+[2024-02-18 01:15:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (27th copy).pdf
+[2024-02-18 01:15:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (28th copy).pdf
+[2024-02-18 01:15:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (29th copy).pdf
+[2024-02-18 01:15:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (30th copy).pdf
+[2024-02-18 01:15:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (31st copy).pdf
+[2024-02-18 01:15:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (32nd copy).pdf
+[2024-02-18 01:15:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (33rd copy).pdf
+[2024-02-18 01:15:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (34th copy).pdf
+[2024-02-18 01:15:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (35th copy).pdf
+[2024-02-18 01:15:19][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (36th copy).pdf
+[2024-02-18 01:15:19][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (37th copy).pdf
+[2024-02-18 01:15:38][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (38th copy).pdf
+[2024-02-18 01:15:38][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (39th copy).pdf
+[2024-02-18 01:15:38][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (40th copy).pdf
+[2024-02-18 01:15:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (41st copy).pdf
+[2024-02-18 01:15:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (42nd copy).pdf
+[2024-02-18 01:15:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (43rd copy).pdf
+[2024-02-18 01:15:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (44th copy).pdf
+[2024-02-18 01:15:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (45th copy).pdf
+[2024-02-18 01:15:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (46th copy).pdf
+[2024-02-18 01:15:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (47th copy).pdf
+[2024-02-18 01:15:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (48th copy).pdf
+[2024-02-18 01:15:41][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (49th copy).pdf
+[2024-02-18 01:17:57][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg (another copy).jpg
+[2024-02-18 01:17:57][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-18 01:17:57][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt (copy).save
+[2024-02-18 01:17:57][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru (copy).txt
+[2024-02-18 01:17:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (another copy).docx
+[2024-02-18 01:17:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (3rd copy).docx
+[2024-02-18 01:17:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-02-18 01:17:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/1baru (another copy).odt
+[2024-02-18 01:17:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/1baru (3rd copy).odt
+[2024-02-18 01:17:59][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (3rd copy).docx
+[2024-02-18 01:20:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (3rd copy).py
+[2024-02-18 01:20:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (4th copy).py
+[2024-02-18 01:20:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru (another copy).txt
+[2024-02-18 01:20:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt (another copy).save
+[2024-02-18 01:20:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt (3rd copy).save
+[2024-02-18 01:20:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru (3rd copy).txt
+[2024-02-18 01:20:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (4th copy).docx
+[2024-02-18 01:20:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (5th copy).docx
+[2024-02-18 01:20:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (6th copy).docx
+[2024-02-18 01:20:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (7th copy).docx
+[2024-02-18 01:20:03][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (4th copy).docx
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (5th copy).py
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (6th copy).py
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru (4th copy).txt
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru (5th copy).txt
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt (4th copy).save
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt (5th copy).save
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (8th copy).docx
+[2024-02-18 01:20:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (9th copy).docx
+[2024-02-18 01:20:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (10th copy).docx
+[2024-02-18 01:20:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/2 (11th copy).docx
+[2024-02-18 01:20:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (5th copy).docx
+[2024-02-18 01:21:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text (copy).txt
+[2024-02-18 01:21:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text (another copy).txt
+[2024-02-18 01:21:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text (7th copy).txt
+[2024-02-18 01:21:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text (6th copy).txt
+[2024-02-18 01:21:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text (5th copy).txt
+[2024-02-18 01:21:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text (4th copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text (3rd copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (copy).py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (another copy).py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (another copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (7th copy).py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (7th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (6th copy).py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (6th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (5th copy).py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (5th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (4th copy).py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (4th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (3rd copy).py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes (3rd copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (another copy).gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (7th copy).gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (6th copy).gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (5th copy).gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (4th copy).gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (3rd copy).gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (another copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (7th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (6th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (5th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (4th copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher (3rd copy).pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo (copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo (another copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo (7th copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo (6th copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo (5th copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo (4th copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo (3rd copy).txt
+[2024-02-18 01:21:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (another copy).save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (7th copy).save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (6th copy).save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (5th copy).save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (4th copy).save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (3rd copy).save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (another copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (49th copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (48th copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (47th copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (46th copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (45th copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (44th copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (43rd copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (42nd copy).pdf
+[2024-02-18 01:21:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (41st copy).pdf
+[2024-02-18 01:25:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (41st copy).pdf
+[2024-02-18 01:25:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (42nd copy).pdf
+[2024-02-18 01:25:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (43rd copy).pdf
+[2024-02-18 01:25:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (44th copy).pdf
+[2024-02-18 01:25:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (45th copy).pdf
+[2024-02-18 01:25:30][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (46th copy).pdf
+[2024-02-18 01:25:31][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (47th copy).pdf
+[2024-02-18 01:25:31][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (48th copy).pdf
+[2024-02-18 01:25:31][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (49th copy).pdf
+[2024-02-18 01:25:42][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (50th copy).pdf
+[2024-02-18 01:25:42][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (51st copy).pdf
+[2024-02-18 01:25:42][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (52nd copy).pdf
+[2024-02-18 01:25:42][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (53rd copy).pdf
+[2024-02-18 01:25:42][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (54th copy).pdf
+[2024-02-18 01:25:43][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (55th copy).pdf
+[2024-02-18 01:25:43][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (56th copy).pdf
+[2024-02-18 01:27:17][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (57th copy).pdf
+[2024-02-18 01:27:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (58th copy).pdf
+[2024-02-18 01:27:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (59th copy).pdf
+[2024-02-18 01:27:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (60th copy).pdf
+[2024-02-18 01:27:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (61st copy).pdf
+[2024-02-18 01:27:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (62nd copy).pdf
+[2024-02-18 01:27:19][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (63rd copy).pdf
+[2024-02-18 01:27:19][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (64th copy).pdf
+[2024-02-18 01:27:19][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (65th copy).pdf
+[2024-02-18 01:27:20][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (66th copy).pdf
+[2024-02-18 01:27:20][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (67th copy).pdf
+[2024-02-18 01:27:20][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (68th copy).pdf
+[2024-02-18 01:27:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (69th copy).pdf
+[2024-02-18 01:27:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (70th copy).pdf
+[2024-02-18 01:29:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (71st copy).pdf
+[2024-02-18 01:29:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (72nd copy).pdf
+[2024-02-18 01:29:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (73rd copy).pdf
+[2024-02-18 01:29:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (74th copy).pdf
+[2024-02-18 01:29:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (75th copy).pdf
+[2024-02-18 01:29:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (76th copy).pdf
+[2024-02-18 01:29:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (77th copy).pdf
+[2024-02-18 01:29:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (78th copy).pdf
+[2024-02-18 01:29:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (79th copy).pdf
+[2024-02-18 01:29:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (80th copy).pdf
+[2024-02-18 01:29:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (81st copy).pdf
+[2024-02-18 01:29:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (82nd copy).pdf
+[2024-02-18 01:29:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (83rd copy).pdf
+[2024-02-18 01:29:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (84th copy).pdf
+[2024-02-18 01:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (85th copy).pdf
+[2024-02-18 01:29:54][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (86th copy).pdf
+[2024-02-18 01:29:54][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (87th copy).pdf
+[2024-02-18 01:29:54][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (88th copy).pdf
+[2024-02-18 01:29:54][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (89th copy).pdf
+[2024-02-18 01:29:54][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (90th copy).pdf
+[2024-02-18 01:29:55][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (91st copy).pdf
+[2024-02-18 01:29:55][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (92nd copy).pdf
+[2024-02-18 01:29:55][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (93rd copy).pdf
+[2024-02-18 01:29:55][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (94th copy).pdf
+[2024-02-18 01:29:56][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (95th copy).pdf
+[2024-02-18 01:29:56][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (96th copy).pdf
+[2024-02-18 01:29:56][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (97th copy).pdf
+[2024-02-18 01:29:57][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (98th copy).pdf
+[2024-02-18 01:31:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (99th copy).pdf
+[2024-02-18 01:31:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (100th copy).pdf
+[2024-02-18 01:31:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (101st copy).pdf
+[2024-02-18 01:31:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (102nd copy).pdf
+[2024-02-18 01:31:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (103rd copy).pdf
+[2024-02-18 01:31:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (104th copy).pdf
+[2024-02-18 01:31:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (105th copy).pdf
+[2024-02-18 01:31:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (106th copy).pdf
+[2024-02-18 01:31:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (107th copy).pdf
+[2024-02-18 01:31:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (108th copy).pdf
+[2024-02-18 01:31:08][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (109th copy).pdf
+[2024-02-18 01:31:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (110th copy).pdf
+[2024-02-18 01:31:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (111th copy).pdf
+[2024-02-18 01:31:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (112th copy).pdf
+[2024-02-18 01:31:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (113th copy).pdf
+[2024-02-18 01:31:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (114th copy).pdf
+[2024-02-18 01:31:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (115th copy).pdf
+[2024-02-18 01:31:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (116th copy).pdf
+[2024-02-18 01:31:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (117th copy).pdf
+[2024-02-18 01:31:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (118th copy).pdf
+[2024-02-18 01:31:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (119th copy).pdf
+[2024-02-18 01:31:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (120th copy).pdf
+[2024-02-18 01:31:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (121st copy).pdf
+[2024-02-18 01:31:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (122nd copy).pdf
+[2024-02-18 01:31:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (123rd copy).pdf
+[2024-02-18 01:31:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (124th copy).pdf
+[2024-02-18 01:31:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (125th copy).pdf
+[2024-02-18 01:31:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (126th copy).pdf
+[2024-02-18 01:32:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (127th copy).pdf
+[2024-02-18 01:32:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (128th copy).pdf
+[2024-02-18 01:32:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (129th copy).pdf
+[2024-02-18 01:32:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (130th copy).pdf
+[2024-02-18 01:32:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (131st copy).pdf
+[2024-02-18 01:32:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (132nd copy).pdf
+[2024-02-18 01:32:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (133rd copy).pdf
+[2024-02-18 01:32:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (134th copy).pdf
+[2024-02-18 01:32:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (135th copy).pdf
+[2024-02-18 01:32:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (136th copy).pdf
+[2024-02-18 01:32:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (137th copy).pdf
+[2024-02-18 01:32:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (138th copy).pdf
+[2024-02-18 01:32:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (139th copy).pdf
+[2024-02-18 01:32:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (140th copy).pdf
+[2024-02-18 01:33:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (141st copy).pdf
+[2024-02-18 01:33:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (142nd copy).pdf
+[2024-02-18 01:33:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (143rd copy).pdf
+[2024-02-18 01:33:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (144th copy).pdf
+[2024-02-18 01:33:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (145th copy).pdf
+[2024-02-18 01:33:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (146th copy).pdf
+[2024-02-18 01:33:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (147th copy).pdf
+[2024-02-18 01:33:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (148th copy).pdf
+[2024-02-18 01:33:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (149th copy).pdf
+[2024-02-18 01:33:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (150th copy).pdf
+[2024-02-18 01:33:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (151st copy).pdf
+[2024-02-18 01:33:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (152nd copy).pdf
+[2024-02-18 01:33:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (153rd copy).pdf
+[2024-02-18 01:33:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN (154th copy).pdf

@@ -2,7 +2,6 @@ import time
 import os
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
-from concurrent.futures import ThreadPoolExecutor
 from SSH.ssh_manager import SSHManager
 from Host.host import Host
 from Compare.compare import compare_md5, calculate_md5, is_same_filename, is_same_dirname, is_same_inode, get_absolute_path
@@ -16,8 +15,16 @@ class MyHandler(FileSystemEventHandler):
     def __init__(self, folderlocal, ssh_manager):
         self.folderlocal = folderlocal
         self.ssh_manager = ssh_manager
-        self.total_files_sent = 0
-        self.total_bytes_sent = 0
+        self.total_create = 0
+        self.total_delete = 0
+        self.total_moved = 0
+        self.total_modif = 0
+        self.total_files_synced = 0
+        self.total_bytes_synced = 0
+
+    def get_file_synced(self):
+        self.total_files_synced = self.total_create + self.total_delete + self.total_modif + self.total_moved
+        return self.total_files_synced
 
     def log(self, message):
         now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
@@ -70,10 +77,10 @@ class MyHandler(FileSystemEventHandler):
         try:
             server1_path = event.src_path
             server2_path = self.getServerFullPath(server1_path)
-            if ssh_manager.handle_metadata_comparison(server1_path, server2_path) == False:
-                if event.is_directory:
-                    pass
-                elif not event.is_directory:    
+            if event.is_directory:
+                pass
+            elif not event.is_directory:    
+                if not server1_path.startswith('.') or not server2_path.startswith('.'):
                     if not self.ignore_tempfile(server1_path):
                         if is_same_filename(server1_path,server2_path):
                             file_existence = ssh_manager.check_existence(server2_path)
@@ -84,7 +91,10 @@ class MyHandler(FileSystemEventHandler):
                                     if calculate_md5(server1_path)!= ssh_manager.calculate_remote_md5(server2_path):
                                         ssh_manager.send_and_replace_file(server1_path, server2_path)
                                         if file_existence == True and calculate_md5(server1_path)== ssh_manager.calculate_remote_md5(server2_path):
+                                            # self.total_files_synced +=1
                                             print(f'[*] Modified file on: {host_info.hostname}:{server2_path}')
+                                            self.total_modif += 1
+                                            
         except Exception as e:
             print('[!] Failed to handle modified event: {}'.format(e))
 
@@ -92,45 +102,52 @@ class MyHandler(FileSystemEventHandler):
         try:
             server1_path = event.src_path
             server2_path = self.getServerFullPath(server1_path)
-            
-            if not self.ignore_tempfile(server1_path) and not self.ignore_tempfile(server2_path):
-                define_folder = self.folder_enum(server1_path, host_info.direktori)
-                if event.is_directory:
-                    if not ssh_manager.check_existence(define_folder):
-                        ssh_manager.create_folder(define_folder)
-                        if ssh_manager.check_existence(define_folder): 
-                            self.log(f"[*] Created folder: {host_info.hostname}:{define_folder}")
-                            print(f"[*] Created folder: {host_info.hostname}:{define_folder}")
-                    else:
-                        print(f"[+] Folder already created ")
-                elif not event.is_directory:
-                    file_existence = ssh_manager.check_existence(server2_path)
-                    if not file_existence:
-                        ssh_manager.send_file(server1_path, server2_path)
-                        if calculate_md5(server1_path) == ssh_manager.calculate_remote_md5(server2_path):
-                            print(f"[*] File Created: {server2_path}")
-                            self.log(f"[*] Created file: {host_info.hostname}:{server2_path}")
+            if os.path.basename(server1_path).startswith('.') == False:
+                
+                if not self.ignore_tempfile(server1_path) or not self.ignore_tempfile(server2_path):
+                    define_folder = self.folder_enum(server1_path, host_info.direktori)
+                    if event.is_directory:
+                        if not ssh_manager.check_existence(define_folder):
+                            ssh_manager.create_folder(define_folder)
+                            if ssh_manager.check_existence(define_folder): 
+                                self.log(f"[*] Created folder: {host_info.hostname}:{define_folder}")
+                                print(f"[*] Created folder: {host_info.hostname}:{define_folder}")
+                        else:
+                            print(f"[+] Folder already created ")
+                    elif not event.is_directory:
+                        file_existence = ssh_manager.check_existence(server2_path)
+                        if not file_existence:
+                            ssh_manager.send_file(server1_path, server2_path)
+                            if calculate_md5(server1_path) == ssh_manager.calculate_remote_md5(server2_path):
+                                # self.total_files_synced +=1
+                                print(f"[*] File Created: {server2_path}")
+                                self.log(f"[*] Created file: {host_info.hostname}:{server2_path}")
+                                self.total_create += 1
         except Exception as e:
             print(f"[!] Error in on_created: {str(e)}")
 
     def on_deleted(self, event):
         try:
+            
             path = event.src_path
             remote_path = self.folder_enum(path, host_info.direktori)
-            if not self.ignore_tempfile(path) and not self.ignore_tempfile(remote_path):
-                if event.is_directory:
-                    if ssh_manager.check_existence(remote_path):
-                        ssh_manager.delete_folder(remote_path)
-                        self.log(f"[*] Deleted folder: {host_info.hostname}:{remote_path}")
-                        print(f"[*] Deleted folder: {host_info.hostname}:{remote_path}")
-                elif not event.is_directory:
-                    if ssh_manager.check_existence(remote_path):
-                        ssh_manager.delete_file(remote_path)
-                        self.log(f"[*] Deleted file: {host_info.hostname}:{remote_path}")
-                        print(f"[*] Deleted file: {host_info.hostname}:{remote_path}")
-                    else:
-                        self.log(f"[!] {remote_path} cannot be deleted as it doesn't exist on the server.")
-                        print(f"[!] {remote_path} cannot be deleted as it doesn't exist on the server.")
+            if not path.startswith('.') or not remote_path.startswith('.'):
+                
+                if not self.ignore_tempfile(path) or not self.ignore_tempfile(remote_path):
+                    if event.is_directory:
+                        if ssh_manager.check_existence(remote_path):
+                            ssh_manager.delete_folder(remote_path)
+                            self.log(f"[*] Deleted folder: {host_info.hostname}:{remote_path}")
+                            print(f"[*] Deleted folder: {host_info.hostname}:{remote_path}")
+                    elif not event.is_directory:
+                        if ssh_manager.check_existence(remote_path):
+                            ssh_manager.delete_file(remote_path)
+                            self.log(f"[*] Deleted file: {host_info.hostname}:{remote_path}")
+                            print(f"[*] Deleted file: {host_info.hostname}:{remote_path}")
+                            self.total_delete += 1
+                        else:
+                            self.log(f"[!] {remote_path} cannot be deleted as it doesn't exist on the server.")
+                            print(f"[!] {remote_path} cannot be deleted as it doesn't exist on the server.")
         except Exception as e:
             print(f"[!] Error during deletion of {remote_path}: {e}")
 
@@ -151,44 +168,32 @@ class MyHandler(FileSystemEventHandler):
                     print(f"[*] Moved folder to: {host_info.hostname}:{def_folder2}")
                 
             elif not event.is_directory:
-                
                 src_full_path_server2 = self.getServerFullPath(src_path_server1)
                 dest_full_path_server2 = self.getServerFullPath(dest_path_server1)
-                if ssh_manager.handle_metadata_comparison(dest_path_server1, dest_full_path_server2) == False:
-                    if self.ignore_tempfile(src_path_server1) and self.ignore_tempfile(src_full_path_server2):
+                if not src_path_server1.startswith('.') or not src_full_path_server2.startswith('.'):
+                    if self.ignore_tempfile(src_path_server1) or self.ignore_tempfile(src_full_path_server2):
                         if is_same_filename(dest_path_server1, dest_full_path_server2) and calculate_md5(dest_path_server1) != ssh_manager.calculate_remote_md5(dest_full_path_server2):
                             ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
+                            # print(src_path_server1)
+                            # print(src_full_path_server2)
                             print(f'[*] Modified file on: {host_info.hostname}:{dest_full_path_server2}')
-                    elif not (self.ignore_tempfile(src_path_server1) and self.ignore_tempfile(dest_path_server1)):
+                            self.total_moved += 1
+                    elif not (self.ignore_tempfile(src_path_server1) or self.ignore_tempfile(dest_path_server1)):
                         if not is_same_filename(dest_path_server1, src_full_path_server2) and calculate_md5(dest_path_server1) == ssh_manager.calculate_remote_md5(src_full_path_server2):
                             ssh_manager.rename_file(src_full_path_server2, dest_full_path_server2)
                             print(f"[*] Rename file Success: {src_full_path_server2} => {dest_full_path_server2}")
+                            self.total_moved += 1
                         elif src_path_server1 != dest_path_server1:
                             ssh_manager.move(src_full_path_server2, dest_full_path_server2)
                             self.log(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
                             print(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
+                            self.total_moved += 1
                         else:
                             ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
+                            self.total_moved += 1
         except Exception as e:
             print(f"[!] Error in on_moved: {str(e)}")
-def start_watchdog(folderlocal, ssh_manager):
-    observer = Observer()
-    handler = MyHandler(folderlocal, ssh_manager)
-    observer.schedule(handler, path=folderlocal, recursive=True)
-    observer.start()
 
-    try:
-        while True:
-            time.sleep(1)
-    except KeyboardInterrupt:
-        observer.stop()
-    finally:
-        observer.join()
-        observer.stop()
-
-def run_prog(folder_path, ssh_manager):
-    with ThreadPoolExecutor() as executor:
-        executor.submit(start_watchdog, folder_path, ssh_manager)
 
 
 
