@@ -51,25 +51,28 @@ def start_watchdog(folderlocal, target):
     observer.schedule(handler, path=folderlocal, recursive=True)
     status = True
     server_thread = threading.Thread(target=comm.start_server, args=('0.0.0.0',))
+    
     try:
         server_thread.start() 
         observer.start()
         while status:
-            comm.start_client(target, "uptime:"+ str(comm.get_uptime()))
-            comm.get_received_data()
-            message = comm.get_received_data()
+
+
             total_synced_files = handler.get_file_synced()
             print(f"Total Modified: {total_synced_files}", end='\r')
             time.sleep(1)
-            if total_synced_files >= 3 or message.get('command') =='STOP':
-                handler.setActive(False)
-                comm.start_client(target, {'command': 'START'})
-                handler.resetTotalFile()
-                continue
-            elif message.get('command') == 'START':
-                handler.setActive(True)
-                comm.start_client(target, {'command': 'STOP'})
-                continue
+            message = comm.get_received_data()
+            if message:
+                command = message['command']
+                if total_synced_files >= 5 or command == 'STOP':
+                    handler.setActive(False)
+                    comm.start_client(target, {'command': 'START'})
+                    handler.resetTotalFile()
+                    continue
+                elif command == 'START':
+                    handler.setActive(True)
+                    comm.start_client(target, {'command': 'STOP'})
+                    continue
         
     except KeyboardInterrupt:
         observer.stop()
@@ -78,6 +81,7 @@ def start_watchdog(folderlocal, target):
         server_thread.join()
         observer.join()
         observer.stop()
+
 
 
 def stop_watchdog():

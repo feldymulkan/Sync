@@ -1,6 +1,7 @@
 import socket
 import time
 import json
+import threading
 
 class ServerClientCommunication:
     def __init__(self):
@@ -14,11 +15,7 @@ class ServerClientCommunication:
                 received_data = client_socket.recv(1024)
                 if not received_data:
                     break
-                
-                # Parsing data JSON yang diterima
                 decoded_data = json.loads(received_data.decode('utf-8'))
-                
-                # Memasukkan data ke dalam list
                 self.data_queue.append(decoded_data)
         except Exception as e:
             print(f"Error: {e}")
@@ -30,8 +27,12 @@ class ServerClientCommunication:
             server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             server_socket.bind((address, 9000))
             server_socket.listen(5)
-            client_socket, addr = server_socket.accept()
-            self.handle_client(client_socket)
+            
+            while True:
+                client_socket, addr = server_socket.accept()
+                client_handler = threading.Thread(target=self.handle_client, args=(client_socket,))
+                client_handler.start()
+                
         except Exception as e:
             print(f"Server error: {e}")
         finally:
@@ -66,7 +67,7 @@ class ServerClientCommunication:
         return time.time() - self.start_time
 
 
-# # Contoh penggunaan kelas ServerClientCommunication
+# Contoh penggunaan kelas ServerClientCommunication
 # if __name__ == "__main__":
 #     # Inisialisasi objek ServerClientCommunication
 #     server_client = ServerClientCommunication()
@@ -74,10 +75,13 @@ class ServerClientCommunication:
 #     # Memulai server pada alamat localhost
 #     server_client.start_server('0.0.0.0')
 
-#     # Mengambil data yang diterima dari server
-#     received_data = server_client.get_received_data()
-#     print("Received data:", received_data.get('command'))
+#     # Tambahkan loop untuk membiarkan server berjalan terus menerima pesan
+#     while True:
+#         # Mengambil data yang diterima dari server
+#         received_data = server_client.get_received_data()
+#         if received_data:
+#             print("Received data:", received_data.get('command'))
 
-#     # Mengambil waktu up-time dari server
-#     uptime = server_client.get_uptime()
-#     print("Server uptime:", uptime)
+#         # Mengambil waktu up-time dari server
+#         uptime = server_client.get_uptime()
+#         print("Server uptime:", uptime)
