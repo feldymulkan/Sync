@@ -5336,3 +5336,821 @@
 [2024-02-19 04:02:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
 [2024-02-19 04:02:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
 [2024-02-19 04:02:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-21 22:36:14][*] Created file: 192.168.0.17:/home/lubuntu/server2/text (copy).txt
+[2024-02-21 22:36:14][*] Created file: 192.168.0.17:/home/lubuntu/server2/tes (copy).py
+[2024-02-21 22:36:14][*] Created file: 192.168.0.17:/home/lubuntu/server2/tes (copy).php
+[2024-02-21 22:36:14][*] Created file: 192.168.0.17:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-21 22:36:14][*] Created file: 192.168.0.17:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-21 22:36:14][*] Created file: 192.168.0.17:/home/lubuntu/server2/establish (copy).py
+[2024-02-21 22:38:33][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/text (copy).txt
+[2024-02-21 22:38:33][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/tes (copy).py
+[2024-02-21 22:38:33][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/tes (copy).php
+[2024-02-21 22:38:33][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-21 22:38:33][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-21 22:38:33][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/establish (copy).py
+[2024-02-21 22:39:46][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/text.txt
+[2024-02-21 22:39:46][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/tes.py
+[2024-02-21 22:39:46][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/tes.php
+[2024-02-21 22:39:46][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-21 22:39:46][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/pbo.txt.save
+[2024-02-21 22:39:46][*] Deleted file: 192.168.0.17:/home/lubuntu/server2/establish.py
+[2024-02-21 22:43:31][*] Created file: 192.168.0.17:/home/lubuntu/server2/text.txt
+[2024-02-21 22:43:31][*] Created file: 192.168.0.17:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-21 22:43:31][*] Created file: 192.168.0.17:/home/lubuntu/server2/tes.php
+[2024-02-21 22:43:31][*] Created file: 192.168.0.17:/home/lubuntu/server2/pbo.txt.save
+[2024-02-21 22:43:31][*] Created file: 192.168.0.17:/home/lubuntu/server2/tes.py
+[2024-02-21 22:43:31][*] Created file: 192.168.0.17:/home/lubuntu/server2/establish.py
+[2024-02-22 15:35:04][!] /home/lubuntu/server2/text (copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:35:04][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/text.txt
+[2024-02-22 15:35:04][!] /home/lubuntu/server2/tes (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:35:04][!] /home/lubuntu/server2/tes (copy).php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:35:09][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 15:35:09][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 15:35:09][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:35:09][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 15:35:09][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:35:09][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 15:35:09][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:35:09][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 15:48:32][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 15:50:36][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:44][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 15:53:46][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 15:54:52][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:20][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:00:22][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:00:22][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:00:22][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:00:22][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:00:22][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:00:23][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:00:23][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:00:23][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:00:51][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:37][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:02:38][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:03:47][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:16][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:04:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:04:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:04:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:04:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:04:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:04:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:04:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:04:18][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:05:49][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:05:50][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:09:00][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:09:00][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:09:00][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:09:00][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:09:00][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:09:00][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:09:00][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:09:00][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:09:01][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:09:01][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:09:01][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:09:01][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:09:01][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:09:02][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:09:02][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:09:02][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:09:17][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:34][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:12:36][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:13:08][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:15:17][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:15:23][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:15:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:15:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:15:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:15:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:15:26][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:15:26][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:15:26][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:15:26][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:18:21][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:18:24][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:18:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:18:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:18:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:18:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:18:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:18:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:18:25][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:19:41][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:20:00][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:20:00][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:20:00][*] Created file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:20:00][*] Created file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 16:20:00][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:20:00][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:20:01][*] Created file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:20:01][*] Created file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.py
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/tes.php
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 16:22:22][*] Deleted file: 10.30.30.183:/home/lubuntu/server2/establish.py
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:45][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-22 23:02:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:02:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:02:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:02:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:02:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:02:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:02:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:02:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:03:12][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:07:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:07:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:07:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:07:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:07:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:07:41][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:07:41][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:07:41][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:07:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:07:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:07:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:07:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:07:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:07:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:07:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:07:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:00][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:18][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:23][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:26][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:11:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:12:01][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:12:04][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:12:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:14:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:14:58][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:15:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-22 23:21:07][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 01:54:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 01:55:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 01:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 01:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 01:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 01:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 01:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 01:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 01:55:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 01:56:48][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 01:57:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 01:57:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 01:57:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 01:57:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 01:57:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 01:57:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 01:57:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 01:57:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 01:57:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:13][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:01:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:02:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:03:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:05:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:06:59][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:07:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:09:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/tes.php cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/signal-desktop-keyring (copy).gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:47][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:10:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring (copy).gpg
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt (copy).save
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish (copy).py
+[2024-02-23 02:11:30][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-02-23 21:55:40][!] /home/lubuntu/server2/text.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 21:55:40][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 21:55:40][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 21:55:40][!] /home/lubuntu/server2/pbo.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 21:55:40][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 21:55:40][!] /home/lubuntu/server2/baru.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 21:55:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 21:55:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 21:55:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 21:55:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 21:55:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 21:55:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:02:41][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:02:41][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:02:41][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:02:41][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:02:41][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:02:41][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:02:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:02:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:02:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:02:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:02:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:02:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:31:58][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:31:58][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:31:58][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:31:58][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:31:58][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:31:58][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:32:40][!] /home/lubuntu/server2/text.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:32:40][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:32:40][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:32:40][!] /home/lubuntu/server2/pbo.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:32:40][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:32:40][!] /home/lubuntu/server2/baru.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:32:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:32:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:32:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:32:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:32:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:32:42][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:34:29][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:34:29][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:34:29][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:34:29][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:34:29][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:34:29][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:53:16][!] /home/lubuntu/server2/text.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:53:16][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:53:16][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:53:16][!] /home/lubuntu/server2/pbo.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:53:16][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:53:16][!] /home/lubuntu/server2/baru.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 22:53:18][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:53:18][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:53:18][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:53:18][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:53:18][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:53:18][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:54:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:54:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:54:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:54:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:54:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:54:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 22:55:26][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 22:55:26][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 22:55:26][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 22:55:26][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 22:55:26][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 22:55:27][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:03:05][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:03:05][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:03:05][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:03:05][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:03:05][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:03:05][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:03:46][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:03:46][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:03:46][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:03:46][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:03:46][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:03:46][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:09:49][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:09:49][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:09:49][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:09:49][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:09:49][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:09:49][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:14:36][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:14:36][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:14:36][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:14:36][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:14:36][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:14:36][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:16:17][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:16:17][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:16:17][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:16:17][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:16:17][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:16:17][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:17:13][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:17:13][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:17:13][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:17:13][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:17:13][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:17:14][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:19:45][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:19:45][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:19:45][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:19:45][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:19:45][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:19:45][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:22:20][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:22:20][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:22:20][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:22:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:22:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:22:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:23:51][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:23:52][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:23:52][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:23:52][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:23:52][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:23:52][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:25:49][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:25:49][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:25:49][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:25:49][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:25:49][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:25:49][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:26:26][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:26:26][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:26:27][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:26:27][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:26:27][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:26:27][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:31:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:31:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:31:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:31:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:31:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:31:43][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:31:57][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:31:57][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:31:57][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:31:57][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:31:57][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:31:57][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:32:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:32:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:32:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:32:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:32:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:32:21][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:32:51][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:32:51][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:32:51][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:32:51][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:32:51][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:32:51][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:33:04][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:33:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:33:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:33:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:33:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:33:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-23 23:33:36][!] /home/lubuntu/server2/text (copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 23:33:36][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-23 23:33:36][!] /home/lubuntu/server2/tes (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 23:33:36][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-23 23:33:36][!] /home/lubuntu/server2/pbo (copy).txt cannot be deleted as it doesn't exist on the server.
+[2024-02-23 23:33:36][!] /home/lubuntu/server2/pbo.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 23:33:36][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-23 23:33:36][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt
+[2024-02-23 23:33:36][!] /home/lubuntu/server2/establish (copy).py cannot be deleted as it doesn't exist on the server.
+[2024-02-23 23:33:36][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-23 23:33:36][!] /home/lubuntu/server2/baru.txt (copy).save cannot be deleted as it doesn't exist on the server.
+[2024-02-23 23:33:36][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/baru.txt.save
+[2024-02-27 21:58:29][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-27 21:58:29][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-27 21:58:29][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 21:58:29][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-27 21:58:40][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-27 21:58:40][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-27 21:58:40][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-27 21:58:40][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 21:58:53][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-27 21:58:53][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-27 21:58:53][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-27 21:58:53][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 22:18:47][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-27 22:18:47][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-27 22:18:47][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-27 22:18:47][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 22:18:51][*] Created file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-27 22:18:52][*] Created file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-27 22:18:52][*] Created file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-27 22:18:52][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 22:25:02][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/text.txt
+[2024-02-27 22:25:02][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/tes.py
+[2024-02-27 22:25:02][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/pbo.txt.save
+[2024-02-27 22:25:02][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 22:26:18][!] /home/lubuntu/server2/text.txt cannot be deleted as it doesn't exist on the server.
+[2024-02-27 22:26:33][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-02-27 22:26:36][!] /home/lubuntu/server2/pbo.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-02-27 22:26:37][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-02-27 22:26:39][*] Created file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 22:26:47][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/establish.py
+[2024-02-27 22:28:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-27 22:28:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-27 22:28:07][*] Created file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-27 22:29:20][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-27 22:29:20][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-27 22:29:20][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-27 22:29:28][*] Created file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-27 22:29:28][*] Created file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-27 22:29:29][*] Created file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-27 22:30:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-27 22:30:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-27 22:30:42][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-27 23:35:22][!] /home/lubuntu/server2/Print Voucher.pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-27 23:35:22][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-27 23:35:22][!] /home/lubuntu/server2/auto-before-reset.backup cannot be deleted as it doesn't exist on the server.
+[2024-02-27 23:35:24][*] Created file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-27 23:35:24][*] Created file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-27 23:35:25][*] Created file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-27 23:36:33][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf
+[2024-02-27 23:36:33][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-27 23:36:33][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-27 23:36:59][!] /home/lubuntu/server2/Print Voucher.pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-27 23:36:59][!] /home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf cannot be deleted as it doesn't exist on the server.
+[2024-02-27 23:36:59][!] /home/lubuntu/server2/auto-before-reset.backup cannot be deleted as it doesn't exist on the server.
+[2024-02-27 23:37:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-02-27 23:37:05][*] Created file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-02-27 23:37:06][*] Created file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf

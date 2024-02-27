@@ -1,21 +1,25 @@
 import socket
-import threading
 import time
+import json
 
 class ServerClientCommunication:
     def __init__(self):
-        self.data = None
-        self.lock = threading.Lock()
+        self.data_queue = []  # Menggunakan list sederhana sebagai mekanisme antar-thread
+        self.start_time = time.time()  # Menyimpan waktu mulai server atau klien berjalan
 
     def handle_client(self, client_socket):
         try:
             while True:
-                new_data = client_socket.recv(1024)
-                if not new_data:
+                # Menerima data dari klien
+                received_data = client_socket.recv(1024)
+                if not received_data:
                     break
-                with self.lock:
-                    self.data = new_data.decode('utf-8')
-                # print(f"Received: {self.data}")
+                
+                # Parsing data JSON yang diterima
+                decoded_data = json.loads(received_data.decode('utf-8'))
+                
+                # Memasukkan data ke dalam list
+                self.data_queue.append(decoded_data)
         except Exception as e:
             print(f"Error: {e}")
         finally:
@@ -26,10 +30,8 @@ class ServerClientCommunication:
             server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             server_socket.bind((address, 9000))
             server_socket.listen(5)
-            while True:
-                client_socket, addr = server_socket.accept()
-                client_handler = threading.Thread(target=self.handle_client, args=(client_socket,))
-                client_handler.start()
+            client_socket, addr = server_socket.accept()
+            self.handle_client(client_socket)
         except Exception as e:
             print(f"Server error: {e}")
         finally:
@@ -39,31 +41,43 @@ class ServerClientCommunication:
         try:
             client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             client_socket.connect((address, 9000))
-            client_socket.send(message.encode('utf-8'))
+
+            # Mengirim data JSON ke server
+            json_message = json.dumps(message)  # Mengkonversi data ke JSON
+            client_socket.send(json_message.encode('utf-8'))
         except Exception as e:
             print(f"Error cannot connect to the server: {e}")
         finally:
             client_socket.close()
 
     def get_received_data(self):
-        with self.lock:
-            return self.data
+        if self.data_queue:
+            return self.data_queue.pop(0)
+        return None
 
+    def get_received_data_realtime(self):
+        while True:
+            data = self.get_received_data()
+            if data:
+                return data
+            time.sleep(1)
+    
+    def get_uptime(self):
+        return time.time() - self.start_time
+
+
+# # Contoh penggunaan kelas ServerClientCommunication
 # if __name__ == "__main__":
-#     communication = ServerClientCommunication()
+#     # Inisialisasi objek ServerClientCommunication
+#     server_client = ServerClientCommunication()
 
-#     # Start server in a separate thread
-#     server_thread = threading.Thread(target=communication.start_server, args=('0.0.0.0',))
-#     server_thread.start()
+#     # Memulai server pada alamat localhost
+#     server_client.start_server('0.0.0.0')
 
-#     # Start client
-#     communication.start_client('172.16.28.37', 'Hello from client!')
+#     # Mengambil data yang diterima dari server
+#     received_data = server_client.get_received_data()
+#     print("Received data:", received_data.get('command'))
 
-#     # Wait for the server thread to finish
-#     server_thread.join()
-
-#     # Now, you can continuously monitor the received data
-#     while True:
-#         received_data = communication.get_received_data()
-#         if received_data:
-#             print("Received data:",
+#     # Mengambil waktu up-time dari server
+#     uptime = server_client.get_uptime()
+#     print("Server uptime:", uptime)

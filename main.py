@@ -1,15 +1,18 @@
 import time
 from Host.localhost import localhost
 from file_sync import MyHandler, ssh_manager, observer
-from getfile import GetFileManager
 from Communication.ClientServer import ServerClientCommunication
-from concurrent.futures import ThreadPoolExecutor
 import threading
+import ctypes
 import signal
+
+
+status = True
 
 def cetak_stopped_signal(signum, frame):
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[-] Stopped")
     exit()
+
 
 def cetak():
     artwork = """
@@ -24,53 +27,71 @@ def cetak():
     """
     print(artwork)
 
-def start_watchdog(folderlocal, ssh_manager, ip_target, ip_local):
+def stop_thread(thread):
+    """Stop a thread from running."""
+    exc = ctypes.py_object(SystemExit)
+    res = ctypes.pythonapi.PyThreadState_SetAsyncExc(
+        ctypes.c_long(thread.ident), exc)
+    if res == 0:
+        raise ValueError("nonexistent thread id")
+    elif res > 1:
+        ctypes.pythonapi.PyThreadState_SetAsyncExc(thread.ident, None)
+
+def restart_thread(thread, target, args):
+    """Restart a stopped thread with new target and args."""
+    stop_thread(thread)
+    time.sleep(0.1)  # Allow some time for the thread to stop
+    new_thread = threading.Thread(target=target, args=args)
+    new_thread.start()
+    return new_thread
+
+def start_watchdog(folderlocal, target):
     comm = ServerClientCommunication()
     handler = MyHandler(folderlocal, ssh_manager)
     observer.schedule(handler, path=folderlocal, recursive=True)
-    status = 'START'
-
+    status = True
+    server_thread = threading.Thread(target=comm.start_server, args=('0.0.0.0',))
     try:
-        while status == 'START':  # Ubah menjadi loop while
-            with ThreadPoolExecutor(max_workers=3) as executor:
-                executor.submit(observer.start)
-                executor.submit(comm.start_server, ip_local)
-
-                # Check for total_synced_files and wait for it to exceed 3
-                while True:
-                    total_synced_files = handler.get_file_synced()
-                    print(f"Total Modified Files: {total_synced_files}", end='\r')
-                    time.sleep(1)
-                    if total_synced_files > 3:
-                        observer.stop()
-                        total_synced_files = 0
-                        status = 'STOP'
-                        comm.start_client(ip_target, 'START')
-                        status = comm.get_received_data()
-                        print("Received status:", status)
-                        break
-                
+        server_thread.start() 
+        observer.start()
+        while status:
+            comm.start_client(target, "uptime:"+ str(comm.get_uptime()))
+            comm.get_received_data()
+            message = comm.get_received_data()
+            total_synced_files = handler.get_file_synced()
+            print(f"Total Modified: {total_synced_files}", end='\r')
+            time.sleep(1)
+            if total_synced_files >= 3 or message.get('command') =='STOP':
+                handler.setActive(False)
+                comm.start_client(target, {'command': 'START'})
+                handler.resetTotalFile()
+                continue
+            elif message.get('command') == 'START':
+                handler.setActive(True)
+                comm.start_client(target, {'command': 'STOP'})
+                continue
+        
     except KeyboardInterrupt:
         observer.stop()
+        server_thread.join()
     finally:
+        server_thread.join()
         observer.join()
         observer.stop()
 
 
-
-
-def get_total_file(folderlocal, ssh_manager):
-    handler = MyHandler(folderlocal, ssh_manager)
-    return handler.get_file_synced()
-
+def stop_watchdog():
+    observer.stop()
+    observer.join()
+    observer.unschedule_all()
+    
 def main():
     comm = ServerClientCommunication()
     lhost = localhost.read_localhost_info("lhost.txt")
     local_ip = lhost.getIP(lhost.getInterface())
     local_port = int(lhost.getPort())
     local_dir = str(lhost.getLocalFolder())
-    total_file = get_total_file(local_dir, ssh_manager)
-    # status = comm.get_received_data()
+
     ip_target = ssh_manager.hostname
     signal.signal(signal.SIGINT, cetak_stopped_signal)
     cetak()
@@ -78,7 +99,18 @@ def main():
     print(f"[#] Hostname: {lhost.getHostName()}")
     print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
 
-    start_watchdog(local_dir, ssh_manager, ip_target, local_ip)
+    
+
+    # watchdog_thread = threading.Thread(target=start_watchdog, args=(local_dir, ip_target))
+
+    # server_thread.start()
+    # watchdog_thread.start()
+    # # stop_watchdog(watchdog_thread)
+    # # restart_thread(watchdog_thread)
+    start_watchdog(local_dir, ip_target)
+    # server_thread.join()
+    # watchdog_thread.join()
+
 
 if __name__ == "__main__":
     main()
