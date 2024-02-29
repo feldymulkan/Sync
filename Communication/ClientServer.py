@@ -66,23 +66,5 @@ class ServerClientCommunication:
     def get_uptime(self):
         return time.time() - self.start_time
     
-    def is_host_online(self):
-        try:
-            # Membuat objek socket
-            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            # Mengatur timeout koneksi
-            sock.settimeout(1)
-            # Mencoba melakukan koneksi ke host
-            result = sock.connect_ex((self.hostname, self.port))
-            # Menutup socket
-            sock.close()
-            
-            # Jika hasilnya 0, artinya koneksi berhasil
-            if result == 0:
-                return True
-            else:
-                return False
-        except Exception as e:
-            print(f"Error when checking host status: {str(e)}")
-            return False
+
 
