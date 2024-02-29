@@ -1,13 +1,24 @@
 import paramiko
 import hashlib
+import socket
 import os
+import time
+
 class SSHManager:
     def __init__(self, hostname, port, username, password):
         self.hostname = hostname
         self.port = port
         self.username = username
         self.password = password
-        self.client = self._create_ssh_client()
+        self.client = None  # Client akan dibuat saat koneksi pertama kali
+        self.connect()  # Panggil fungsi untuk membuat koneksi
+
+    def connect(self):
+        try:
+            self.client = self._create_ssh_client()
+        except Exception as e:
+            print(f"Error connecting to host: {str(e)}")
+            self.client = None
 
     def _create_ssh_client(self):
         ssh_client = paramiko.SSHClient()
@@ -17,18 +28,28 @@ class SSHManager:
 
     def is_host_online(self):
         try:
-            transport = self.client.get_transport()
-            
-            if transport and transport.is_active():
+            # Membuat objek socket
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            # Mengatur timeout koneksi
+            sock.settimeout(1)
+            # Mencoba melakukan koneksi ke host
+            result = sock.connect_ex((self.hostname, self.port))
+            # Menutup socket
+            sock.close()
+
+            # Jika hasilnya 0, artinya koneksi berhasil
+            if result == 0:
                 return True
             else:
                 return False
         except Exception as e:
             print(f"Error when checking host status: {str(e)}")
             return False
-        
+
     def send_file(self, local_path, remote_path):
         try:
+            if not self.client:
+                self.connect()  # Coba membuat koneksi jika belum ada
             sftp = self.client.open_sftp()
             sftp.put(local_path, remote_path)
             sftp.close()
@@ -273,7 +294,12 @@ class SSHManager:
         return hasher.hexdigest()
 
     def close(self):
-        self.client.close()
+        if self.client:
+            self.client.close()
+            self.client = None
+
+    def __del__(self):
+        self.close()
     
     
         

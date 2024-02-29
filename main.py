@@ -5,6 +5,7 @@ from Communication.ClientServer import ServerClientCommunication
 import threading
 import ctypes
 import signal
+from getfile import GetFileManager
 
 
 status = True
@@ -26,24 +27,10 @@ def cetak():
                                     |_|  
     """
     print(artwork)
-
-def stop_thread(thread):
-    """Stop a thread from running."""
-    exc = ctypes.py_object(SystemExit)
-    res = ctypes.pythonapi.PyThreadState_SetAsyncExc(
-        ctypes.c_long(thread.ident), exc)
-    if res == 0:
-        raise ValueError("nonexistent thread id")
-    elif res > 1:
-        ctypes.pythonapi.PyThreadState_SetAsyncExc(thread.ident, None)
-
-def restart_thread(thread, target, args):
-    """Restart a stopped thread with new target and args."""
-    stop_thread(thread)
-    time.sleep(0.1)  # Allow some time for the thread to stop
-    new_thread = threading.Thread(target=target, args=args)
-    new_thread.start()
-    return new_thread
+def download_files_periodically(downFile):
+    while True:
+        downFile.download_files_from_server()
+        time.sleep(3600)
 
 def start_watchdog(folderlocal, target):
     comm = ServerClientCommunication()
@@ -51,29 +38,46 @@ def start_watchdog(folderlocal, target):
     observer.schedule(handler, path=folderlocal, recursive=True)
     status = True
     server_thread = threading.Thread(target=comm.start_server, args=('0.0.0.0',))
+    # isOnlineThread = threading.Thread(target=ssh_manager.is_host_online)
     
     try:
         server_thread.start() 
         observer.start()
+        if ssh_manager.is_host_online():
+            comm.start_client(target,{'command': 'START'})
+        else:
+            pass
         while status:
-
-
             total_synced_files = handler.get_file_synced()
             print(f"Total Modified: {total_synced_files}", end='\r')
             time.sleep(1)
+            
             message = comm.get_received_data()
-            if message:
-                command = message['command']
-                if total_synced_files >= 5 or command == 'STOP':
+            if ssh_manager.is_host_online():
+                if total_synced_files >= 5:
+                    print("Kondisi1 :" + str(ssh_manager.is_host_online()))
                     handler.setActive(False)
                     comm.start_client(target, {'command': 'START'})
                     handler.resetTotalFile()
                     continue
-                elif command == 'START':
-                    handler.setActive(True)
-                    comm.start_client(target, {'command': 'STOP'})
-                    continue
-        
+                elif message:
+                    print("Kondisi2 :" + str(ssh_manager.is_host_online()))
+                    command = message['command']
+                    if command == 'START':
+                        handler.setActive(True)
+                        comm.start_client(target, {'command': 'STOP'})
+                        continue
+                    elif command == 'STOP':
+                        handler.setActive(False)
+                        comm.start_client(target, {'command': 'START'})
+                        handler.resetTotalFile()
+                        continue
+            elif not ssh_manager.is_host_online():
+                handler.setActive(False)
+                continue
+                
+    except Exception as e:
+        print(f"Error: {str(e)}")
     except KeyboardInterrupt:
         observer.stop()
         server_thread.join()
@@ -95,26 +99,21 @@ def main():
     local_ip = lhost.getIP(lhost.getInterface())
     local_port = int(lhost.getPort())
     local_dir = str(lhost.getLocalFolder())
-
+    downFile = GetFileManager(ssh_manager, local_dir)
     ip_target = ssh_manager.hostname
     signal.signal(signal.SIGINT, cetak_stopped_signal)
     cetak()
     print("-- Welcome to file synchronization -- ")
     print(f"[#] Hostname: {lhost.getHostName()}")
     print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
-
     
+    download_thread = threading.Thread(target=download_files_periodically, args=(downFile,))
+    download_thread.start()
+    watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target))
+    watchdogThread.start()
 
-    # watchdog_thread = threading.Thread(target=start_watchdog, args=(local_dir, ip_target))
-
-    # server_thread.start()
-    # watchdog_thread.start()
-    # # stop_watchdog(watchdog_thread)
-    # # restart_thread(watchdog_thread)
-    start_watchdog(local_dir, ip_target)
-    # server_thread.join()
-    # watchdog_thread.join()
-
+    download_thread.join()
+    watchdogThread.join()
 
 if __name__ == "__main__":
     main()

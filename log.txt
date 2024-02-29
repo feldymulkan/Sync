@@ -6283,3 +6283,130 @@
 [2024-02-28 02:04:24][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/Print Voucher.pdf
 [2024-02-28 02:04:24][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
 [2024-02-28 02:04:24][*] Deleted file: 192.168.52.105:/home/lubuntu/server2/auto-before-reset.backup
+[2024-03-01 00:25:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:25:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:25:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 00:25:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:25:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:27:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:27:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:27:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:27:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:27:10][!] /home/lubuntu/server2/1 (another copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:27:10][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 00:27:46][!] /home/lubuntu/server2/tes.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:27:46][!] /home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:27:46][!] /home/lubuntu/server2/2.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:27:46][!] /home/lubuntu/server2/1 (copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:27:46][!] /home/lubuntu/server2/1 (another copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:27:46][!] /home/lubuntu/server2/1.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:27:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:27:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 00:27:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:27:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 00:27:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:27:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:38:28][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:38:28][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:38:28][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:38:28][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:38:28][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 00:38:28][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 00:39:14][!] /home/lubuntu/server2/tes.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:39:14][!] /home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:39:14][!] /home/lubuntu/server2/2.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:39:14][!] /home/lubuntu/server2/1 (copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:39:14][!] /home/lubuntu/server2/1 (another copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:39:14][!] /home/lubuntu/server2/1.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:39:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:39:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 00:39:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:39:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 00:39:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:39:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:42:40][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:42:40][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:42:40][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:42:40][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:42:40][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 00:42:40][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 00:43:09][!] /home/lubuntu/server2/tes.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:43:09][!] /home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:43:09][!] /home/lubuntu/server2/2.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:43:09][!] /home/lubuntu/server2/1 (copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:43:09][!] /home/lubuntu/server2/1 (another copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:43:09][!] /home/lubuntu/server2/1.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 00:43:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:43:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 00:43:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:43:15][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 00:43:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:43:16][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:50:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 00:50:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 00:50:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 00:50:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 00:50:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 00:50:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 01:05:34][!] /home/lubuntu/server2/tes.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-01 01:05:34][!] /home/lubuntu/server2/IMG_85jpg.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-01 01:05:34][!] /home/lubuntu/server2/2.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 01:05:34][!] /home/lubuntu/server2/1 (copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 01:05:34][!] /home/lubuntu/server2/1 (another copy).docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 01:05:34][!] /home/lubuntu/server2/1.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-01 01:05:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 01:05:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 01:05:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:05:35][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 01:05:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 01:05:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 01:07:16][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (another copy).docx
+[2024-03-01 01:07:18][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1 (copy).docx
+[2024-03-01 01:07:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 01:07:21][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 01:07:23][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:09:20][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:09:24][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:09:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:09:41][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:09:42][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:11:09][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:11:09][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:11:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:11:11][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:11:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:12:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:12:43][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:12:43][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:12:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:12:44][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:12:46][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:17:32][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:17:35][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:17:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:17:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:17:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:24:14][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:26:38][!] /home/lubuntu/server2/tes.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-01 01:26:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:26:42][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:26:44][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 01:26:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 02:15:42][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 02:15:43][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx

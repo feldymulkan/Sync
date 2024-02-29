@@ -133,7 +133,10 @@ class MyHandler(FileSystemEventHandler):
                                                 print(f'[*] Modified file on: {host_info.hostname}:{server2_path}')
                                                 self.total_modif += 1
             else:
-                print(f'[*] Modified local file on: {server1_path}')
+                if event.is_directory:
+                    pass
+                elif not event.is_directory:
+                    print(f'[*] Modified local file on: {server1_path}')
                                             
         except Exception as e:
             print('[!] Failed to handle modified event: {}'.format(e))
