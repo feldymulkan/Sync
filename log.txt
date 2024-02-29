@@ -6410,3 +6410,77 @@
 [2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
 [2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
 [2024-03-01 02:23:38][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 02:32:21][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-01 02:32:21][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-01 02:32:21][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-01 02:32:21][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-01 02:32:22][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 02:36:28][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 02:36:43][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-01 02:36:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-01 02:37:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-01 02:37:53][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-01 02:37:55][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-01 02:37:56][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-01 02:37:58][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-01 02:38:01][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-01 02:38:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-01 02:40:01][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-01 02:40:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 02:40:05][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:40:07][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-01 02:44:17][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-01 02:44:17][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-01 02:53:35][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-01 02:53:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/command.py
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-01 02:53:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-01 02:55:30][!] /home/lubuntu/server2/establish.py cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:55:54][!] /home/lubuntu/server2/client.py cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:55:58][!] /home/lubuntu/server2/clientserver.py cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:02][!] /home/lubuntu/server2/tes.py cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:02][!] /home/lubuntu/server2/test cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:02][!] /home/lubuntu/server2/text.txt cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:16][!] /home/lubuntu/server2/baru.txt cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:16][!] /home/lubuntu/server2/baru.txt.save cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:16][!] /home/lubuntu/server2/command.py cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:16][!] /home/lubuntu/server2/signal-desktop-keyring.gpg cannot be deleted as it doesn't exist on the server.
+[2024-03-01 02:56:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-01 02:56:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-01 02:58:17][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-01 02:58:24][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-01 02:58:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-01 02:58:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-01 02:58:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.php
+[2024-03-01 02:58:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.pdf
+[2024-03-01 02:58:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 02:58:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 02:59:10][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg (copy).jpg
+[2024-03-01 02:59:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg (another copy).jpg
+[2024-03-01 03:00:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-01 03:00:21][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-01 03:00:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-01 03:00:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/MTCNA_FELDYNOVANDAMULKAN.pdf
+[2024-03-01 03:01:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-01 03:01:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-01 03:01:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-01 03:01:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-01 03:01:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-01 03:01:08][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py

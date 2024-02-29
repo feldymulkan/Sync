@@ -39,14 +39,16 @@ def start_watchdog(folderlocal, target):
     status = True
     server_thread = threading.Thread(target=comm.start_server, args=('0.0.0.0',))
     # isOnlineThread = threading.Thread(target=ssh_manager.is_host_online)
-    
+    handler.setActive(True)
     try:
         server_thread.start() 
         observer.start()
+        
         if ssh_manager.is_host_online():
+            handler.setActive(False)
             comm.start_client(target,{'command': 'START'})
         else:
-            pass
+            handler.setActive(True)
         while status:
             total_synced_files = handler.get_file_synced()
             print(f"Total Modified: {total_synced_files}", end='\r')
@@ -54,14 +56,14 @@ def start_watchdog(folderlocal, target):
             
             message = comm.get_received_data()
             if ssh_manager.is_host_online():
-                if total_synced_files >= 5:
-                    print("Kondisi1 :" + str(ssh_manager.is_host_online()))
+                if total_synced_files >= 10:
+                    # print("Kondisi1 :" + str(ssh_manager.is_host_online()))
                     handler.setActive(False)
                     comm.start_client(target, {'command': 'START'})
                     handler.resetTotalFile()
                     continue
                 elif message:
-                    print("Kondisi2 :" + str(ssh_manager.is_host_online()))
+                    # print("Kondisi2 :" + str(ssh_manager.is_host_online()))
                     command = message['command']
                     if command == 'START':
                         handler.setActive(True)
@@ -70,7 +72,7 @@ def start_watchdog(folderlocal, target):
                     elif command == 'STOP':
                         handler.setActive(False)
                         comm.start_client(target, {'command': 'START'})
-                        handler.resetTotalFile()
+                        # handler.resetTotalFile()
                         continue
             elif not ssh_manager.is_host_online():
                 handler.setActive(False)
