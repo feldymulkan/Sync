@@ -123,7 +123,7 @@ def main():
     print(f"[#] Hostname: {lhost.getHostName()}")
     print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
     parser = argparse.ArgumentParser(description="--File Sync SFTP--")
-    parser.add_argument("mode", type=str, help="--mode (2w/fo)")
+    parser.add_argument("mode", type=str, help="mode: (2w/fo)\nExample: main.py fo/2w")
 
     args = parser.parse_args()
     
