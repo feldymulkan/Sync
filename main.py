@@ -32,8 +32,8 @@ def download_files_periodically(downFile):
         downFile.download_files_from_server()
         time.sleep(3600)
         
-def start_failover(folderlocal):
-    handler = MyHandler(folderlocal, ssh_manager)
+def start_failover(folderlocal, workers):
+    handler = MyHandler(folderlocal, ssh_manager, workers)
     observer.schedule(handler, path=folderlocal, recursive=True)
     try:
         observer.start()
@@ -47,9 +47,9 @@ def start_failover(folderlocal):
         observer.stop()
 
         
-def start_watchdog(folderlocal, target):
+def start_watchdog(folderlocal, target, worker):
     comm = ServerClientCommunication()
-    handler = MyHandler(folderlocal, ssh_manager)
+    handler = MyHandler(folderlocal, ssh_manager, worker)
     observer.schedule(handler, path=folderlocal, recursive=True)
     status = True
     server_thread = threading.Thread(target=comm.start_server, args=('0.0.0.0',))
@@ -124,6 +124,7 @@ def main():
     print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
     parser = argparse.ArgumentParser(description="--File Sync SFTP--")
     parser.add_argument("mode", type=str, help="mode: (2w/fo)\nExample: main.py fo/2w")
+    parser.add_argument("--threads", type=int, default=1, help="Number of threads to use (default: 1)")
 
     args = parser.parse_args()
     
@@ -132,17 +133,17 @@ def main():
     elif args.mode == "2w":
         download_thread = threading.Thread(target=download_files_periodically, args=(downFile,))
         download_thread.start()
-        watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target))
+        watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target, args.threads))
         watchdogThread.start()
 
         download_thread.join()
         watchdogThread.join()
     elif args.mode == "fo":
-        dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
-        dwFile.start()
-        failThread = threading.Thread(target=start_failover, args=(local_dir,))
+        # dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
+        # dwFile.start()
+        failThread = threading.Thread(target=start_failover, args=(local_dir,args.threads))
         failThread.start()
-        dwFile.join()
+        # dwFile.join()
         failThread.join()
 
 if __name__ == "__main__":

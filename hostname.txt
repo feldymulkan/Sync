@@ -1,5 +1,5 @@
-hostname=172.16.28.252
+hostname=172.16.28.37
 port=22
-username=server2
-password=jarkom123
-direktori=/home/server2/server2
+username=lubuntu
+password=lubuntu
+direktori=/home/lubuntu/server2

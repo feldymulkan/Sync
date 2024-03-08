@@ -3,6 +3,8 @@ import hashlib
 import socket
 import os
 import time
+from Compare import compare
+
 
 class SSHManager:
     def __init__(self, hostname, port, username, password):
@@ -52,7 +54,15 @@ class SSHManager:
                 self.connect()  # Coba membuat koneksi jika belum ada
             sftp = self.client.open_sftp()
             sftp.put(local_path, remote_path)
-            sftp.close()
+            result=sftp.put(local_path, remote_path)
+            
+            if result is None:
+                return True
+                
+            else: 
+                return False
+            
+            
         except Exception as e:
             print(f"Error when sending file: {str(e)}")
 
@@ -76,7 +86,7 @@ class SSHManager:
 
     def delete_folder(self, remote_path):
         try:
-            command = f'rm -r {remote_path}'
+            command = f"rm -r '{remote_path}'"
 
             stdin, stdout, stderr = self.client.exec_command(command)
             exit_status = stdout.channel.recv_exit_status()
@@ -109,7 +119,7 @@ class SSHManager:
     
     def create_folder(self, remote_path):
         try:
-            command = f'mkdir -p {remote_path}'
+            command = f"mkdir -p '{remote_path}'"
             
             stdin, stdout, stderr = self.client.exec_command(command)
             exit_status = stdout.channel.recv_exit_status()
@@ -158,23 +168,27 @@ class SSHManager:
     def calculate_remote_md5(self, remote_file_path):
         try:
             sftp = self.client.open_sftp()
-
+            file_size = sftp.stat(remote_file_path).st_size
+            md5 = hashlib.md5()
             with sftp.file(remote_file_path, 'rb') as remote_file:
-                md5 = hashlib.md5()
+                bytes_read = 0
                 while True:
+                    # Read data in chunks
                     data = remote_file.read(4096)
                     if not data:
                         break
                     md5.update(data)
+                    bytes_read += len(data)
 
-                md5_hash = md5.hexdigest()
+            sftp.close()
+            md5_hash = md5.hexdigest()
+            return md5_hash
 
-                sftp.close()
-
-                return md5_hash
-
+        except FileNotFoundError:
+            print("File not found.")
+            return None
         except Exception as e:
-            print(f"Error calculating remote MD5 hash,file has been deleted: {str(e)}")
+            print(f"Error calculating remote MD5 hash: {str(e)}")
             return None
 
     def list_files_and_folders(self, remote_path):
@@ -190,12 +204,38 @@ class SSHManager:
     def is_file(self, remote_path):
         try:
             sftp = self.client.open_sftp()
-            # Cek apakah path adalah file (bukan direktori)
             is_file = sftp.stat(remote_path).st_mode and not sftp.stat(remote_path).st_mode & 0o040000
             sftp.close()
             return is_file
         except Exception as e:
             print(f"Error checking if file: {str(e)}")
+            return False
+
+    def send_changed_file_parts(self, local_path, remote_path):
+        try:
+            local_checksum = compare.calculate_md5(local_path)
+            remote_checksum = self.calculate_remote_md5(remote_path)
+            if local_checksum != remote_checksum:
+                sftp = self.client.open_sftp()
+                with open(local_path, 'rb') as local_file:
+                    with sftp.file(remote_path, 'wb') as remote_file:
+                        while True:
+                            chunk = local_file.read(4096)
+                            if not chunk:
+                                break
+                            remote_file.write(chunk)
+                sftp.close()
+
+                # print(f"Changed file parts transferred successfully from {local_path} to {remote_path}")
+
+                return True
+            else:
+                print("File checksums match. No need to transfer.")
+
+                return False
+
+        except Exception as e:
+            print(f"Error transferring changed file parts: {str(e)}")
             return False
 
     def is_directory(self, remote_path):
@@ -222,76 +262,77 @@ class SSHManager:
     def move(self, src_path, dest_path):
         try:
             # Buat perintah SSH untuk memindahkan folder
-            command = f"mv {src_path} {dest_path}"
+            command = f"mv -f '{src_path}' '{dest_path}'"
 
             # Jalankan perintah SSH
             stdin, stdout, stderr = self.client.exec_command(command)
             exit_status = stdout.channel.recv_exit_status()
 
-            # if exit_status == 0:
-            #     # print(f"Folder moved from {src_path} to {dest_path}")
-            #     pass
-            # else:
-            #     error_message = stderr.read().decode()
-            #     print(f"Failed to move folder: {error_message}")
+            if exit_status == 0:
+                print(f"Folder moved from {src_path} to {dest_path}")
+                pass
+            else:
+                error_message = stderr.read().decode()
+                print(f"Failed moved from {src_path} to {dest_path}")
+                print(f"Failed to move folder: {error_message}")
 
         except paramiko.SSHException as e:
             print(f"SSH Error: {str(e)}")
         except Exception as e:
             print(f"Error moving folder: {str(e)}")
 
-    def compare_local_remote_metadata(self, local_path, remote_path):
-        try:
-            local_mtime = os.path.getmtime(local_path)
-            local_checksum = self.calculate_checksum(local_path)
+    # def compare_local_remote_metadata(self, local_path, remote_path):
+    #     try:
+    #         local_mtime = os.path.getmtime(local_path)
+    #         local_checksum = compare.calculate_md5(local_path)
 
-            remote_mtime, remote_checksum = self.get_remote_metadata(remote_path)
+    #         remote_mtime, remote_checksum = self.get_remote_metadata(remote_path)
 
-            return local_mtime, local_checksum, remote_mtime, remote_checksum
+    #         return local_mtime, local_checksum, remote_mtime, remote_checksum
 
-        except Exception as e:
-            print(f"Error comparing file metadata: {str(e)}")
-            return 0, "", 0, ""
+    #     except Exception as e:
+    #         print(f"Error comparing file metadata: {str(e)}")
+    #         return 0, "", 0, ""
 
-    def handle_metadata_comparison(self, local_path, remote_path):
-        try:
-            local_mtime, local_checksum, remote_mtime, remote_checksum = self.compare_local_remote_metadata(local_path, remote_path)
+    # def handle_metadata_comparison(self, local_path, remote_path):
+    #     try:
+    #         local_mtime, local_checksum, remote_mtime, remote_checksum = self.compare_local_remote_metadata(local_path, remote_path)
 
-            if local_mtime != remote_mtime and local_checksum == remote_checksum:
-                return True
-            elif local_mtime == remote_mtime and local_checksum == remote_checksum:
-                return True
-            elif local_mtime != remote_mtime and local_checksum != remote_checksum:
-                return False
+    #         if local_mtime != remote_mtime and local_checksum == remote_checksum:
+    #             return True
+    #         elif local_mtime == remote_mtime and local_checksum == remote_checksum:
+    #             return True
+    #         elif local_mtime != remote_mtime and local_checksum != remote_checksum:
+    #             return False
 
-        except Exception as e:
-            print(f"Error handling metadata comparison: {str(e)}")
-            return "Error in metadata comparison."
+    #     except Exception as e:
+    #         print(f"Error handling metadata comparison: {str(e)}")
+    #         return "Error in metadata comparison."
 
-    def calculate_checksum(self, file_path, algorithm="sha256"):
-        hasher = hashlib.new(algorithm)
-        with open(file_path, "rb") as file:
-            while chunk := file.read(8192):
-                hasher.update(chunk)
-        return hasher.hexdigest()
+    # def calculate_checksum(self, file_path, algorithm="sha256"):
+    #     hasher = hashlib.new(algorithm)
+    #     with open(file_path, "rb") as file:
+    #         while chunk := file.read(8192):
+    #             hasher.update(chunk)
+    #     return hasher.hexdigest()
 
-    def get_remote_metadata(self, remote_file_path):
-        try:
-            sftp = self.client.open_sftp()
-            remote_mtime = sftp.stat(remote_file_path).st_mtime
-            with sftp.file(remote_file_path, "rb") as remote_file:
-                remote_checksum = self.calculate_checksum_from_file(remote_file)
-            sftp.close()
-            return remote_mtime, remote_checksum
-        except Exception as e:
-            print(f"Error getting remote file metadata: {str(e)}")
-            return 0, ""
+    # def get_remote_metadata(self, remote_file_path):
+    #     try:
+    #         sftp = self.client.open_sftp()
+    #         remote_mtime = sftp.stat(remote_file_path).st_mtime
+    #         with sftp.file(remote_file_path, "rb") as remote_file:
+    #             remote_checksum = self.calculate_checksum_from_file(remote_file)
+    #         sftp.close()
+    #         return remote_mtime, remote_checksum
+    #     except Exception as e:
+    #         print(f"Error getting remote file metadata: {str(e)}")
+    #         return 0, ""
 
-    def calculate_checksum_from_file(self, file):
-        hasher = hashlib.sha256()
-        while chunk := file.read(8192):
-            hasher.update(chunk)
-        return hasher.hexdigest()
+    # def calculate_checksum_from_file(self, file):
+    #     hasher = hashlib.sha256()
+    #     while chunk := file.read(8192):
+    #         hasher.update(chunk)
+    #     return hasher.hexdigest()
 
     def close(self):
         if self.client:
