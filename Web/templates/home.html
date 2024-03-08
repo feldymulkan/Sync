@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>File Manager - Home</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">File Manager</h1>
+        <hr>
+
+        <!-- Form to upload a new file -->
+        <form action="/upload_file" method="post" class="mb-3" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="newFile">Upload File:</label>
+                <input type="file" class="form-control-file" id="newFile" name="file" accept="*">
+            </div>
+            <button type="submit" class="btn btn-primary">Upload</button>
+        </form>
+
+        <!-- Dropdown form to rename a file -->
+        <form action="/rename_file" method="post" class="mb-3">
+            <div class="form-group">
+                <label for="renameFile">Rename File:</label>
+                <select class="form-control" id="renameFile" name="old_name">
+                    {% for file_name in file_names %}
+                    <option value="{{ file_name }}">{{ file_name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="newFileName">New Name:</label>
+                <input type="text" class="form-control" id="newFileName" name="new_name" placeholder="Enter new name">
+            </div>
+            <button type="submit" class="btn btn-info">Rename</button>
+        </form>
+
+        <!-- List of files -->
+        <h2 class="mt-5">Files:</h2>
+        <ul class="list-group">
+            {% for file_name in file_names %}
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                {{ file_name }}
+                <div>
+                    <a href="/download_file/{{ file_name }}" class="btn btn-primary btn-sm mr-2">Download</a>
+                    <form action="/delete_file" method="post" class="d-inline">
+                        <input type="hidden" name="file_path" value="{{ file_name }}">
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

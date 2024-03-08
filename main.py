@@ -6,6 +6,7 @@ import threading
 import ctypes
 import signal
 from getfile import GetFileManager
+import argparse
 
 
 status = True
@@ -13,7 +14,6 @@ status = True
 def cetak_stopped_signal(signum, frame):
     print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[-] Stopped")
     exit()
-
 
 def cetak():
     artwork = """
@@ -31,7 +31,22 @@ def download_files_periodically(downFile):
     while True:
         downFile.download_files_from_server()
         time.sleep(3600)
+        
+def start_failover(folderlocal):
+    handler = MyHandler(folderlocal, ssh_manager)
+    observer.schedule(handler, path=folderlocal, recursive=True)
+    try:
+        observer.start()
+               
+    except Exception as e:
+        print(f"Error: {str(e)}")
+    except KeyboardInterrupt:
+        observer.stop()
+    finally:
+        observer.join()
+        observer.stop()
 
+        
 def start_watchdog(folderlocal, target):
     comm = ServerClientCommunication()
     handler = MyHandler(folderlocal, ssh_manager)
@@ -96,10 +111,9 @@ def stop_watchdog():
     observer.unschedule_all()
     
 def main():
-    comm = ServerClientCommunication()
+    
     lhost = localhost.read_localhost_info("lhost.txt")
-    local_ip = lhost.getIP(lhost.getInterface())
-    local_port = int(lhost.getPort())
+
     local_dir = str(lhost.getLocalFolder())
     downFile = GetFileManager(ssh_manager, local_dir)
     ip_target = ssh_manager.hostname
@@ -108,14 +122,28 @@ def main():
     print("-- Welcome to file synchronization -- ")
     print(f"[#] Hostname: {lhost.getHostName()}")
     print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
-    
-    download_thread = threading.Thread(target=download_files_periodically, args=(downFile,))
-    download_thread.start()
-    watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target))
-    watchdogThread.start()
+    parser = argparse.ArgumentParser(description="--File Sync SFTP--")
+    parser.add_argument("mode", type=str, help="--mode (2w/fo)")
 
-    download_thread.join()
-    watchdogThread.join()
+    args = parser.parse_args()
+    
+    if not args.mode:
+        parser.error("mode is required.")
+    elif args.mode == "2w":
+        download_thread = threading.Thread(target=download_files_periodically, args=(downFile,))
+        download_thread.start()
+        watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target))
+        watchdogThread.start()
+
+        download_thread.join()
+        watchdogThread.join()
+    elif args.mode == "fo":
+        dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
+        dwFile.start()
+        failThread = threading.Thread(target=start_failover, args=(local_dir,))
+        failThread.start()
+        dwFile.join()
+        failThread.join()
 
 if __name__ == "__main__":
     main()
