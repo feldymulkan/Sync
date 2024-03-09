@@ -16583,3 +16583,603 @@
 [2024-03-09 02:37:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/0185 Feldy Novanda Mulkan.pdf
 [2024-03-09 02:37:02][*] Created file: 172.16.28.37:/home/lubuntu/server2/pengumuman-seleksi-pppk-kemenag-tahun-2023pdf.pdf
 [2024-03-09 02:37:06][*] Created file: 172.16.28.37:/home/lubuntu/server2/Spanduk.png
+[2024-03-09 23:11:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PetaAdmDesaRempekKecGangga(2).jpg
+[2024-03-09 23:11:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/348-1160-1-PB.pdf
+[2024-03-09 23:11:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/S1.zip
+[2024-03-09 23:11:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PetaAdmDesaRempekKecGangga.jpg
+[2024-03-09 23:11:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Menu Warung Tina.png
+[2024-03-09 23:11:29][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/LAPORAN PKL_FeldyNovandaMulkan_F1B019055.pdf
+[2024-03-09 23:11:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PetaTopografiKecGangga.jpg
+[2024-03-09 23:11:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/lolok_rar.rar
+[2024-03-09 23:11:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feb_BMuBOdjtWwAljJqdyULO7byV7948c7hdhTGk8DuCkwjSp98D_XndSpA_1661314037.pdf
+[2024-03-09 23:11:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PetaTopografiKecGangga(1).jpg
+[2024-03-09 23:11:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf
+[2024-03-09 23:11:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/PetaTopografiKecGangga(1).jpg
+[2024-03-09 23:11:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/PetaTopografiKecGangga.jpg
+[2024-03-09 23:11:37][*] Created file: 172.16.28.37:/home/lubuntu/server2/lolok_rar.rar
+[2024-03-09 23:11:38][*] Created file: 172.16.28.37:/home/lubuntu/server2/feb_BMuBOdjtWwAljJqdyULO7byV7948c7hdhTGk8DuCkwjSp98D_XndSpA_1661314037.pdf
+[2024-03-09 23:11:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf
+[2024-03-09 23:11:55][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS.pdf
+[2024-03-09 23:11:55][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/sample-django-file-manager-main.zip
+[2024-03-09 23:11:55][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS-1.pdf
+[2024-03-09 23:11:55][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Spanduk.png
+[2024-03-09 23:12:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/sample-django-file-manager-main.zip
+[2024-03-09 23:12:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/Spanduk.png
+[2024-03-09 23:12:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS-1.pdf
+[2024-03-09 23:12:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS.pdf
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feb_BMuBOdjtWwAljJqdyULO7byV7948c7hdhTGk8DuCkwjSp98D_XndSpA_1661314037.pdf
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/lolok_rar.rar
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/sample-django-file-manager-main.zip
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Spanduk.png
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS.pdf
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tsetup.BewSK2B-.4.9.7.tar.xz.part
+[2024-03-09 23:12:13][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS-1.pdf
+[2024-03-09 23:12:19][*] Created file: 172.16.28.37:/home/lubuntu/server2/feb_BMuBOdjtWwAljJqdyULO7byV7948c7hdhTGk8DuCkwjSp98D_XndSpA_1661314037.pdf
+[2024-03-09 23:12:24][*] Created file: 172.16.28.37:/home/lubuntu/server2/lolok_rar.rar
+[2024-03-09 23:12:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS-1.pdf
+[2024-03-09 23:12:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS.pdf
+[2024-03-09 23:12:31][*] Created file: 172.16.28.37:/home/lubuntu/server2/tsetup.BewSK2B-.4.9.7.tar.xz.part
+[2024-03-09 23:12:36][*] Created file: 172.16.28.37:/home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf
+[2024-03-09 23:12:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/Spanduk.png
+[2024-03-09 23:12:41][*] Created file: 172.16.28.37:/home/lubuntu/server2/sample-django-file-manager-main.zip
+[2024-03-09 23:17:33][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS-1.pdf
+[2024-03-09 23:17:44][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/sample-django-file-manager-main.zip
+[2024-03-09 23:17:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Spanduk.png
+[2024-03-09 23:17:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PRE-COURSE CS.pdf
+[2024-03-09 23:17:45][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tsetup.BewSK2B-.4.9.7.tar.xz.part
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pengumuman-seleksi-pppk-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PetaAdmDesaRempekKecGangga(1).jpg
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PetaTopografiKecGangga.jpg
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/PetaTopografiKecGangga(1).jpg
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/lolok_rar.rar
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/feb_BMuBOdjtWwAljJqdyULO7byV7948c7hdhTGk8DuCkwjSp98D_XndSpA_1661314037.pdf
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf
+[2024-03-09 23:17:47][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-09 23:17:53][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-09 23:17:53][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer-1.pdf
+[2024-03-09 23:17:53][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2-Article Text-1-1-10-20191112.pdf
+[2024-03-09 23:17:53][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/dina_oktavia,+##default.groups.name.manager##,+895-99Z_Artikel-5436-1-2-20170810.pdf
+[2024-03-09 23:17:54][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master.zip
+[2024-03-09 23:17:54][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/6-its-time-to-spill-penetapan-kebutuhan-pegawai-aparatur-sipil-negara-di-lingkungan-kejaksaan-agung-republik-indonesia1694867674.pdf
+[2024-03-09 23:17:54][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Dasar Cyber Security.pdf
+[2024-03-09 23:17:54][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/CyberSec - Plus CVR.pdf
+[2024-03-09 23:17:54][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/The Panturas Area Lepas Pantai, Tipu Daya, Tafsir Mistik, Jim Labrador (Live at JATINANGOR).mp4
+[2024-03-09 23:19:35][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:19:35][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette.zip
+[2024-03-09 23:19:35][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:19:35][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Universitas Mataram.pdf
+[2024-03-09 23:19:35][!] /home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:19:35][!] /home/lubuntu/server2/CyberSec - Plus CVR.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:19:38][*] Created file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette.zip
+[2024-03-09 23:19:38][*] Created file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-09 23:19:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/Universitas Mataram.pdf
+[2024-03-09 23:19:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:19:39][*] Created file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:19:40][*] Created file: 172.16.28.37:/home/lubuntu/server2/CyberSec - Plus CVR.pdf
+[2024-03-09 23:19:43][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/instagram-icon.zip
+[2024-03-09 23:19:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:19:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette.zip
+[2024-03-09 23:19:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:19:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Universitas Mataram.pdf
+[2024-03-09 23:19:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-09 23:19:49][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/CyberSec - Plus CVR.pdf
+[2024-03-09 23:19:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette.zip
+[2024-03-09 23:19:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-09 23:19:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/Universitas Mataram.pdf
+[2024-03-09 23:19:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:19:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:19:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/CyberSec - Plus CVR.pdf
+[2024-03-09 23:20:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/BAB I.pdf
+[2024-03-09 23:20:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/BAB I-1.pdf
+[2024-03-09 23:20:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol.zip
+[2024-03-09 23:20:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:20:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette.zip
+[2024-03-09 23:20:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:20:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol.zip
+[2024-03-09 23:20:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette.zip
+[2024-03-09 23:20:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:20:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/BAB I.pdf
+[2024-03-09 23:20:13][*] Created file: 172.16.28.37:/home/lubuntu/server2/BAB I-1.pdf
+[2024-03-09 23:20:14][*] Created file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:29:50][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE
+[2024-03-09 23:29:50][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette
+[2024-03-09 23:29:50][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/instagram-icon
+[2024-03-09 23:29:50][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol
+[2024-03-09 23:29:50][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/VideoStream
+[2024-03-09 23:29:50][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/3
+[2024-03-09 23:29:50][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master
+[2024-03-09 23:29:50][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/LocalHost.cpython-310.pyc
+[2024-03-09 23:29:50][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tcpproxy.zip
+[2024-03-09 23:29:50][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tcpproxy(1).zip
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/mpi-prime.c
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/bapak(1).jpeg
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Surat-Rekomendasi-Biasa-Format-2023.docx
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/codingstudio.jpeg
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/logo.png
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/ResponP6_K17_F1B019055_FeldyNovandaMulkan.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/CamScanner 03-16-2022 11.11.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/CV ATS_FeldyNovandaMulkan.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG-20190628-WA0010.jpg
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/bapak.jpeg
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Nilai prak. Jaringan Komputer_2023.xlsx
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-1.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-2.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Jobsheet_PBO_P1_FeldyNovandaMulkan_KEL1.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/BAB I.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/BAB I-1.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol.zip
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:29:51][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-09 23:29:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2024-02-19 01-18-47.png
+[2024-03-09 23:29:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2024-01-14 19-23-34.png
+[2024-03-09 23:29:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2024-01-14 19-19-29.png
+[2024-03-09 23:29:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2024-01-12 14-40-40.png
+[2024-03-09 23:29:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2024-01-12 14-36-33.png
+[2024-03-09 23:29:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-11-30 02-04-15.png
+[2024-03-09 23:29:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-11-08 15-43-50.png
+[2024-03-09 23:29:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-10-18 16-44-31.png
+[2024-03-09 23:29:52][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-09-23 13-37-56.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-09-23 13-36-43.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-09-23 12-33-00.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-09-23 12-25-45.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-09-23 12-23-45.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-17 00-18-55.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-17 00-13-09.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-12 13-25-26.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-12 13-25-14.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-12 13-24-52.png
+[2024-03-09 23:29:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-12 13-24-24.png
+[2024-03-09 23:29:54][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-11 23-14-38.png
+[2024-03-09 23:29:54][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-09 21-35-43.png
+[2024-03-09 23:32:27][!] /home/lubuntu/server2/Screenshot from 2023-06-02 02-39-21.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:27][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-00-55.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:27][!] /home/lubuntu/server2/Screenshot from 2023-06-03 21-01-03.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:27][!] /home/lubuntu/server2/Screenshot from 2023-06-01 20-41-33.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-35-24.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-52-04.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-56-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-03 21-55-14.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 13-34-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-30-11.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-40-06.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-38-00.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-38-56.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-35-03.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 20-56-09.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-04 03-44-38.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-30-04.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-30-04 (copy).png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-39-17.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-34-29.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-39-44.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-04 15-19-59.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-09-32.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 16-02-23.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-38-23.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-01 14-24-06.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-20-37.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:32][!] /home/lubuntu/server2/Screenshot from 2023-06-04 03-44-07.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-29 21-30-04 (copy).png
+[2024-03-09 23:32:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-02 04-41-44.png
+[2024-03-09 23:32:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-31 01-10-02.png
+[2024-03-09 23:32:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-09 21-34-29.png
+[2024-03-09 23:32:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-29 20-56-09.png
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-35-24.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-52-04.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-56-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-03 21-55-14.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 13-34-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-30-11.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-40-06.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-38-00.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-38-56.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-35-03.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-29 20-56-09.png
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-04 03-44-38.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-30-04.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-29 21-30-04 (copy).png
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-39-17.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-09 21-34-29.png
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-39-44.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-04 15-19-59.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-09-32.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 16-02-23.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-38-23.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-01 14-24-06.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-20-37.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-04 03-44-07.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 16-01-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-02 04-42-02.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-02 04-41-44.png
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-28 21-54-11.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-02 04-40-47.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-01 14-23-52.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-45-42.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:39][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-31 01-10-02.png
+[2024-03-09 23:32:39][!] /home/lubuntu/server2/Screenshot from 2023-06-01 14-26-12.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-35-24.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-52-04.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-56-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-03 21-55-14.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 13-34-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-30-11.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-40-06.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-38-00.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-38-56.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-35-03.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 20-56-09.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-04 03-44-38.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-30-04.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-30-04 (copy).png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-39-17.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-34-29.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-39-44.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-04 15-19-59.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-09-32.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 16-02-23.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-31 04-38-23.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-01 14-24-06.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-20-37.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-04 03-44-07.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 16-01-39.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-02 04-42-02.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-02 04-41-44.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-28 21-54-11.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-02 04-40-47.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-01 14-23-52.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-45-42.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-05-31 01-10-02.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:32:49][!] /home/lubuntu/server2/Screenshot from 2023-06-01 14-26-12.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:33:44][!] /home/lubuntu/server2/Screenshot from 2023-06-09 21-35-24.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:33:44][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-52-04.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:33:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-09 21-35-03.png
+[2024-03-09 23:33:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-04 03-44-38.png
+[2024-03-09 23:33:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-31 04-38-56.png
+[2024-03-09 23:33:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-29 21-38-00.png
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/LocalHost.cpython-310.pyc cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/tcpproxy.zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/tcpproxy(1).zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/mpi-prime.c cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-51-42.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/bapak(1).jpeg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-01 20-15-53.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-09-15.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-05-28 20-28-19.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-02 02-51-20.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-00-55.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-03 00-47-02.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-02 02-39-21.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-02 02-21-30.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-05-29 20-56-09.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-06-01 20-41-33.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Screenshot from 2023-05-29 21-40-06.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Surat-Rekomendasi-Biasa-Format-2023.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/logo.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/codingstudio.jpeg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/ResponP6_K17_F1B019055_FeldyNovandaMulkan.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/CamScanner 03-16-2022 11.11.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/CV ATS_FeldyNovandaMulkan.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/IMG-20190628-WA0010.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Nilai prak. Jaringan Komputer_2023.xlsx cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/bapak.jpeg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-1.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-2.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/instagram-icon.zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Jobsheet_PBO_P1_FeldyNovandaMulkan_KEL1.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/BAB I.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/BAB I-1.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/black-white-facebook-symbol.zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/K17_P7_asis3.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Silabus_CCNA Network Engineer-1.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/dina_oktavia,+##default.groups.name.manager##,+895-99Z_Artikel-5436-1-2-20170810.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/mikhmonv3-master.zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/2-Article Text-1-1-10-20191112.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/6-its-time-to-spill-penetapan-kebutuhan-pegawai-aparatur-sipil-negara-di-lingkungan-kejaksaan-agung-republik-indonesia1694867674.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/PetaAdmDesaRempekKecGangga(1).jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/pengumuman-seleksi-pppk-kemenag-tahun-2023pdf.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Dasar Cyber Security.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/feb_BMuBOdjtWwAljJqdyULO7byV7948c7hdhTGk8DuCkwjSp98D_XndSpA_1661314037.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/PetaTopografiKecGangga.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/lolok_rar.rar cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:42][!] /home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:35:45][*] Created folder: 172.16.28.37:/home/lubuntu/server2/VideoStream/templates
+[2024-03-09 23:35:45][*] Created folder: 172.16.28.37:/home/lubuntu/server2/VideoStream
+[2024-03-09 23:35:45][*] Created folder: 172.16.28.37:/home/lubuntu/server2/VideoStream/static
+[2024-03-09 23:35:45][*] Created file: 172.16.28.37:/home/lubuntu/server2/VideoStream/app.py
+[2024-03-09 23:35:45][*] Created file: 172.16.28.37:/home/lubuntu/server2/VideoStream/templates/index.html
+[2024-03-09 23:35:45][*] Created file: 172.16.28.37:/home/lubuntu/server2/pengumuman-cpns-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:35:45][*] Created file: 172.16.28.37:/home/lubuntu/server2/VideoStream/static/style.css
+[2024-03-09 23:35:45][*] Created folder: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/VideoStream/video_record_ElYm.mp4
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette/7448202.jpg
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette/7450008.ai
+[2024-03-09 23:35:46][*] Created folder: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/flat-design-soccer-player-silhouette/7450009.eps
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-28 20-28-19.png
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/CamScanner 03-16-2022 11.11.pdf
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/instagram-icon.zip
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/VideoStream/static/parkinglot-commute-outside-area-auto.jpg
+[2024-03-09 23:35:46][*] Created file: 172.16.28.37:/home/lubuntu/server2/Jobsheet_PBO_P1_FeldyNovandaMulkan_KEL1.pdf
+[2024-03-09 23:35:46][*] Created folder: 172.16.28.37:/home/lubuntu/server2/instagram-icon
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/instagram-icon/License free.txt
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/VideoStream/video_record_qpim.mp4
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/instagram-icon/License premium.txt
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/instagram-icon/2227.jpg
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/mpi-prime.c
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/dina_oktavia,+##default.groups.name.manager##,+895-99Z_Artikel-5436-1-2-20170810.pdf
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/logo.png
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-29 21-40-06.png
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/ResponP6_K17_F1B019055_FeldyNovandaMulkan.pdf
+[2024-03-09 23:35:47][*] Created file: 172.16.28.37:/home/lubuntu/server2/instagram-icon/2227.eps
+[2024-03-09 23:35:47][*] Created folder: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-2.pdf
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol/411476-PD51GB-607.jpg
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol/License free.txt
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol/License premium.txt
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol/411476-PD51GB-422.ai
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/CV ATS_FeldyNovandaMulkan.pdf
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/codingstudio.jpeg
+[2024-03-09 23:35:48][*] Created file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol/411476-PD51GB-355.eps
+[2024-03-09 23:35:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/BAB I-1.pdf
+[2024-03-09 23:35:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-09 23:35:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/lolok_rar.rar
+[2024-03-09 23:35:49][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-02 02-39-21.png
+[2024-03-09 23:35:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-03 00-47-02.png
+[2024-03-09 23:35:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-01 20-41-33.png
+[2024-03-09 23:35:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/PetaTopografiKecGangga.jpg
+[2024-03-09 23:35:50][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-05-29 20-56-09.png
+[2024-03-09 23:35:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/pengumuman-seleksi-pppk-kemenag-tahun-2023pdf.pdf
+[2024-03-09 23:35:51][*] Created file: 172.16.28.37:/home/lubuntu/server2/6-its-time-to-spill-penetapan-kebutuhan-pegawai-aparatur-sipil-negara-di-lingkungan-kejaksaan-agung-republik-indonesia1694867674.pdf
+[2024-03-09 23:35:53][*] Created file: 172.16.28.37:/home/lubuntu/server2/feb_BMuBOdjtWwAljJqdyULO7byV7948c7hdhTGk8DuCkwjSp98D_XndSpA_1661314037.pdf
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/tcpproxy.zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/LocalHost.cpython-310.pyc cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/tcpproxy(1).zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/bapak(1).jpeg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Screenshot from 2023-06-03 20-51-42.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Screenshot from 2023-06-01 20-15-53.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Screenshot from 2023-06-02 02-51-20.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Screenshot from 2023-06-02 02-21-30.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-09-15.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/IMG-20190628-WA0010.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Surat-Rekomendasi-Biasa-Format-2023.docx cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Screenshot from 2023-06-02 03-00-55.png cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/bapak.jpeg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Nilai prak. Jaringan Komputer_2023.xlsx cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/BAB I.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-1.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/black-white-facebook-symbol.zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/K17_P7_asis3.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Silabus_CCNA Network Engineer-1.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/2-Article Text-1-1-10-20191112.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/mikhmonv3-master.zip cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:19][!] /home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/tcpproxy(1).zip
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-01 20-15-53.png
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-02 03-09-15.png
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Surat-Rekomendasi-Biasa-Format-2023.docx
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/LocalHost.cpython-310.pyc
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/bapak(1).jpeg
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-02 03-00-55.png
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-02 02-21-30.png
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-1.pdf
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/tcpproxy.zip
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Nilai prak. Jaringan Komputer_2023.xlsx
+[2024-03-09 23:36:25][*] Created folder: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Silabus_CCNA Network Engineer-1.pdf
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-02 02-51-20.png
+[2024-03-09 23:36:25][*] Created file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master.zip
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol.zip
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/2-Article Text-1-1-10-20191112.pdf
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/bapak.jpeg
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/Screenshot from 2023-06-03 20-51-42.png
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/status
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/dashboard
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer.pdf
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/system
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/settings
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/lang
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/traffic
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/voucher
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/dhcp
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/js
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/lib
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/img
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/include
+[2024-03-09 23:36:26][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/report
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/_config.yml
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/index.php
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/docker-compose.yml
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/README.md
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/admin.php
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/verson.txt
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/nginx.conf
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/LICENSE
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removecookie.php
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/reboot.php
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/index.php
+[2024-03-09 23:36:26][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/enablehotspotuser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/shutdown.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/resethotspotuser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removeuseractive.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removeuserprofile.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removehotspotuserbycomment.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/pscheduler.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/disablehotspotuser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removehost.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removehotspotuser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removereport.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removeexpiredhotspotuser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/pipbinding.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/getvalidprice.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/process/removepactive.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/status/index.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/status/status.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/status/ping-test.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/dashboard/index.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/dashboard/aload.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/dashboard/home.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/quickuser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/userbyprofile.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/index.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/userbyname.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/exportusers.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/hotspotactive.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/hosts.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/quickprint.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/adduser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/userprofile.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/generateuser.php
+[2024-03-09 23:36:27][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/listquickprint.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/users.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/adduserprofile.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/cookies.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/userprofilebyname.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/log.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/hotspot/ipbinding.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/system/index.php
+[2024-03-09 23:36:28][*] Created folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css/font-awesome
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/system/scheduler.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css/pace.pink.css
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css/index.php
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css/mikhmon-ui.dark.min.css
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css/mikhmon-ui.light.min.css
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css/mikhmon-ui.green.min.css
+[2024-03-09 23:36:28][*] Created file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master/css/pace.blue.css
+[2024-03-09 23:36:29][*] Created file: 172.16.28.37:/home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf
+[2024-03-09 23:37:01][!] /home/lubuntu/server2/Nilai prak. Jaringan Komputer_2023.xlsx cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:37:11][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/Cyber Security Essentials ( PDFDrive ).pdf
+[2024-03-09 23:37:14][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2-Article Text-1-1-10-20191112.pdf
+[2024-03-09 23:37:17][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master.zip
+[2024-03-09 23:37:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/K17_P7_asis3.pdf
+[2024-03-09 23:37:21][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/black-white-facebook-symbol.zip
+[2024-03-09 23:37:31][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/bapak.jpeg
+[2024-03-09 23:37:35][!] /home/lubuntu/server2/IMG-20190628-WA0010.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-09 23:37:35][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/bapak(1).jpeg
+[2024-03-09 23:37:37][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/LocalHost.cpython-310.pyc
+[2024-03-09 23:37:39][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/mikhmonv3-master
+[2024-03-09 23:37:45][*] Deleted folder: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE
+[2024-03-09 23:37:47][*] Created folder: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE
+[2024-03-09 23:38:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE/tsetup.4.9.7.tar.xz
+[2024-03-09 23:38:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE/LocalHost.cpython-310.pyc
+[2024-03-09 23:38:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE/tcpproxy.zip
+[2024-03-09 23:38:12][*] Created file: 172.16.28.37:/home/lubuntu/server2/dede FEFEFE/tcpproxy(1).zip
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/command.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-09 23:49:03][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-09 23:49:04][*] Created file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/command.py
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-09 23:49:05][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-09 23:50:19][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/command.py
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-09 23:50:20][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/command.py
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-09 23:50:22][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/command.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/2.docx
+[2024-03-09 23:50:32][*] Deleted file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/clientserver.py
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/peer2peer.py
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/decodebase64.py
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/tes.py
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt.save
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/client.py
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt
+[2024-03-09 23:50:33][*] Created file: 172.16.28.37:/home/lubuntu/server2/test
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/text.txt
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/IMG_85jpg.jpg
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/establish.py
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/pbo.txt.save
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/server.py
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/baru.txt
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/signal-desktop-keyring.gpg
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/command.py
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/1.docx
+[2024-03-09 23:50:34][*] Created file: 172.16.28.37:/home/lubuntu/server2/2.docx

@@ -35,8 +35,13 @@ def download_files_periodically(downFile):
 def start_failover(folderlocal, workers):
     handler = MyHandler(folderlocal, ssh_manager, workers)
     observer.schedule(handler, path=folderlocal, recursive=True)
+
     try:
         observer.start()
+        while True:
+            total_synced_files = handler.get_file_synced()
+            print(f"Total Modified: {total_synced_files}", end='\r')
+            time.sleep(1)
                
     except Exception as e:
         print(f"Error: {str(e)}")
@@ -47,7 +52,7 @@ def start_failover(folderlocal, workers):
         observer.stop()
 
         
-def start_watchdog(folderlocal, target, worker):
+def start_watchdog(folderlocal, target, worker, limit):
     comm = ServerClientCommunication()
     handler = MyHandler(folderlocal, ssh_manager, worker)
     observer.schedule(handler, path=folderlocal, recursive=True)
@@ -71,7 +76,7 @@ def start_watchdog(folderlocal, target, worker):
             
             message = comm.get_received_data()
             if ssh_manager.is_host_online():
-                if total_synced_files >= 10:
+                if total_synced_files >= limit+1:
                     # print("Kondisi1 :" + str(ssh_manager.is_host_online()))
                     handler.setActive(False)
                     comm.start_client(target, {'command': 'START'})
@@ -102,20 +107,15 @@ def start_watchdog(folderlocal, target, worker):
         server_thread.join()
         observer.join()
         observer.stop()
-
-
-
 def stop_watchdog():
     observer.stop()
     observer.join()
     observer.unschedule_all()
     
 def main():
-    
     lhost = localhost.read_localhost_info("lhost.txt")
-
     local_dir = str(lhost.getLocalFolder())
-    downFile = GetFileManager(ssh_manager, local_dir)
+    
     ip_target = ssh_manager.hostname
     signal.signal(signal.SIGINT, cetak_stopped_signal)
     cetak()
@@ -123,27 +123,29 @@ def main():
     print(f"[#] Hostname: {lhost.getHostName()}")
     print(f"[#] Active IP: {lhost.getActiveInterfaceIP()}")
     parser = argparse.ArgumentParser(description="--File Sync SFTP--")
-    parser.add_argument("mode", type=str, help="mode: (2w/fo)\nExample: main.py fo/2w")
+    parser.add_argument("--mode", type=str, default='fo', help="mode (2w/fo) default mode fo ,Example: main.py fo/2w")
     parser.add_argument("--threads", type=int, default=1, help="Number of threads to use (default: 1)")
-
+    parser.add_argument("--limit", type=int, default=10, help="File sync cycle limit (default 10) only 2w mode")
+    
     args = parser.parse_args()
+    downFile = GetFileManager(ssh_manager, local_dir,args.threads)
     
     if not args.mode:
         parser.error("mode is required.")
     elif args.mode == "2w":
         download_thread = threading.Thread(target=download_files_periodically, args=(downFile,))
         download_thread.start()
-        watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target, args.threads))
+        watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target,args.threads, args.limit))
         watchdogThread.start()
 
         download_thread.join()
         watchdogThread.join()
     elif args.mode == "fo":
-        # dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
-        # dwFile.start()
+        dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
+        dwFile.start()
         failThread = threading.Thread(target=start_failover, args=(local_dir,args.threads))
         failThread.start()
-        # dwFile.join()
+        dwFile.join()
         failThread.join()
 
 if __name__ == "__main__":

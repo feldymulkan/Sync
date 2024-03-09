@@ -171,6 +171,7 @@ class MyHandler(FileSystemEventHandler):
                                 if ssh_manager.check_existence(define_folder): 
                                     self.log(f"[*] Created folder: {host_info.hostname}:{define_folder}")
                                     print(f"[*] Created folder: {host_info.hostname}:{define_folder}")
+                                    self.total_create += 1
                             else:
                                 print(f"[+] Folder already created ")
                         elif not event.is_directory:
@@ -206,6 +207,7 @@ class MyHandler(FileSystemEventHandler):
                                 ssh_manager.delete_folder(remote_path)
                                 self.log(f"[*] Deleted folder: {host_info.hostname}:{remote_path}")
                                 print(f"[*] Deleted folder: {host_info.hostname}:{remote_path}")
+                                self.total_delete += 1
                         elif not event.is_directory:
                             if ssh_manager.check_existence(remote_path):
                                 ssh_manager.delete_file(remote_path)
@@ -235,10 +237,12 @@ class MyHandler(FileSystemEventHandler):
                         ssh_manager.rename_folder(def_folder1, def_folder2)
                         self.log(f"[*] Renamed folder: {host_info.hostname}:{def_folder2}")
                         print(f"[*] Renamed folder: {host_info.hostname}:{def_folder2}")
+                        self.total_moved += 1
                     if src_path_server1 != dest_path_server1:
                         ssh_manager.move(def_folder1, def_folder2)
                         self.log(f"[*] Moved folder to: {host_info.hostname}:{def_folder2}")
                         print(f"[*] Moved folder to: {host_info.hostname}:{def_folder2}")
+                        self.total_moved += 1
 
                 elif not event.is_directory:
                     src_full_path_server2 = self.getServerFullPath(src_path_server1)
