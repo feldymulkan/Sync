@@ -27,12 +27,25 @@ class MyHandler(FileSystemEventHandler):
         self.executor = concurrent.futures.ThreadPoolExecutor(max_workers=max_workers)
 
         
-    def calculate_send_speed_mbps(self,total_bytes_sent, start_time):
+    def calculate_send_speed_mbps(self, total_bytes_sent, start_time):
+        import time
+        
         current_time = time.time()
         elapsed_time = current_time - start_time
-        total_bits_sent = total_bytes_sent * 8  # Mengonversi total byte menjadi bit
-        total_mbps = (total_bits_sent / 1000000) / elapsed_time if elapsed_time > 0 else 0  # Menghitung total megabit per detik
-        return round(total_mbps, 1), round(elapsed_time, 2) # Memanggil round() dengan parameter 1 untuk satu angka di belakang koma
+        total_bits_sent = total_bytes_sent * 8
+        total_mbps = (total_bits_sent / 1000000) / elapsed_time if elapsed_time > 0 else 0
+        
+        total_megabytes_sent = total_bytes_sent / (1024 * 1024)
+        speed_mb_per_sec = total_megabytes_sent / elapsed_time if elapsed_time > 0 else 0
+        speed_mb_per_sec = round(speed_mb_per_sec, 2)
+        
+        total_megabits_sent = total_bits_sent / (1024 * 1024)
+        speed_mbps_per_sec = total_megabits_sent / elapsed_time if elapsed_time > 0 else 0
+        speed_mbps_per_sec = round(speed_mbps_per_sec, 2)
+        
+        return round(elapsed_time, 2), speed_mb_per_sec, speed_mbps_per_sec
+
+
 
     def setActive(self,data):
         self.active = data
@@ -180,14 +193,18 @@ class MyHandler(FileSystemEventHandler):
                                 start = time.time()
                                 ssh_manager.send_file(server1_path, server2_path)
                                 total_bytes = os.path.getsize(server1_path)
-                                send_speed , timeSpend= self.calculate_send_speed_mbps(total_bytes, start)
+                                
 
                                 if calculate_md5(server1_path) == ssh_manager.calculate_remote_md5(server2_path):
-                                    send_speed , timeSpend= self.calculate_send_speed_mbps(total_bytes, start)
+                                    timeSpend, Mbps, mbps, = self.calculate_send_speed_mbps(total_bytes, start)
                                     self.log(f"[*] Created file: {host_info.hostname}:{server2_path}")
-                                    print(f"[*] File Created: {host_info.hostname}:{server2_path} : {send_speed} mb/sec : {timeSpend} seconds")
+                                    print(f"[*] File Created: {host_info.hostname}:{server2_path} : {Mbps} Mb/sec :{mbps} mb/sec : {timeSpend} seconds")
                                     self.total_create += 1
-
+            else:
+                if event.is_directory:
+                    print(f'[*] Created local folder on: {server1_path}')
+                else:
+                    print(f'[*] Created local file on: {server1_path}')
         except Exception as e:
             print(f"[!] Error in on_created: {str(e)}")
 
@@ -271,7 +288,10 @@ class MyHandler(FileSystemEventHandler):
                                 ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
                                 self.total_moved += 1
             else:
-                print(f'[*] Modified local file on: {src_path_server1}')
+                if event.is_directory:
+                    print(f'[*] Modified local folder on: {src_path_server1}')
+                else:
+                    print(f'[*] Modified local file on: {src_path_server1}')
         except Exception as e:
             print(f"[!] Error in on_moved: {str(e)}")
 

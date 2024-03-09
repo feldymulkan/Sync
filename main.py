@@ -27,10 +27,10 @@ def cetak():
                                     |_|  
     """
     print(artwork)
-def download_files_periodically(downFile):
+def download_files_periodically(downFile, period):
     while True:
         downFile.download_files_from_server()
-        time.sleep(3600)
+        time.sleep(period)
         
 def start_failover(folderlocal, workers):
     handler = MyHandler(folderlocal, ssh_manager, workers)
@@ -78,9 +78,9 @@ def start_watchdog(folderlocal, target, worker, limit):
             if ssh_manager.is_host_online():
                 if total_synced_files >= limit+1:
                     # print("Kondisi1 :" + str(ssh_manager.is_host_online()))
+                    handler.resetTotalFile()
                     handler.setActive(False)
                     comm.start_client(target, {'command': 'START'})
-                    handler.resetTotalFile()
                     continue
                 elif message:
                     # print("Kondisi2 :" + str(ssh_manager.is_host_online()))
@@ -126,7 +126,7 @@ def main():
     parser.add_argument("--mode", type=str, default='fo', help="mode (2w/fo) default mode fo ,Example: main.py fo/2w")
     parser.add_argument("--threads", type=int, default=1, help="Number of threads to use (default: 1)")
     parser.add_argument("--limit", type=int, default=10, help="File sync cycle limit (default 10) only 2w mode")
-    
+    parser.add_argument("--period", type=int, default=3600, help="Time period File Downloads (in Second)")
     args = parser.parse_args()
     downFile = GetFileManager(ssh_manager, local_dir,args.threads)
     
@@ -141,11 +141,11 @@ def main():
         download_thread.join()
         watchdogThread.join()
     elif args.mode == "fo":
-        dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
-        dwFile.start()
+        # dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
+        # dwFile.start()
         failThread = threading.Thread(target=start_failover, args=(local_dir,args.threads))
         failThread.start()
-        dwFile.join()
+        # dwFile.join()
         failThread.join()
 
 if __name__ == "__main__":
