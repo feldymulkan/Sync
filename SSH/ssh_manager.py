@@ -280,6 +280,16 @@ class SSHManager:
             print(f"SSH Error: {str(e)}")
         except Exception as e:
             print(f"Error moving folder: {str(e)}")
+            
+    def reconnect(self):
+        print("Reconnecting SSH...")
+        self.close()  # Tutup koneksi yang ada
+        self.connect()  # Coba membuat koneksi baru
+        if self.client is not None:
+            print("SSH reconnected successfully.")
+        else:
+            print("Failed to reconnect SSH.")
+
 
     # def compare_local_remote_metadata(self, local_path, remote_path):
     #     try:

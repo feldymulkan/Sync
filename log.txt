@@ -17823,3 +17823,27 @@
 [2024-03-10 01:05:52][*] Created file: 172.16.28.79:/home/lubuntu/server2/The Panturas Area Lepas Pantai, Tipu Daya, Tafsir Mistik, Jim Labrador (Live at JATINANGOR).mp4
 [2024-03-10 01:15:19][*] Deleted file: 172.16.28.79:/home/lubuntu/server2/S1.zip
 [2024-03-10 01:15:22][*] Created file: 172.16.28.79:/home/lubuntu/server2/S1.zip
+[2024-03-12 13:53:01][*] Created file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 13:53:30][*] Created file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-12 13:56:13][!] /home/server2/server2/411476-PD51GB-607.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-12 13:56:26][!] /home/server2/server2/ONBOARDING SAT 23092023.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-12 13:57:27][*] Deleted file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 13:57:29][*] Created file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 13:59:07][!] /home/server2/server2/411476-PD51GB-607.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-12 13:59:10][!] /home/server2/server2/ONBOARDING SAT 23092023.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-12 14:00:00][!] /home/server2/server2/411476-PD51GB-607.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-12 14:07:28][*] Deleted file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-12 14:07:37][*] Created file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-12 14:07:38][*] Deleted file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 14:07:43][*] Created file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 14:07:47][*] Deleted file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-12 14:07:58][*] Created file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-12 14:09:52][*] Deleted file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 14:09:56][*] Created file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 14:12:02][!] /home/server2/server2/411476-PD51GB-607.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-12 14:12:10][!] /home/server2/server2/ONBOARDING SAT 23092023.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-12 14:12:18][!] /home/server2/server2/411476-PD51GB-607.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-12 14:14:33][*] Deleted file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-12 14:14:42][*] Created file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-12 14:16:11][*] Deleted file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-12 14:16:13][*] Created file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg

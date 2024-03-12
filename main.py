@@ -31,17 +31,28 @@ def download_files_periodically(downFile, period):
     while True:
         downFile.download_files_from_server()
         time.sleep(period)
-        
+
+ 
 def start_failover(folderlocal, workers):
     handler = MyHandler(folderlocal, ssh_manager, workers)
     observer.schedule(handler, path=folderlocal, recursive=True)
 
     try:
         observer.start()
+
         while True:
             total_synced_files = handler.get_file_synced()
             print(f"Total Modified: {total_synced_files}", end='\r')
             time.sleep(1)
+            if ssh_manager.is_host_online():
+                handler.setActive(True)
+                continue
+            else:
+                handler.setActive(False)    
+                ssh_manager.reconnect()
+                print("hello")
+                continue
+                    
                
     except Exception as e:
         print(f"Error: {str(e)}")
@@ -141,11 +152,10 @@ def main():
         download_thread.join()
         watchdogThread.join()
     elif args.mode == "fo":
-        # dwFile = threading.Thread(target=download_files_periodically, args=(downFile,))
-        # dwFile.start()
+
         failThread = threading.Thread(target=start_failover, args=(local_dir,args.threads))
         failThread.start()
-        # dwFile.join()
+        
         failThread.join()
 
 if __name__ == "__main__":
