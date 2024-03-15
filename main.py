@@ -137,14 +137,14 @@ def main():
     parser.add_argument("--mode", type=str, default='fo', help="mode (2w/fo) default mode fo ,Example: main.py fo/2w")
     parser.add_argument("--threads", type=int, default=1, help="Number of threads to use (default: 1)")
     parser.add_argument("--limit", type=int, default=10, help="File sync cycle limit (default 10) only 2w mode")
-    parser.add_argument("--period", type=int, default=3600, help="Time period File Downloads (in Second)")
+    parser.add_argument("--period", type=int, default=3600, help="Time period File Downloads (in Second) only 2w mode")
     args = parser.parse_args()
     downFile = GetFileManager(ssh_manager, local_dir,args.threads)
     
     if not args.mode:
         parser.error("mode is required.")
     elif args.mode == "2w":
-        download_thread = threading.Thread(target=download_files_periodically, args=(downFile,))
+        download_thread = threading.Thread(target=download_files_periodically, args=(downFile,args.period))
         download_thread.start()
         watchdogThread = threading.Thread(target=start_watchdog, args=(local_dir,ip_target,args.threads, args.limit))
         watchdogThread.start()
