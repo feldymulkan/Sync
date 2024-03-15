@@ -155,7 +155,6 @@ def main():
 
         failThread = threading.Thread(target=start_failover, args=(local_dir,args.threads))
         failThread.start()
-        
         failThread.join()
 
 if __name__ == "__main__":
