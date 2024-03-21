@@ -1,26 +1,14 @@
 import psutil
-import tkinter as tk
+import time
 
-# Fungsi untuk memperbarui label dengan persentase CPU dan RAM yang baru
-def update_labels():
+def print_usage():
     cpu_percent = psutil.cpu_percent(interval=1)
-    ram_percent = psutil.virtual_memory().percent
-    cpu_label.config(text=f"CPU Usage: {cpu_percent:.2f}%")
-    ram_label.config(text=f"RAM Usage: {ram_percent:.2f}%")
-    root.after(1000, update_labels)  # Memperbarui setiap 1 detik
+    cpu_cores = psutil.cpu_count(logical=False)
+    ram = psutil.virtual_memory()
+    ram_percent = ram.percent
+    ram_mb = ram.used / 1024 / 1024  # Memori RAM dalam MB
+    print(f"\rCPU Usage: {cpu_percent:.2f}% ({cpu_cores} cores) | RAM Usage: {ram_percent:.2f}% ({ram_mb:.2f} MB)", end='', flush=True)
 
-# Membuat jendela utama
-root = tk.Tk()
-root.title("System Monitor")
-
-# Membuat label untuk menampilkan persentase CPU dan RAM
-cpu_label = tk.Label(root, text="")
-cpu_label.pack()
-ram_label = tk.Label(root, text="")
-ram_label.pack()
-
-# Memulai pembaruan label
-update_labels()
-
-# Menjalankan loop utama
-root.mainloop()
+while True:
+    print_usage()
+    time.sleep(1)
