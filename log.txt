@@ -17847,3 +17847,149 @@
 [2024-03-12 14:14:42][*] Created file: 172.16.28.252:/home/server2/server2/ONBOARDING SAT 23092023.pdf
 [2024-03-12 14:16:11][*] Deleted file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
 [2024-03-12 14:16:13][*] Created file: 172.16.28.252:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-23 11:46:53][!] /home/server2/server2/ONBOARDING SAT 23092023.pdf cannot be deleted as it doesn't exist on the server.
+[2024-03-23 11:46:53][!] /home/server2/server2/411476-PD51GB-607.jpg cannot be deleted as it doesn't exist on the server.
+[2024-03-23 11:46:53][*] Created file: 172.16.28.249:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-23 11:47:02][*] Created file: 172.16.28.249:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-23 11:48:40][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 11:49:03][*] Created file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 11:49:06][*] Created file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 11:49:09][*] Created file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 11:49:15][*] Created file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 11:49:27][*] Created file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 11:49:30][*] Created file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 11:49:31][*] Created file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 11:49:32][*] Created file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 11:49:40][*] Created file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/ONBOARDING SAT 23092023.pdf
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/411476-PD51GB-607.jpg
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 11:50:18][*] Deleted file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 11:53:45][*] Created file: 172.16.28.249:/home/server2/server2/tcpproxy.zip
+[2024-03-23 11:53:45][*] Created file: 172.16.28.249:/home/server2/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-2.pdf
+[2024-03-23 11:53:45][*] Created file: 172.16.28.249:/home/server2/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-1.pdf
+[2024-03-23 11:53:45][*] Created file: 172.16.28.249:/home/server2/server2/21.04.2872_jurnal_eproc.pdf
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer.pdf
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/permohonan mutasi.pdf
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/IMG-20190628-WA0010.jpg
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/K17_P7_asis3.pdf
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/mpi-prime.c
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/3577-9874-1-PB.pdf
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/494-Article Text-903-1-10-20190511.pdf
+[2024-03-23 11:53:46][*] Created file: 172.16.28.249:/home/server2/server2/2-Article Text-1-1-10-20191112.pdf
+[2024-03-23 12:01:41][*] Deleted file: 172.16.28.249:/home/server2/server2/2-Article Text-1-1-10-20191112.pdf
+[2024-03-23 12:01:42][*] Created file: 172.16.28.249:/home/server2/server2/2-Article Text-1-1-10-20191112.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/tcpproxy.zip
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/Silabus_CCNA Network Engineer.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/permohonan mutasi.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/K17_P7_asis3.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/IMG-20190628-WA0010.jpg
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/feldy.c
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-2.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer-1.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/Bukti Pendaftaran_FELDY NOVANDA MULKAN_CCNA Network Engineer.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/3577-9874-1-PB.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/494-Article Text-903-1-10-20190511.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/21.04.2872_jurnal_eproc.pdf
+[2024-03-23 12:03:42][*] Deleted file: 172.16.28.249:/home/server2/server2/2-Article Text-1-1-10-20191112.pdf
+[2024-03-23 12:03:58][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:05:54][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:07:30][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:11:20][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:11:27][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:13:08][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:13:15][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:14:16][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:14:25][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:18:52][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:18:59][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:21:40][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:21:48][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:22:16][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:22:17][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:22:29][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:22:31][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:23:28][*] Created file: 172.16.28.249:/home/server2/server2/tes.txt
+[2024-03-23 12:25:08][*] Created file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 12:25:09][*] Created file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 12:25:12][*] Created file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 12:25:12][*] Created file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 12:25:14][*] Created file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 12:25:15][*] Created file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:25:15][*] Created file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:25:17][*] Created file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:25:17][*] Created file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/tes.txt
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:28:49][*] Deleted file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:28:53][*] Created file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:28:53][*] Created file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:28:54][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:28:57][*] Created file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 12:28:58][*] Created file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:28:58][*] Created file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:28:58][*] Created file: 172.16.28.249:/home/server2/server2/tes.txt
+[2024-03-23 12:28:58][*] Created file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 12:28:59][*] Created file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 12:29:03][*] Created file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 12:29:03][*] Created file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 12:31:29][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:31:29][*] Deleted file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:31:29][*] Deleted file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:31:29][*] Deleted file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:31:29][*] Deleted file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:31:32][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:31:33][*] Created file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:31:33][*] Created file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:31:34][*] Created file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:31:34][*] Created file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/tes.txt
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:32:05][*] Deleted file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:32:10][*] Created file: 172.16.28.249:/home/server2/server2/10M
+[2024-03-23 12:32:12][*] Created file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:32:14][*] Created file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:32:15][*] Created file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:32:15][*] Created file: 172.16.28.249:/home/server2/server2/tes.txt
+[2024-03-23 12:32:16][*] Created file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 12:32:17][*] Created file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:32:17][*] Created file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 12:32:18][*] Created file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 12:32:20][*] Created file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 12:32:20][*] Created file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/90M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/tes.txt
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/100M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/80M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/60M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/70M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/50M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/30M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/40M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/20M
+[2024-03-23 12:33:19][*] Deleted file: 172.16.28.249:/home/server2/server2/10M

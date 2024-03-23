@@ -1,4 +1,4 @@
-hostname=172.16.28.252
+hostname=172.16.28.249
 port=22
 username=server2
 password=jarkom123

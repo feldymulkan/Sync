@@ -69,7 +69,7 @@ def start_watchdog(folderlocal, target, worker, limit):
     observer.schedule(handler, path=folderlocal, recursive=True)
     status = True
     server_thread = threading.Thread(target=comm.start_server, args=('0.0.0.0',))
-    # isOnlineThread = threading.Thread(target=ssh_manager.is_host_online)
+    
     handler.setActive(True)
     try:
         server_thread.start() 

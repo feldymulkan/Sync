@@ -25,7 +25,6 @@ class MyHandler(FileSystemEventHandler):
         self.total_bytes_synced = 0
         self.active = True
         self.executor = concurrent.futures.ThreadPoolExecutor(max_workers=max_workers)
-
         
     def calculate_send_speed_mbps(self, total_bytes_sent, start_time):
         import time
@@ -152,9 +151,9 @@ class MyHandler(FileSystemEventHandler):
                                     local_modified_time = os.path.getmtime(server1_path)
                                     remote_modified_time = ssh_manager.get_file_mtime(server2_path)
                                     if local_modified_time > remote_modified_time: 
-                                        if calculate_md5(server1_path)!= ssh_manager.calculate_remote_md5(server2_path):
+                                        if calculate_md5(server1_path)!= ssh_manager.check_remote_md5(server2_path):
                                             ssh_manager.send_changed_file_parts(server1_path, server2_path)
-                                            if file_existence == True and calculate_md5(server1_path)== ssh_manager.calculate_remote_md5(server2_path):
+                                            if file_existence == True and calculate_md5(server1_path)== ssh_manager.check_remote_md5(server2_path):
                                                 # self.total_files_synced +=1
                                                 print(f'[*] Modified file on: {host_info.hostname}:{server2_path}')
                                                 self.total_modif += 1
@@ -194,11 +193,11 @@ class MyHandler(FileSystemEventHandler):
                                 ssh_manager.send_file(server1_path, server2_path)
                                 total_bytes = os.path.getsize(server1_path)
                                 
-
-                                if calculate_md5(server1_path) == ssh_manager.calculate_remote_md5(server2_path):
-                                    timeSpend, Mbps, mbps, = self.calculate_send_speed_mbps(total_bytes, start)
+                                if calculate_md5(server1_path) == ssh_manager.check_remote_md5(server2_path):
+                                    # print(ssh_manager.check_remote_md5(server2_path))
+                                    timeSpend, MBps, mbps, = self.calculate_send_speed_mbps(total_bytes, start)
                                     self.log(f"[*] Created file: {host_info.hostname}:{server2_path}")
-                                    print(f"[*] File Created: {host_info.hostname}:{server2_path} : {Mbps} Mb/sec :{mbps} mb/sec : {timeSpend} seconds")
+                                    print(f"[*] File Created: {host_info.hostname}:{server2_path} : {MBps} MB/sec :{mbps} Mb/sec : {timeSpend} seconds")
                                     self.total_create += 1
             else:
                 if event.is_directory:
@@ -266,25 +265,25 @@ class MyHandler(FileSystemEventHandler):
                     dest_full_path_server2 = self.getServerFullPath(dest_path_server1)
                     if not src_path_server1.startswith('.') or not src_full_path_server2.startswith('.'):
                         if self.ignore_tempfile(src_path_server1) or self.ignore_tempfile(src_full_path_server2):
-                            if is_same_filename(dest_path_server1, dest_full_path_server2) and calculate_md5(
-                                    dest_path_server1) != ssh_manager.calculate_remote_md5(dest_full_path_server2):
-                                ssh_manager.send_changed_file_parts(dest_path_server1, dest_full_path_server2)
-                                print(f'[*] Modified file on: {host_info.hostname}:{dest_full_path_server2}')
-                                self.total_moved += 1
+                            if is_same_filename(dest_path_server1, dest_full_path_server2):
+                                if calculate_md5(dest_path_server1) != ssh_manager.check_remote_md5(dest_full_path_server2):
+                                    ssh_manager.send_changed_file_parts(dest_path_server1, dest_full_path_server2)
+                                    print(f'[*] Modified file on: {host_info.hostname}:{dest_full_path_server2}')
+                                    self.total_moved += 1
+                                
                         elif not (self.ignore_tempfile(src_path_server1) or self.ignore_tempfile(dest_path_server1)):
-                            if not is_same_filename(dest_path_server1,
-                                                     src_full_path_server2) and calculate_md5(
-                                dest_path_server1) == ssh_manager.calculate_remote_md5(src_full_path_server2):
-                                ssh_manager.rename_file(src_full_path_server2, dest_full_path_server2)
-                                print(f"[*] Rename file Success: {host_info.hostname}:{src_full_path_server2} => {host_info.hostname}:{dest_full_path_server2}")
-                                self.total_moved += 1
+                            if not is_same_filename(dest_path_server1, src_full_path_server2):
+                                if calculate_md5(dest_path_server1) == ssh_manager.check_remote_md5(src_full_path_server2): 
+                                    ssh_manager.rename_file(src_full_path_server2, dest_full_path_server2)
+                                    print(f"[*] Rename file Success: {host_info.hostname}:{src_full_path_server2} => {host_info.hostname}:{dest_full_path_server2}")
+                                    self.total_moved += 1
                             elif src_path_server1 != dest_path_server1:
                                 ssh_manager.move(src_full_path_server2, dest_full_path_server2)
                                 self.log(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
                                 print(f"[*] Moved file to: {host_info.hostname}:{dest_full_path_server2}")
                                 self.total_moved += 1
                             else:
-                                print("TES")
+                                
                                 ssh_manager.send_and_replace_file(dest_path_server1, dest_full_path_server2)
                                 self.total_moved += 1
             else:

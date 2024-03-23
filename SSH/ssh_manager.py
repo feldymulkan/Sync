@@ -1,9 +1,9 @@
 import paramiko
 import hashlib
+import subprocess
 import socket
-import os
-import time
 from Compare import compare
+
 
 
 class SSHManager:
@@ -179,7 +179,6 @@ class SSHManager:
                         break
                     md5.update(data)
                     bytes_read += len(data)
-
             sftp.close()
             md5_hash = md5.hexdigest()
             return md5_hash
@@ -191,6 +190,21 @@ class SSHManager:
             print(f"Error calculating remote MD5 hash: {str(e)}")
             return None
 
+    def check_remote_md5(self, remote_file_path):
+        try:
+            if not self.client:
+                self.connect()
+
+            stdin, stdout, stderr = self.client.exec_command(f"md5sum {remote_file_path}")
+            md5_hash = stdout.read().decode().split()[0]
+
+            return md5_hash.strip()
+        except Exception as e:
+            print(f"Error calculating remote MD5 hash: {str(e)}")
+            return None
+
+
+    
     def list_files_and_folders(self, remote_path):
         try:
             sftp = self.client.open_sftp()
